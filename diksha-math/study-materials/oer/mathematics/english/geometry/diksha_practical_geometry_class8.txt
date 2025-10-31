@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>NDLI: Practical Geometry : Mathematics Textbook - CBSE Class VIII</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="stylesheet" type="text/css" href="/libs/bootstrap-5.3.6-dist/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="/libs/bootswatch-5.3/dist/materia/bootstrap.css"/>
+<link rel="stylesheet" type="text/css" href="/libs/bootstrap-select-1.14.0-beta/css/bootstrap-select.min.css"/>
+<link rel="stylesheet" type="text/css" href="/libs/fontawesome-free-6.5.2/css/all.css"/>
+<link rel="stylesheet" type="text/css" href="/libs/owl-carousel-2.3.4/dist/assets/owl.carousel.min.css"/>
+<link rel="stylesheet" type="text/css" href="/libs/owl-carousel-2.3.4/dist/assets/owl.theme.default.min.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/css/style.css?v=2024-03-27"/>
+<link rel="stylesheet" type="text/css" href="/assets/css/document.css?v=2024-03-27"/>
+<script type="text/javascript" charset="utf8" src="/libs/mathjax-2.7.9/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/javascript" charset="utf8" src="/libs/jquery/jquery-3.7.1.min.js"></script>
+<script type="text/javascript" charset="utf8" src="/libs/popper.js-2.6.0/popper.min.js"></script>
+<script type="text/javascript" charset="utf8" src="/libs/bootstrap-5.3.6-dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" charset="utf8" src="/libs/bootstrap-select-1.14.0-beta/js/bootstrap-select.min.js"></script>
+<script type="text/javascript" charset="utf8" src="/libs/owl-carousel-2.3.4/dist/owl.carousel.min.js"></script>
+<script type="text/javascript" charset="utf8" src="/assets/js/mathjax.js"></script>
+<script type="text/javascript" charset="utf8" src="/libs/md5.js"></script>
+<script type="text/javascript" charset="utf8" src="/assets/js/script.js?v=2024-03-27"></script>
+<script type="text/javascript" charset="utf8" src="/assets/js/account.js?v=2024-03-27"></script>
+<script type="text/javascript" charset="utf8" src="/assets/js/document.js?v=2024-03-27"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			startTypeSetting("tab-metadata");
+
+			// loader
+			$("#content-holder").on("load", function() {
+				$("#loader").hide();
+				$("#content-holder").show();
+			});
+
+			// resizing stitching pane
+			$(window).on("resize", function() {
+				var height = $(window.top).height() - ($("header").height() + $("footer").height());
+				$("#stitching-pane").height(height);
+				$(".sidebar").height(height);
+				if (window.innerWidth < 800) {
+					$("#sitch-ctrl").removeClass("open");
+					$("#sitch-ctrl").addClass("close");
+					$("#sitch-ctrl").html('<i class="fa-solid fa-angles-left"></i>');
+					$("#stitching-pane").hide();
+					$("#content-pane").removeClass("col-8");
+					$("#content-pane").addClass("col-12");
+				} else {
+					$("#sitch-ctrl").removeClass("close");
+					$("#sitch-ctrl").addClass("open");
+					$("#sitch-ctrl").html('<i class="fa-solid fa-angles-right"></i>');
+					$("#content-pane").removeClass("col-12");
+					$("#content-pane").addClass("col-8");
+					$("#stitching-pane").show();
+				}
+			}).trigger("resize");
+
+			// stitching open/close
+			$("#sitch-ctrl").on("click", function() {
+				if ($("#sitch-ctrl").hasClass("open")) {
+					$("#sitch-ctrl").removeClass("open");
+					$("#sitch-ctrl").addClass("close");
+					$("#sitch-ctrl").html('<i class="fa-solid fa-angles-left"></i>');
+					$("#stitching-pane").hide();
+					$("#content-pane").removeClass("col-8");
+					$("#content-pane").addClass("col-12");
+				} else {
+					$("#sitch-ctrl").removeClass("close");
+					$("#sitch-ctrl").addClass("open");
+					$("#sitch-ctrl").html('<i class="fa-solid fa-angles-right"></i>');
+					$("#content-pane").removeClass("col-12");
+					$("#content-pane").addClass("col-8");
+					$("#stitching-pane").show();
+				}
+			});
+
+					});
+
+		function open_citation() {
+			$("#modal_cite").modal("show");
+		}
+	</script>
+
+	<style type="text/css">
+		#stitching-pane,
+		#content-pane {
+			-webkit-transition: all 0.2s ease;
+			-moz-transition: all 0.2s ease;
+			-o-transition: all 0.2s ease;
+			transition: all 0.2s ease;
+		}
+
+		#content-holder {
+			width: 100%;
+			height: 100%;
+			border: none;
+			display: none;
+		}
+
+		#stitching-pane {
+			overflow-y: scroll;
+		}
+
+		#tab-metadata .img-thumbnail {
+			margin-top: 50px;
+			float: right !important;
+			margin-right: 10px;
+		}
+
+		#tab-metadata th {
+			width: 250px;
+			white-space: nowrap;
+		}
+
+		#tab-metadata {
+			padding: 5px;
+		}
+
+		#tab-metadata i {
+			font-size: .5em;
+			vertical-align: middle;
+		}
+
+		#tab-content {
+			margin: 0px;
+		}
+
+		#tab-content .img-thumbnail {
+			width: -webkit-fill-available;
+		}
+
+		#tab-metadata,
+		#tab-related {
+			overflow-y: scroll;
+			height: inherit;
+		}
+
+		.breadcrumb {
+			margin: 2px;
+			font-size: small;
+		}
+
+		#stitching-pane .list-group-item {
+			border: 1px solid rgba(0, 0, 0, 0.05);
+		}
+
+		#sitch-ctrl {
+			margin-top: -2px;
+			padding: 2px 10px !important;
+		}
+	</style>
+</head>
+
+<body>
+	<!-- header -->
+	<link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@700&display=swap" rel="stylesheet">
+	<div class="fix-header">
+		<header>
+			<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-primary">
+				<div class="container-fluid">
+					<a class="navbar-brand" href="/">
+						<img style="width:100%;" loading="lazy" src="/assets/img/ndli-logo-lg-white.svg" alt="WebSite Logo">
+					</a>
+					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar_header" aria-controls="navbar_header" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbar_header">
+							<img height="20px" class="pe-3" src="/assets/img/line-arrow.svg">
+								<ul class="navbar-nav">
+									<li id="domain-home" class="nav-item" title="School Education Home">				<a id="nav-home" class="navbar-brand" href="/ndl_se">						<img height="100%" loading="lazy" src="/assets/img/domains/se-small.png">					</a>
+									</li>
+								<li class="nav-item">
+									<a id="nav-content" class="nav-link active" href="javascript:void(0)">
+										<i class="fa-solid fa-book-open"></i> Content
+									</a>
+								</li>
+								<li class="nav-item">
+									<a id="nav-related" class="nav-link" href="javascript:void(0)">
+										<i class="fa-solid fa-link"></i> Similar Resources
+									</a>
+								</li>
+								<li class="nav-item">
+									<a id="nav-metadata" class="nav-link" href="javascript:void(0)">
+										<i class="fa-solid fa-newspaper"></i> Metadata
+									</a>
+								</li>		</ul>
+						<ul class="navbar-nav justify-content-end">
+							<li class="nav-item">
+								<a class="nav-link" data-bs-toggle="modal" href="javascript:void(0)" data-bs-target="#modal_login">
+									<i class="fa-solid fa-right-to-bracket"></i> Log-in
+								</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="javascript:toggle_fullscreen();">
+									<i class="fa-solid fa-expand-arrows-alt" id="btn-fullscreen"></i> Fullscreen
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+		</header>
+	</div>
+<script>
+	$(document).ready(function() {
+		$("#user-login").submit(function() {
+			$("#login_pass").val(CryptoJS.MD5($("#login_pass").val()));
+		});
+	});
+</script>
+<div class="modal fade" id="modal_login" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<form action="/page-login.php" id="user-login" autocomplete="off" spellcheck="false" method="post" enctype="multipart/form-data">
+				<div class="modal-header">
+					<h5 class="modal-title">
+						<i class="fa-solid fa-sign-in-alt"></i> Log-in
+					</h5>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true"></span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="form-group">
+						<div class="form-floating">
+							<input type="email" class="form-control" id="login_email" name="login_email" placeholder=" " required="required" autofocus="autofocus"> <label for="login_email"><i class="fa-solid fa-envelope"></i> Email</label>
+						</div>
+						<div class="form-floating">
+							<input type="password" class="form-control" id="login_pass" name="login_pass" placeholder=" " required="required"> <label for="login_pass"><i class="fa-solid fa-unlock"></i> Password</label>
+						</div>
+					</div>
+					<div class="border-top pt-3 row text-center">
+						<div class="col-sm-6 d-grid gap-2">
+							<small class="text-muted">Do not have an account?</small>
+							<a href="/account/registration" class="text-primary"> <i class="fa-solid fa-user-plus"></i> Register Now</a>
+						</div>
+						<div class="col-sm-6 d-grid gap-2">
+							<small class="text-muted">Forgot your password?</small>
+							<a href="/account/recovery" class="text-danger"> <i class="fa-solid fa-user-clock"></i> Account recovery</a>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<div class="form-check me-5" title="Remembers you even if you close the browser">
+						<input class="form-check-input" type="checkbox" value="" id="chk-login" name="persist">
+						<label class="form-check-label" for="chk-login">
+							Keep me Logged-in
+						</label>
+					</div>
+					<input type="hidden" name="referer" value="/se_document/diksha/diksha/31307360985089638412318_31310347515146240011465_31310347515146240011465">
+					<button type="submit" class="btn btn-primary">
+						<i class="fa-solid fa-sign-in-alt"></i> Log-in
+					</button>
+					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+						<i class="fa-solid fa-times"></i> Close
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+	<!-- main -->
+	<main class="container-fluid" style="overflow: hidden;">
+
+		<!-- content -->
+		<div id="tab-content">
+			<script>
+				var s=false;
+				$(window).focus(function() {
+					var name = "accio=";
+					var ca = document.cookie.split(";");
+					for (var i = 0; i < ca.length; i++) {
+						var c = ca[i].trim();
+						if (c.indexOf(name) == 0){
+							if(!window.s){
+								location.reload();
+								return;
+							}
+							break;
+						}
+					}
+					if(ca.length == i && window.s){
+						location.reload();
+					}
+				});
+			</script><div class="row m-0">
+						<div class="col-8 p-0" id="content-pane"><div class="row border-bottom m-0 p-0 g-0">
+							<div class="col-sm-11">
+							<nav aria-label="breadcrumb" class="text-small" id="breadcrumb">
+								<ol class="breadcrumb overflow-ellipsis ps-1">	<li class="breadcrumb-item"><a href="/se_document/diksha/diksha/root" title="DIKSHA">DIKSHA</a></li>	<li class="breadcrumb-item"><a href="/se_document/diksha/diksha/IN__C__168_169" title="CBSE Board Study Materials">CBSE Board Study Materials</a></li>	<li class="breadcrumb-item"><a href="/se_document/diksha/diksha/IN__C__168_C_V__40_257" title="Class VIII">Class VIII</a></li>	<li class="breadcrumb-item"><a href="/se_document/diksha/diksha/31310347515146240011465_31310347515146240011465" title="Mathematics Textbook">Mathematics Textbook</a></li>	<li class="breadcrumb-item active" aria-current="page" title="Practical Geometry">Practical Geometry</li>		</ol>
+							</nav>
+							</div>
+							<div class="col-sm-1 text-end">
+								<button class="btn btn-sm btn-primary open" id="sitch-ctrl"><i class="fa-solid fa-angles-right"></i></button>
+							</div>
+							</div><div id="loader" class="text-center">
+			<div class="spinner-border m-5" role="status" style="width: 3rem; height: 3rem;">
+				<span class="visually-hidden">Loading...</span>
+			</div>
+			<p>Please wait, while we are loading the content...</p>
+			<div class="main-item">
+				<div class="animated-background">
+					<div class="background-masker btn-divide-left"></div>
+				</div>
+			</div>
+		</div>		<iframe id="content-holder" src="/module-viewer/viewer.php?id=diksha/diksha/31307360985089638412318_31310347515146240011465_31310347515146240011465&domain=se"></iframe>		</div>
+						<div class="col-4 p-0 border-start" id="stitching-pane"><div class="list-group"><div class="accordion" id="accr_diksha_diksha_IN__C__168_169"><a href="/se_document/diksha/diksha/IN__C__168_169" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-down"></i> CBSE Board Study Materials
+			</a><div class="ms-3 accordion-collapse collapse show" id="col_diksha_diksha_IN__C__168_169" data-bs-parent="#accr_diksha_diksha_IN__C__168_169"><div class="list-group"><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_I__54_497"><a href="/se_document/diksha/diksha/IN__C__168_C_I__54_497" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class I
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_I__11_496"><a href="/se_document/diksha/diksha/IN__C__168_C_I__11_496" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class II
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_I__45_495"><a href="/se_document/diksha/diksha/IN__C__168_C_I__45_495" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class III
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_I__7_505"><a href="/se_document/diksha/diksha/IN__C__168_C_I__7_505" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class IV
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_V__74_493"><a href="/se_document/diksha/diksha/IN__C__168_C_V__74_493" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class V
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_V__15_243"><a href="/se_document/diksha/diksha/IN__C__168_C_V__15_243" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class VI
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_V__57_225"><a href="/se_document/diksha/diksha/IN__C__168_C_V__57_225" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class VII
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_V__40_257"><a href="/se_document/diksha/diksha/IN__C__168_C_V__40_257" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-down"></i> Class VIII
+			</a><div class="ms-3 accordion-collapse collapse show" id="col_diksha_diksha_IN__C__168_C_V__40_257" data-bs-parent="#accr_diksha_diksha_IN__C__168_C_V__40_257"><div class="list-group"><div class="accordion" id="accr_diksha_diksha_31310347514754662411393_31310347514754662411393"><a href="/se_document/diksha/diksha/31310347514754662411393_31310347514754662411393" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Honeydew
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347514952908811463_31310347514952908811463"><a href="/se_document/diksha/diksha/31310347514952908811463_31310347514952908811463" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> It so happened English Supplementary Book
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347514050150411461_31310347514050150411461"><a href="/se_document/diksha/diksha/31310347514050150411461_31310347514050150411461" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> वसंत भाग-3
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347514521190411294_31310347514521190411294"><a href="/se_document/diksha/diksha/31310347514521190411294_31310347514521190411294" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> दूर्वा भाग - 3
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347514295910411292_31310347514295910411292"><a href="/se_document/diksha/diksha/31310347514295910411292_31310347514295910411292" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> भारत की खोज
+			</a></div><div class="accordion" id="accr_diksha_diksha_313254358704037888128683_313254358704037888128683"><a href="/se_document/diksha/diksha/313254358704037888128683_313254358704037888128683" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Hindi CCT Practice book
+			</a></div><div class="accordion" id="accr_diksha_diksha_312989549060849664160_312989549060849664160"><a href="/se_document/diksha/diksha/312989549060849664160_312989549060849664160" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> रुचिरा तृतीयो भाग
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347515623014411296_31310347515623014411296"><a href="/se_document/diksha/diksha/31310347515623014411296_31310347515623014411296" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Science Textbook
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347515869593611414_31310347515869593611414"><a href="/se_document/diksha/diksha/31310347515869593611414_31310347515869593611414" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> विज्ञान पाठ्यपुस्तक
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-down"></i> Mathematics Textbook
+			</a><div class="ms-3 accordion-collapse collapse show" id="col_diksha_diksha_31310347515146240011465_31310347515146240011465" data-bs-parent="#accr_diksha_diksha_31310347515146240011465_31310347515146240011465"><div class="list-group"><div class="accordion" id="accr_diksha_diksha_31307360985068339212250_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985068339212250_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Rational Numbers
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985074073612268_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985074073612268_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Linear Equations in One Variable
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985111756812392_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985111756812392_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Understanding Quadrilaterals
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985089638412318_31310347515146240011465_31310347515146240011465"><a href="#diksha_diksha_31307360985089638412318_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action active accordion-button overflow-ellipsis" aria-current="true" data-bs-toggle="collapse" data-bs-target="#col_diksha_diksha_31307360985089638412318_31310347515146240011465_31310347515146240011465" aria-expanded="true" aria-controls="col_diksha_diksha_31307360985089638412318_31310347515146240011465_31310347515146240011465" onclick="javascript:toggle($(this))"><i class="fa fa-chevron-circle-down"></i> Practical Geometry
+			</a><div class="ms-3 accordion-collapse collapse show" id="col_diksha_diksha_31307360985089638412318_31310347515146240011465_31310347515146240011465" data-bs-parent="#accr_diksha_diksha_31307360985089638412318_31310347515146240011465_31310347515146240011465"><div class="list-group"><div class="accordion" id="accr_diksha_diksha_31307360985089638412320_31307360985089638412318_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985089638412320_31307360985089638412318_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Explanation Content
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985101926412360_31307360985089638412318_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985101926412360_31307360985089638412318_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Practice Items
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985110118412386_31307360985089638412318_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985110118412386_31307360985089638412318_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Learning Resources
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985106022412372_31307360985089638412318_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985106022412372_31307360985089638412318_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Teacher Resources
+			</a></div></div></div></div><div class="accordion" id="accr_diksha_diksha_31307360985116672012412_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985116672012412_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Data Handling
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985092096012328_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985092096012328_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Squares and Square Roots
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985122406412436_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985122406412436_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Cubes and Cube Roots
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985110118412388_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985110118412388_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Comparing Quantities
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985114214412402_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985114214412402_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Algebraic expression and identities
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985086361612310_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985086361612310_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Visualising Solid Shapes
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985110937612390_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985110937612390_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Mensuration
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985084723212304_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985084723212304_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Exponents and Powers
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985121587212434_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985121587212434_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Direct and Inverse Proportions
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985118310412420_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985118310412420_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Factorisation
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985101926412362_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985101926412362_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Introduction of Graphs
+			</a></div><div class="accordion" id="accr_diksha_diksha_31307360985088000012314_31310347515146240011465_31310347515146240011465"><a href="/se_document/diksha/diksha/31307360985088000012314_31310347515146240011465_31310347515146240011465" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Playing with Numbers
+			</a></div></div></div></div><div class="accordion" id="accr_diksha_diksha_3131034751539937281970_3131034751539937281970"><a href="/se_document/diksha/diksha/3131034751539937281970_3131034751539937281970" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> गणित पाठ्यपुस्तक
+			</a></div><div class="accordion" id="accr_diksha_diksha_31332717993804595213151_31332717993804595213151"><a href="/se_document/diksha/diksha/31332717993804595213151_31332717993804595213151" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Competency-Based Question Sets
+			</a></div><div class="accordion" id="accr_diksha_diksha_3131034751628083201734_3131034751628083201734"><a href="/se_document/diksha/diksha/3131034751628083201734_3131034751628083201734" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Resources and Development
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347516497100811416_31310347516497100811416"><a href="/se_document/diksha/diksha/31310347516497100811416_31310347516497100811416" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> संसाधन एवं विकास
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347517497344011054_31310347517497344011054"><a href="/se_document/diksha/diksha/31310347517497344011054_31310347517497344011054" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Our Pasts III
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347516091596811298_31310347516091596811298"><a href="/se_document/diksha/diksha/31310347516091596811298_31310347516091596811298" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> हमारे अतीत III
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347517095936011395_31310347517095936011395"><a href="/se_document/diksha/diksha/31310347517095936011395_31310347517095936011395" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Social and Political Life - III
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347517285990411052_31310347517285990411052"><a href="/se_document/diksha/diksha/31310347517285990411052_31310347517285990411052" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> सामाजिक एवं राजनीतिक जीवन - III
+			</a></div><div class="accordion" id="accr_diksha_diksha_31310347548583526411102_31310347548583526411102"><a href="/se_document/diksha/diksha/31310347548583526411102_31310347548583526411102" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> संक्षिप्त बुद्धचरित
+			</a></div><div class="accordion" id="accr_diksha_diksha_31308591259558707212091_31308591259558707212091"><a href="/se_document/diksha/diksha/31308591259558707212091_31308591259558707212091" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Science TERM
+			</a></div><div class="accordion" id="accr_diksha_diksha_31348646352533094411099_31348646352533094411099"><a href="/se_document/diksha/diksha/31348646352533094411099_31348646352533094411099" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> विज्ञान शिक्षक सक्रिय संसाधन मैनुअल
+			</a></div><div class="accordion" id="accr_diksha_diksha_31308592228235673611854_31308592228235673611854"><a href="/se_document/diksha/diksha/31308592228235673611854_31308592228235673611854" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Mathematics TERM
+			</a></div><div class="accordion" id="accr_diksha_diksha_31321952132163993612941_31321952132163993612941"><a href="/se_document/diksha/diksha/31321952132163993612941_31321952132163993612941" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - Pani Ki Kahani
+			</a></div><div class="accordion" id="accr_diksha_diksha_31322254786670592014459_31322254786670592014459"><a href="/se_document/diksha/diksha/31322254786670592014459_31322254786670592014459" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - The Story of Crop Production
+			</a></div><div class="accordion" id="accr_diksha_diksha_31321952127662489611981_31321952127662489611981"><a href="/se_document/diksha/diksha/31321952127662489611981_31321952127662489611981" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - Microorganisms: Friend and Foe
+			</a></div><div class="accordion" id="accr_diksha_diksha_31321952117470822412877_31321952117470822412877"><a href="/se_document/diksha/diksha/31321952117470822412877_31321952117470822412877" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - Linear Equation
+			</a></div><div class="accordion" id="accr_diksha_diksha_3132294705321738241289_3132294705321738241289"><a href="/se_document/diksha/diksha/3132294705321738241289_3132294705321738241289" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - Nationalism in India (Champaran Satyagraha)
+			</a></div><div class="accordion" id="accr_diksha_diksha_3132182945325875201822_3132182945325875201822"><a href="/se_document/diksha/diksha/3132182945325875201822_3132182945325875201822" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - When People Rebel 1857 and After
+			</a></div><div class="accordion" id="accr_diksha_diksha_31328135257062604816133_31328135257062604816133"><a href="/se_document/diksha/diksha/31328135257062604816133_31328135257062604816133" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Understanding Our Criminal Justice System
+			</a></div><div class="accordion" id="accr_diksha_diksha_3132294570334208001347_3132294570334208001347"><a href="/se_document/diksha/diksha/3132294570334208001347_3132294570334208001347" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - Reaching the age of Adolescenc
+			</a></div><div class="accordion" id="accr_diksha_diksha_31321952138480844812885_31321952138480844812885"><a href="/se_document/diksha/diksha/31321952138480844812885_31321952138480844812885" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - Trade to territory
+			</a></div><div class="accordion" id="accr_diksha_diksha_3132294705322803201531_3132294705322803201531"><a href="/se_document/diksha/diksha/3132294705322803201531_3132294705322803201531" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - Agriculture - Visit to a Village
+			</a></div><div class="accordion" id="accr_diksha_diksha_3132247021026672641786_3132247021026672641786"><a href="/se_document/diksha/diksha/3132247021026672641786_3132247021026672641786" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - Birsa Ka Ulgulaan
+			</a></div><div class="accordion" id="accr_diksha_diksha_31328135256481792016129_31328135256481792016129"><a href="/se_document/diksha/diksha/31328135256481792016129_31328135256481792016129" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Reaching the Age of Adolescence
+			</a></div><div class="accordion" id="accr_diksha_diksha_31322470249701376011329_31322470249701376011329"><a href="/se_document/diksha/diksha/31322470249701376011329_31322470249701376011329" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - When People Rebel 1857 and After
+			</a></div><div class="accordion" id="accr_diksha_diksha_3132247021786480641828_3132247021786480641828"><a href="/se_document/diksha/diksha/3132247021786480641828_3132247021786480641828" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"> Graphic Novel - Judiciary
+			</a></div></div></div></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_I__29_200"><a href="/se_document/diksha/diksha/IN__C__168_C_I__29_200" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class IX
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_X__34_262"><a href="/se_document/diksha/diksha/IN__C__168_C_X__34_262" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class X
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_V_X__210_211"><a href="/se_document/diksha/diksha/IN__C__168_C_V_X__210_211" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class VI - X
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_I_X__92_254"><a href="/se_document/diksha/diksha/IN__C__168_C_I_X__92_254" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class IX - X
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_X__3_170"><a href="/se_document/diksha/diksha/IN__C__168_C_X__3_170" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class XI
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_X__19_229"><a href="/se_document/diksha/diksha/IN__C__168_C_X__19_229" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class XII
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_C_X_X__252_253"><a href="/se_document/diksha/diksha/IN__C__168_C_X_X__252_253" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Class XI - XII
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__C__168_M__184_265"><a href="/se_document/diksha/diksha/IN__C__168_M__184_265" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Miscellaneous
+			</a></div></div></div></div><div class="accordion" id="accr_diksha_diksha_IN__A_P__233_234"><a href="/se_document/diksha/diksha/IN__A_P__233_234" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Andhra Pradesh Board Study Materials
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__A_P__21_22"><a href="/se_document/diksha/diksha/IN__A_P__21_22" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Arunachal Pradesh Board Study Materials
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__B__304_305"><a href="/se_document/diksha/diksha/IN__B__304_305" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Bihar Board Study Materials
+			</a></div><div class="accordion" id="accr_diksha_diksha_IN__D__94_95"><a href="/se_document/diksha/diksha/IN__D__94_95" class="list-group-item list-group-item-action accordion-item overflow-ellipsis"><i class="fa fa-chevron-circle-right"></i> Delhi Board Study Materials
+			</a></div></div><script type="text/javascript">
+    $(document).ready(function() {
+        $("#stitching-pane").scrollTop(21*27);    });
+
+    function toggle(node) {
+        if ($(node).hasClass("collapsed")) {
+            $(node).find("i").removeClass("fa-chevron-circle-down");
+            $(node).find("i").addClass("fa-chevron-circle-right");
+        } else {
+            $(node).find("i").removeClass("fa-chevron-circle-right");
+            $(node).find("i").addClass("fa-chevron-circle-down");
+        }
+    }
+</script>
+<style type="text/css">
+    .list-group-item {
+        padding: 3px 8px;
+        font-size: small;
+    }
+</style>	</div>
+					</div>		</div>
+
+		<!-- related -->
+		<div id="tab-related" class="py-3" style="display: none;">
+			<div class="g-0 px-3">
+						<h4>Similar Documents</h4>
+						<div class="row row-cols-1 row-cols-md-3 g-4"><div class="col">
+							<a href="/se_document/diksha/diksha/3130836620169543681814_31310347511816192011453_31310347511816192011453">
+								<div class="card h-100">
+									<div class="row g-0">
+										<div class="col-md-3">
+											<img src="/serveFile/source/600eb5cab06b915896182ee3" class="img-fluid rounded-start" alt="...">
+										</div>
+										<div class="col-md-9">
+											<div class="card-body">
+												<h6 class="card-title">Practical Geometry : Mathematics Textbook - CBSE Class VII</h6>
+												<p class="card-text text-body-secondary"></p>
+												<!--<small class="text-body-secondary">Text</small>-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div><div class="col">
+							<a href="/se_document/diksha/diksha/3130349808563814401456_3130349808557506561338_3130349808557506561338">
+								<div class="card h-100">
+									<div class="row g-0">
+										<div class="col-md-3">
+											<img src="/serveFile/source/600eb5cab06b915896182ee3" class="img-fluid rounded-start" alt="...">
+										</div>
+										<div class="col-md-9">
+											<div class="card-body">
+												<h6 class="card-title">Practical Geometry (Practical Geometry): Mathematics - Delhi Board Class VIII</h6>
+												<p class="card-text text-body-secondary"></p>
+												<!--<small class="text-body-secondary">Text</small>-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div><div class="col">
+							<a href="/se_document/diksha/diksha/31307361009152819214206_31310347508104396811408_31310347508104396811408">
+								<div class="card h-100">
+									<div class="row g-0">
+										<div class="col-md-3">
+											<img src="/serveFile/source/600eb5cab06b915896182ee3" class="img-fluid rounded-start" alt="...">
+										</div>
+										<div class="col-md-9">
+											<div class="card-body">
+												<h6 class="card-title">Practical Geometry : Mathematics - CBSE Class VI</h6>
+												<p class="card-text text-body-secondary"></p>
+												<!--<small class="text-body-secondary">Text</small>-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div><div class="col">
+							<a href="/se_document/diksha/diksha/31307360985089638412318_31310352014132838411669_31310352014132838411669">
+								<div class="card h-100">
+									<div class="row g-0">
+										<div class="col-md-3">
+											<img src="/serveFile/source/600eb5cab06b915896182ee3" class="img-fluid rounded-start" alt="...">
+										</div>
+										<div class="col-md-9">
+											<div class="card-body">
+												<h6 class="card-title">Practical Geometry: Mathematics - Delhi Board Class VIII</h6>
+												<p class="card-text text-body-secondary"></p>
+												<!--<small class="text-body-secondary">Text</small>-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div><div class="col">
+							<a href="/se_document/diksha/diksha/31307360985089638412318_31312343419079065611250_31312343419079065611250">
+								<div class="card h-100">
+									<div class="row g-0">
+										<div class="col-md-3">
+											<img src="/serveFile/source/600eb5cab06b915896182ee3" class="img-fluid rounded-start" alt="...">
+										</div>
+										<div class="col-md-9">
+											<div class="card-body">
+												<h6 class="card-title">Practical Geometry : Mathematics Textbook - Arunachal Pradesh Board Class VIII</h6>
+												<p class="card-text text-body-secondary"></p>
+												<!--<small class="text-body-secondary">Text</small>-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div><div class="col">
+							<a href="/se_document/diksha/diksha/3130349587330416641955_3130349587322716161867_3130349587322716161867">
+								<div class="card h-100">
+									<div class="row g-0">
+										<div class="col-md-3">
+											<img src="/serveFile/source/600eb5cab06b915896182ee3" class="img-fluid rounded-start" alt="...">
+										</div>
+										<div class="col-md-9">
+											<div class="card-body">
+												<h6 class="card-title">Practical Geometry (Practical Geometry): Mathematics - Delhi Board Class VII</h6>
+												<p class="card-text text-body-secondary"></p>
+												<!--<small class="text-body-secondary">Text</small>-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div><div class="col">
+							<a href="/se_document/diksha/diksha/3130349523773276161860_3130349523764920321526_3130349523764920321526">
+								<div class="card h-100">
+									<div class="row g-0">
+										<div class="col-md-3">
+											<img src="/serveFile/source/600eb5cab06b915896182ee3" class="img-fluid rounded-start" alt="...">
+										</div>
+										<div class="col-md-9">
+											<div class="card-body">
+												<h6 class="card-title">Practical Geometry (Practical Geometry): Mathematics - Delhi Board Class VI</h6>
+												<p class="card-text text-body-secondary"></p>
+												<!--<small class="text-body-secondary">Text</small>-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div><div class="col">
+							<a href="/se_document/learncbse/learncbse/ncert_solutions_for_class_8_maths_chapter_4_practical_geometry_2">
+								<div class="card h-100">
+									<div class="row g-0">
+										<div class="col-md-3">
+											<img src="/serveFile/source/6015456db2147a47443c3e19" class="img-fluid rounded-start" alt="...">
+										</div>
+										<div class="col-md-9">
+											<div class="card-body">
+												<h6 class="card-title">NCERT Solutions Class VIII Mathematics: Chapter 4 Practical Geometry</h6>
+												<p class="card-text text-body-secondary"></p>
+												<!--<small class="text-body-secondary">Text</small>-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div><div class="col">
+							<a href="/se_document/cbse_academic/cbseacademic/publication_archive_assessment20of20prskill20in20science_x202008">
+								<div class="card h-100">
+									<div class="row g-0">
+										<div class="col-md-3">
+											<img src="/serveFile/source/6011d8d225d21d75907a1ed9" class="img-fluid rounded-start" alt="...">
+										</div>
+										<div class="col-md-9">
+											<div class="card-body">
+												<h6 class="card-title">Assessment of Practical Skills in Science (Class X)</h6>
+												<p class="card-text text-body-secondary"></p>
+												<!--<small class="text-body-secondary">Text</small>-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div></div>
+					</div>		</div>
+
+		<!-- metadata -->
+				<div id="tab-metadata" style="display: none;">
+			<div class="row g-0">
+				<div class="col-md-2">
+					<img loading="lazy" class="rounded float-start img-fluid img-thumbnail" src="/serveFile/source/600eb5cab06b915896182ee3">
+				</div>
+				<div class="col-md-10">
+					<h2 class="text-primary">Practical Geometry : Mathematics Textbook - CBSE Class VIII</h2>
+					<table class="table table-sm">
+						<tr>
+									<th>Content Provider</th>
+									<td>DIKSHA	</td>
+								</tr><tr>
+									<th>Description</th>
+									<td>This is the fourth chapter of the Mathematics textbook, which the CBSE Board specifically published for Class 8 students. This book chapter covers a specific explanation content, worksheets, lesson plan, practice questions, MCQ, question answers, video lessons and teaching tools.	</td>
+								</tr><tr>
+									<th>Language</th>
+									<td>English	</td>
+								</tr><tr>
+									<th>Publisher Date</th>
+									<td>2021-06-25	</td>
+								</tr><tr>
+									<th>Access Restriction</th>
+									<td>Open	</td>
+								</tr><tr>
+									<th>Rights License</th>
+									<td>CC BY 4.0	</td>
+								</tr><tr>
+									<th>Content Type</th>
+									<td>Text	</td>
+								</tr><tr>
+									<th>Educational Role</th>
+									<td>Student	</td>
+								</tr><tr>
+									<th>Educational Use</th>
+									<td>Self Learning <i class="fa-solid fa-circle text-muted"></i> Reading <i class="fa-solid fa-circle text-muted"></i> Classroom	</td>
+								</tr><tr>
+									<th>Education Level</th>
+									<td>Class VIII	</td>
+								</tr><tr>
+									<th>Resource Type</th>
+									<td>Chapter	</td>
+								</tr><tr>
+									<th>Subject</th>
+									<td>Mathematics	</td>
+								</tr>					</table>
+				</div>
+			</div>
+					</div>
+	</main>
+
+	<!-- footer -->
+	<script>
+				$(document).ready(function() {
+					if($("#modal_login").length && location.protocol == "http:" && location.pathname.indexOf("_document/")!=3){
+						window.location.replace("https://" + location.hostname + location.pathname + location.search);
+					}
+				});
+			</script><footer class="footer">
+					<nav class="navbar navbar-expand-lg bg-primary">
+						<div class="container-fluid">		<ul class="navbar-nav">			<li class="nav-item">
+									<a class="nav-link" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modal_about"><i class="fa-solid fa-info-circle"></i> About</a>
+								</li>			<li class="nav-item">
+									<a class="nav-link" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modal_disclaimer"><i class="fa-solid fa-gavel"></i> Disclaimer</a>
+								</li>		</ul>		<ul class="navbar-nav justify-content-end">
+								<li class="nav-item">
+									<a class="nav-link" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modal_feedback"><i class="fa-solid fa-message"></i> Feedback</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modal_sponsor"><i class="fa-solid fa-life-ring"></i> Sponsor</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modal_contact"><i class="fa-solid fa-phone-square"></i> Contact</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modal_chatbot"><i class="fa-solid fa-comments fa-beat-fade"></i> Chat with Us</a>
+								</li>		</ul>		</div>
+				</nav>
+			</footer><style type="text/css">
+</style>
+<div class="modal fade" id="modal_about" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">
+					<i class="fa-solid fa-info-circle"></i> About National Digital Library of India (NDLI)
+				</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true"></span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<div class="d-flex justify-content-center">
+					<img src="/assets/img/ndli-logo-lg-green.svg" alt="NDLI logo" class="mx-auto d-block" height="100%" loading="lazy" style="width: 250px;">
+				</div>
+				<p class="pt-2">
+					National Digital Library of India (NDLI) is a virtual repository of learning resources which is not just a repository with search/browse facilities but provides a host of services for the learner community. It is sponsored and mentored by Ministry of Education, Government of India, through its National Mission on Education through Information and Communication Technology (NMEICT). Filtered and federated searching is employed to facilitate focused searching so that learners can find the right resource with least effort and in minimum time. NDLI provides user group-specific services such as Examination Preparatory for School and College students and job aspirants. Services for Researchers and general learners are also provided. NDLI is designed to hold content of any language and provides interface support for 10 most widely used Indian languages. It is built to provide support for all academic levels including researchers and life-long learners, all disciplines, all popular forms of access devices and differently-abled learners. It is designed to enable people to learn and prepare from best practices from all over the world and to facilitate researchers to perform inter-linked exploration from multiple sources. It is developed, operated and maintained from Indian Institute of Technology Kharagpur.
+				</p>
+				<p>
+					Learn more about this project <a href="http://project.ndl.gov.in" target="_blank">from here</a>.
+				</p>
+				<div class="d-flex justify-content-center">
+					<a target="_blank" href="https://www.bsigroup.com/en-IN/products-and-services/assessment-and-certification/validation-and-verification/client-directory-certificate/FS%20823721">
+						<img src="/assets/img/ISO_9001-2015.svg" class="img-fluid" style="width: 100px;">
+					</a>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+					<i class="fa-solid fa-times"></i> Close
+				</button>
+			</div>
+		</div>
+	</div>
+</div><div class="modal fade" id="modal_disclaimer" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">
+					<i class="fa-solid fa-gavel"></i> Disclaimer
+				</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true"></span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<p>
+					NDLI is a conglomeration of freely available or institutionally contributed or donated or publisher managed contents. Almost all these contents are hosted and accessed from respective sources. The responsibility for authenticity, relevance, completeness, accuracy, reliability and suitability of these contents rests with the respective organization and NDLI has no responsibility or liability for these. Every effort is made to keep the NDLI portal up and running smoothly unless there are some unavoidable technical issues.
+				</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+					<i class="fa-solid fa-times"></i> Close
+				</button>
+			</div>
+		</div>
+	</div>
+</div><script>
+	var feedtypes = {"overall":{"ui":"User Interface","ux":"User Friendliness","new":"Suggest a new Feature","other":"Other"},"account":{"login":"Log-In","regn":"Registration","recov":"Recovery","profile":"Profile Customize","other":"Other"},"se":{"search":"Search","br_subjectClass":"Browse by Subjects","br_educationalLevel":"Browse by Educational Levels","br_resourceType":"Browse by Resource Types","br_sourceOrganization":"Browse by Content Providers","content_avail":"Content Availability","content_quality":"Content Accessibility\/Quality","other":"Other"},"he":{"search":"Search","br_ddc":"Browse by Subjects","br_learningResourceType":"Browse by Resource Types","br_sourceOrganization":"Browse by Content Providers","br_educationalLevel":"Browse by Educational Levels","content_avail":"Content Availability","content_quality":"Content Accessibility\/Quality","other":"Other"},"re":{"search":"Search","br_asjc":"Browse by Subjects","br_sourceOrganization":"Browse by Content Providers","br_learningResourceType":"Browse by Resource Types","br_journal":"Browse by Journals","content_avail":"Content Availability","content_quality":"Content Accessibility\/Quality","other":"Other"},"cd":{"br_sourceOrganization":"Browse by Examinations","br_learningResourceType":"Browse by Resource Types","content_avail":"Content Availability","content_quality":"Content Accessibility\/Quality","other":"Other"},"ch":{"search":"Search","br_sourceOrganization":"Browse by Content Providers","br_learningResourceType":"Browse by Resource Types","content_avail":"Content Availability","content_quality":"Content Accessibility\/Quality","other":"Other"},"nw":{"br_sourceOrganization":"Browse by Content Providers","br_newspaper":"Browse by Newspapers","content_avail":"Content Availability","content_quality":"Content Accessibility\/Quality","other":"Other"},"pt":{"search":"Search","br_cpc":"Browse by CPC Classification","br_publisher_jurisdiction":"Browse by Jurisdictions","br_learningResourceType":"Browse by Resource Types","br_publisher_authority":"Browse by Issuing Authority","content_avail":"Content Availability","content_quality":"Content Accessibility\/Quality","other":"Other"},"lw":{"search":"Search","br_sourceOrganization":"Browse by Content Providers","br_learningResourceType":"Browse by Resource Types","br_legal_casetype":"Browse by Case Types","br_subject_lw":"Browse by Laws\/Acts","br_publisher_jurisdiction":"Browse by Jurisdictions","content_avail":"Content Availability","content_quality":"Content Accessibility\/Quality","other":"Other"},"service":{"club":"NDLI Club","idr_hosting":"IDR Hosting Service","dpc":"Digital Preservation Centre (DPC)","other":"Other"}};
+	$(document).ready(function() {
+		$("#feed_cat").on("change", function() {
+			$("#feed_subcat").html("");
+			$.each(window.feedtypes[$("#feed_cat").val()], function(val, disp) {
+				$("#feed_subcat").append("<option value=\"" + val + "\">" + disp + "</option>");
+			});
+			$("#feed_subcat").removeAttr("disabled");
+			$("#feed_subcat").selectpicker('refresh');
+
+			$("#fa-cat").removeClass("fa-bounce fa-circle-chevron-down");
+			$("#fa-cat").addClass("fa-circle-check");
+
+			$("#fa-subcat").addClass("fa-bounce fa-circle-chevron-down");
+			$("#fa-subcat").removeClass("fa-circle-check");
+		});
+		$("#feed_subcat").on("change", function() {
+			if ($("#feed_subcat").val().length) {
+				$("#fa-subcat").removeClass("fa-bounce fa-circle-chevron-down");
+				$("#fa-subcat").addClass("fa-circle-check");
+			} else {
+
+			}
+		});
+	});
+</script>
+<div class="modal fade" id="modal_feedback" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<form action="/page-feedback.php" method="post">
+				<input type="hidden" name="referer" value="/se_document/diksha/diksha/31307360985089638412318_31310347515146240011465_31310347515146240011465">
+				<div class="modal-header">
+					<h5 class="modal-title"><i class="fa-solid fa-message"></i> Feedback</h5>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true"></span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-6">
+							<label class="form-label"><i class="fa-solid fa-circle-chevron-down fa-lg fa-bounce" id="fa-cat"></i> Select Category</label>
+							<select class="selectpicker show-tick" name="feed_cat" id="feed_cat" data-size="8" data-width="100%" title="Select category *" required>
+								<option value="overall">Overall</option><option value="account">User Account</option><option value="se">School Education</option><option value="he">Higher Education</option><option value="re">Research</option><option value="cd">Career Development</option><option value="ch">Cultural Archives</option><option value="nw">Newspaper Archives</option><option value="pt">Patents & Standards</option><option value="lw">Judicial Resources</option><option value="service">Services</option>							</select>
+						</div>
+						<div class="col-6">
+							<label class="form-label"><i class="fa-solid fa-lg" id="fa-subcat"></i> Select Sub-Category</label>
+							<select disabled class="selectpicker show-tick" name="feed_subcat" id="feed_subcat" data-size="8" data-width="100%" title="Select sub-category *" required></select>
+						</div>
+					</div>
+					<hr />
+					<div class="form-floating">
+						<textarea name="feed_text" id="feed-text" class="form-control" placeholder="Write your feedback here" style="height: 175px" required></textarea>
+						<label for="feed-text">Write your feedback here *</label>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="submit" class="btn btn-primary"><i class="fa-solid fa-share-from-square"></i> Submit</button>
+					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal"><i class="fa-solid fa-times"></i> Close</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div><style type="text/css">
+	#modal_sponsor img {
+		height: 90px;
+	}
+</style>
+<div class="modal fade" id="modal_sponsor" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">
+					<i class="fa-solid fa-life-ring"> </i> Sponsor
+				</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true"></span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<div class="row">
+					<div class="col-md-4">
+						<img src="/assets/img/moe.png" class="img-fluid float-end" loading="lazy">
+					</div>
+					<div class="col-md-5">
+						<img src="/assets/img/landing-nmeict.jpg" class="img-fluid text-center" loading="lazy">
+					</div>
+					<div class="col-md-3">
+						<img src="/assets/img/digital-india.svg" class="img-fluid" loading="lazy">
+					</div>
+				</div>
+				<p class="pt-4">
+					Ministry of Education, through its National Mission on Education through Information and Communication Technology (NMEICT), has sponsored and funded the National Digital Library of India (NDLI) project.
+				</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+					<i class="fa-solid fa-times"></i> Close
+				</button>
+			</div>
+		</div>
+	</div>
+</div><div class="modal fade" id="modal_contact" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog modal-xl modal-fullscreen-md-down" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">
+					<i class="fa-solid fa-phone-square"></i> Contact National Digital Library of India
+				</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true"></span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<div class="row">
+					<div class="col-sm-6 text-center border-end">
+						Central Library (ISO-9001:2015 Certified)<br />Indian Institute of
+						Technology Kharagpur<br />Kharagpur, West Bengal, India | PIN - 721302
+					</div>
+					<div class="col-sm-2"></div>
+					<div class="col-sm-4">
+						<i class="fa-solid fa-map-location-dot"></i> <a href="https://maps.app.goo.gl/n134t4kb45v63d5q9">See location in the Map</a><br />
+						<i class="fa-solid fa-phone"></i> 03222 282435<br />
+						<i class="fa-solid fa-envelope"></i> Mail: <a href="mailto:support@ndl.gov.in?subject=Feedback">support@ndl.gov.in</a>
+					</div>
+				</div>
+
+				<table class="table table-striped table-bordered text-left mt-3">
+					<thead>
+						<tr>
+							<th>Sl.</th>
+							<th style="width: 325px;">Authority</th>
+							<th style="width: 575px;">Responsibilities</th>
+							<th>Communication Details</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>1</td>
+							<td>Ministry of Education (GoI),<br>Department of Higher Education</td>
+							<td>Sanctioning Authority</td>
+							<td class="s3"><a target="_blank" href="https://www.education.gov.in/ict-initiatives">https://www.education.gov.in/ict-initiatives</a>
+							</td>
+						</tr>
+						<tr>
+							<td>2</td>
+							<td>Indian Institute of Technology Kharagpur</td>
+							<td>Host Institute of the Project: The host institute of the project is responsible for
+								providing infrastructure support and hosting the project</td>
+							<td><a target="_blank" href="https://www.iitkgp.ac.in">https://www.iitkgp.ac.in</a></td>
+						</tr>
+						<tr>
+							<td>3</td>
+							<td>National Digital Library of India Office, Indian Institute of Technology Kharagpur</td>
+							<td>The administrative and infrastructural headquarters of the project</td>
+							<td><i class="fa-solid fa-user"></i> Dr. B. Sutradhar&emsp;<i class="fa-solid fa-envelope"></i> <a href="mailto:bsutra@ndl.gov.in">bsutra@ndl.gov.in</a>
+							</td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td>Project PI / Joint PI</td>
+							<td>Principal Investigator and Joint Principal Investigators of the project</td>
+							<td>
+								<!--
+									Prof. K. P. Sinhamahapatra (Mail: kalyanps@ndl.gov.in)
+									Prof. S. P. Khastgir
+								-->
+								<i class="fa-solid fa-user"></i> Dr. B. Sutradhar&emsp;<i class="fa-solid fa-envelope"></i> <a href="mailto:bsutra@ndl.gov.in">bsutra@ndl.gov.in</a><br />
+								<i class="fa-solid fa-user"></i> Prof. Saswat Chakrabarti&emsp;<i class="fa-solid fa-envelope"></i> <small class="text-muted">will be added soon</small>
+							</td>
+						</tr>
+						<tr>
+							<td>5</td>
+							<td>Website/Portal (Helpdesk)</td>
+							<td>Queries regarding NDLI and its services</td>
+							<td><i class="fa-solid fa-envelope"></i> <a href="mailto:support@ndl.gov.in">support@ndl.gov.in</a></td>
+						</tr>
+						<tr>
+							<td>6</td>
+							<td>Contents and Copyright Issues</td>
+							<td>Queries related to content curation and copyright issues</td>
+							<td><i class="fa-solid fa-envelope"></i> <a href="mailto:content@ndl.gov.in">content@ndl.gov.in</a></td>
+						</tr>
+						<tr>
+							<td>7</td>
+							<td>National Digital Library of India Club (NDLI Club)</td>
+							<td>Queries related to NDLI Club formation, support, user awareness program, seminar/symposium,
+								collaboration, social media, promotion, and outreach</td>
+							<td><i class="fa-solid fa-envelope"></i> <a href="mailto:clubsupport@ndl.gov.in">clubsupport@ndl.gov.in</a></td>
+						</tr>
+						<tr>
+							<td>8</td>
+							<td>Digital Preservation Centre (DPC)</td>
+							<td>Assistance with digitizing and archiving copyright-free printed books</td>
+							<td><i class="fa-solid fa-envelope"></i> <a href="mailto:dpc@ndl.gov.in">dpc@ndl.gov.in</a></td>
+						</tr>
+						<tr>
+							<td>9</td>
+							<td>IDR Setup or Support</td>
+							<td>Queries related to establishment and support of Institutional Digital Repository (IDR) and
+								IDR workshops</td>
+							<td><i class="fa-solid fa-envelope"></i> <a href="mailto:idr@ndl.gov.in">idr@ndl.gov.in</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+					<i class="fa-solid fa-times"></i> Close
+				</button>
+			</div>
+		</div>
+	</div>
+</div>
+<style type="text/css">
+    .chat-container {
+        height: 450px;
+        overflow-y: scroll;
+        padding: 0px 5px;
+    }
+
+    .chat-chatbot .card-body,
+    .chat-human .card-body,
+    .chat-chatbot .card-header,
+    .chat-human .card-header {
+        padding: 5px 10px;
+    }
+
+    #jumping-dots-container {
+        width: -webkit-fill-available;
+    }
+
+    .jumping-dots span {
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        animation: jump 1s infinite;
+        display: inline-block;
+        background-color: #0D7751;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        margin-right: 3px;
+    }
+
+    .jumping-dots .dot-1 {
+        animation-delay: 200ms;
+    }
+
+    .jumping-dots .dot-2 {
+        animation-delay: 400ms;
+    }
+
+    .jumping-dots .dot-3 {
+        animation-delay: 600ms;
+    }
+
+    @keyframes jump {
+        0% {
+            bottom: 0px;
+        }
+
+        20% {
+            bottom: 5px;
+        }
+
+        40% {
+            bottom: 0px;
+        }
+    }
+
+    .chat-container {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 20px;
+        /* max-width: 500px; */
+    }
+
+    /* Common chat bubble style */
+    .chat-bubble {
+        max-width: 70%;
+        padding: 12px 16px;
+        border-radius: 16px;
+        position: relative;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    /* Left-aligned bubble */
+    .chat-bubble.left {
+        background-color: #f1f0f0;
+        color: #000;
+        align-self: flex-start;
+        border-bottom-left-radius: 0;
+    }
+
+    .chat-bubble.left::after {
+        content: "";
+        position: absolute;
+        left: -8px;
+        bottom: 0;
+        width: 0;
+        height: 0;
+        border: 10px solid transparent;
+        border-top-color: #f1f0f0;
+        border-bottom: 0;
+        border-right: 0;
+        margin-left: -1px;
+        margin-bottom: -10px;
+    }
+
+    /* Right-aligned bubble */
+    .chat-bubble.right {
+        background-color: #0084ff;
+        color: #fff;
+        align-self: flex-end;
+        border-bottom-right-radius: 0;
+    }
+
+    .chat-bubble.right::after {
+        content: "";
+        position: absolute;
+        right: -8px;
+        bottom: 0;
+        width: 0;
+        height: 0;
+        border: 10px solid transparent;
+        border-top-color: #0084ff;
+        border-bottom: 0;
+        border-left: 0;
+        margin-right: -1px;
+        margin-bottom: -10px;
+    }
+</style>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#chat-text").on('keypress', function(event) {
+            if (event.key === 'Enter') {
+                event.preventDefault()
+                send_chat();
+            }
+        });
+    });
+
+    function send_chat() {
+        var query = $("#chat-text").val();
+        var obj = {
+            'query': query
+        };
+
+        if ($("#chat-text").val()) {
+            $("#chat-msgs").append('<div class="chat-bubble right">\
+                                        <p class="text-muted small mb-0"><i class="far fa-clock"></i> ' + new Date().toLocaleTimeString() + '</p>\
+                                        <p>' + query + '</p>\
+                                    </div>\
+                                    ');
+        }
+        $("#chat-msgs").append('<div class="float-start" id="jumping-dots-container">\
+                                    <i class="fa-solid fa-robot text-success"></i> <small class="text-muted">Chatbot is processing your request...</small>\
+                                    <div class="jumping-dots">\
+                                        <span class="dot-1"></span>\
+                                        <span class="dot-2"></span>\
+                                        <span class="dot-3"></span>\
+                                    </div>\
+                                </div>');
+        $("#chat-msgs").scrollTop($("#chat-msgs").height()).animate("fast");
+        $("#chat-text").val("");
+
+        $.ajax({
+            url: "/ajax/chatbot.php",
+            method: "POST",
+            timeout: 0,
+            contentType: "application/json",
+            data: JSON.stringify(obj),
+            success: function(response, textStatus, jQxhr) {
+                $("#chat-msgs").append('<div class="chat-bubble left">\
+                                            <p class="text-muted small mb-0"><i class="far fa-clock"></i> ' + new Date().toLocaleTimeString() + '</p>\
+                                                ' + response.reply + '\
+                                            </p>\
+                                        </div>');
+            },
+            error: function(jqXhr, textStatus, errorThrown) {
+                $("#modal_server_error").modal("show");
+                console.log(errorThrown);
+            },
+            complete: function(jqXHR, textStatus) {
+                startTypeSetting("result");
+                $("#jumping-dots-container").remove();
+            }
+        });
+    }
+</script>
+
+<div class="modal fade" id="modal_chatbot" tabindex="-1" aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    <i class="fa-solid fa-comments"></i> I will try my best to help you...
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="chat-container" id="chat-msgs"></div>
+                <div id="chat-input" class="mt-4">
+                    <div class="input-group">
+                        <input type="text" class="form-control" aria-describedby="button-chatbot-send" placeholder="&nbsp;Enter your desired topic here" id="chat-text">
+                        <button class="btn btn-primary" type="button" id="button-chatbot-send" onclick="javascript:send_chat()"><i class="fa-solid fa-paper-plane"></i> Send</button>
+                    </div>
+                    <div class="badge-group" style="display: none;"></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                    <i class="fa-solid fa-times"></i> Close
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+	<!-- modals -->
+	</body>
+
+</html>
+

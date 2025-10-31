@@ -1,0 +1,132 @@
+# OpenZIM Build Manifest: previous-papers-bundle
+# CBT1/CBT2 Previous Year Papers Bundle
+bundle_id: previous-papers-v1.0
+version: "1.0"
+created_date: "2025-10-31"
+description: "Curated collection of CBT1 and CBT2 previous year question papers for RRB NTPC exam preparation"
+target_audience: "RRB NTPC exam aspirants"
+
+# Bundle Configuration
+bundle_config:
+  language_support: ["en", "hi"]
+  total_content_size: "2.5 GB"
+  estimated_article_count: 1500
+  compression_level: "max"
+  indexing_strategy: "full_text"
+
+# Content Sources and Paths
+content_sources:
+  rrb_official_papers:
+    source_path: "/workspace/content/rrb-ntpc/previous-papers/"
+    includes:
+      - "CBT1/"
+      - "CBT2/"
+    content_types: ["PDF", "JPG", "PNG"]
+    licensing: "government-work"
+    attribution_required: true
+    
+  practice_sets:
+    source_path: "/workspace/practice-ga/previous-year-papers/"
+    content_types: ["PDF", "DOC"]
+    licensing: "mixed"
+    attribution_required: true
+    
+# Metadata Inclusion
+metadata_inclusion:
+  required_fields:
+    - "paper_year"
+    - "exam_stage"
+    - "subject"
+    - "medium"
+    - "difficulty_level"
+    - "question_type"
+    - "page_count"
+    
+  enrichment_sources:
+    - "/workspace/diksha-ga/metadata/"
+    - "/workspace/metadata/official_papers_catalog.csv"
+    - "/workspace/metadata/rrb_sources_catalog.csv"
+    
+# Compression Settings
+compression:
+  pdf_compression: "aggressive"
+  image_compression: "webp"
+  document_compression: "gzip"
+  compression_tools: ["qpdf", "ghostscript", "imagemagick"]
+  
+# Indexing Requirements
+indexing:
+  search_fields:
+    - "title"
+    - "subject"
+    - "year"
+    - "exam_stage"
+    - "difficulty_level"
+    - "keywords"
+  full_text_search: true
+  language_specific_indexing: true
+  tag_based_indexing: ["CBT1", "CBT2", "English", "Hindi", "Mathematics", "Reasoning", "General Awareness"]
+  
+# Licensing Compliance
+licensing_compliance:
+  cc_by_content:
+    - source: "DIKSHA Platform"
+    - license: "CC BY 4.0"
+    - attribution_template: "Title: {title}, Author: NCERT, Source: {source_url}, License: CC BY 4.0"
+    - share_alike: false
+    - commercial_use: true
+    
+  government_work:
+    - source: "RRB Official"
+    - license: "Government Work"
+    - attribution_template: "Title: {title}, Author: Railway Recruitment Board, Source: {source_url}"
+    - commercial_use: true
+    
+  restricted_content:
+    - source: "Third-party platforms"
+    - license: "All Rights Reserved"
+    - redistribution: false
+    - personal_use_only: true
+    - contact_required: true
+    
+# Quality Assurance
+quality_checks:
+  file_integrity: true
+  duplicate_removal: true
+  format_validation: true
+  accessibility_compliance: "WCAG 2.1 AA"
+  
+# PWA Integration Settings
+pwa_settings:
+  offline_capability: true
+  sync_strategy: "selective"
+  cache_size_limit: "1.5 GB"
+  update_frequency: "quarterly"
+  prefetch_strategy: "search-based"
+  
+# Performance Optimization
+performance:
+  lazy_loading: true
+  progressive_download: true
+  thumbnail_generation: true
+  search_caching: true
+  
+# Security
+security:
+  content_sanitization: true
+  malicious_content_detection: true
+  watermark_applicable: false
+  
+# Build Configuration
+build_config:
+  output_format: "zim"
+  chunk_size: "100 MB"
+  parallel_processing: 8
+  build_timeout: "4 hours"
+  verification_level: "strict"
+  
+# Distribution
+distribution:
+  delivery_methods: ["offline", "streaming", "cache"]
+  regional_localization: true
+  size_optimization: true

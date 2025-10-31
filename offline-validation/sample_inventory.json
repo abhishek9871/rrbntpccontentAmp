@@ -1,0 +1,3018 @@
+{
+  "total_files": 337,
+  "categories": {
+    "previous_papers": {
+      "directory": "/workspace/content/rrb-ntpc/previous-papers",
+      "total_files": 0,
+      "files": []
+    },
+    "study_materials_diksha": {
+      "directory": "/workspace/diksha-ga",
+      "total_files": 52,
+      "files": [
+        {
+          "path": "/workspace/diksha-ga/CONTINUATION_LOG.md",
+          "relative_path": "CONTINUATION_LOG.md",
+          "name": "CONTINUATION_LOG.md",
+          "extension": ".md",
+          "size": 2104,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/DIKSHA_GA_FINAL_REPORT.md",
+          "relative_path": "DIKSHA_GA_FINAL_REPORT.md",
+          "name": "DIKSHA_GA_FINAL_REPORT.md",
+          "extension": ".md",
+          "size": 9653,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/DIKSHA_PROJECT_SUMMARY.md",
+          "relative_path": "DIKSHA_PROJECT_SUMMARY.md",
+          "name": "DIKSHA_PROJECT_SUMMARY.md",
+          "extension": ".md",
+          "size": 37064,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/FINAL_COMPLETION_REPORT.md",
+          "relative_path": "FINAL_COMPLETION_REPORT.md",
+          "name": "FINAL_COMPLETION_REPORT.md",
+          "extension": ".md",
+          "size": 16215,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/PROJECT_COMPLETION_FINAL.md",
+          "relative_path": "PROJECT_COMPLETION_FINAL.md",
+          "name": "PROJECT_COMPLETION_FINAL.md",
+          "extension": ".md",
+          "size": 13963,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/current-affairs/national/National_International_Current_Affairs_2025.pdf",
+          "relative_path": "current-affairs/national/National_International_Current_Affairs_2025.pdf",
+          "name": "National_International_Current_Affairs_2025.pdf",
+          "extension": ".pdf",
+          "size": 374990,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/current-affairs/sports/National_Sports_Awards_2025.pdf",
+          "relative_path": "current-affairs/sports/National_Sports_Awards_2025.pdf",
+          "name": "National_Sports_Awards_2025.pdf",
+          "extension": ".pdf",
+          "size": 50437,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/economy/ncert-class10-economics.pdf",
+          "relative_path": "economy/ncert-class10-economics.pdf",
+          "name": "ncert-class10-economics.pdf",
+          "extension": ".pdf",
+          "size": 1957206,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/economy/ncert-class11-indian-economic-development.pdf",
+          "relative_path": "economy/ncert-class11-indian-economic-development.pdf",
+          "name": "ncert-class11-indian-economic-development.pdf",
+          "extension": ".pdf",
+          "size": 3984283,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/economy/ncert-class12-macroeconomics.pdf",
+          "relative_path": "economy/ncert-class12-macroeconomics.pdf",
+          "name": "ncert-class12-macroeconomics.pdf",
+          "extension": ".pdf",
+          "size": 2808759,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/economy/ncert-class12-microeconomics.pdf",
+          "relative_path": "economy/ncert-class12-microeconomics.pdf",
+          "name": "ncert-class12-microeconomics.pdf",
+          "extension": ".pdf",
+          "size": 2491609,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/economy/ncert-class9-economics-complete.pdf",
+          "relative_path": "economy/ncert-class9-economics-complete.pdf",
+          "name": "ncert-class9-economics-complete.pdf",
+          "extension": ".pdf",
+          "size": 5008673,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/economy/ncert-class9-economics.pdf",
+          "relative_path": "economy/ncert-class9-economics.pdf",
+          "name": "ncert-class9-economics.pdf",
+          "extension": ".pdf",
+          "size": 5008673,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/indian/ncert-class10-geography.pdf",
+          "relative_path": "geography/indian/ncert-class10-geography.pdf",
+          "name": "ncert-class10-geography.pdf",
+          "extension": ".pdf",
+          "size": 8476189,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/indian/ncert-class11-india-physical-environment.pdf",
+          "relative_path": "geography/indian/ncert-class11-india-physical-environment.pdf",
+          "name": "ncert-class11-india-physical-environment.pdf",
+          "extension": ".pdf",
+          "size": 5656418,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/indian/ncert-class12-india-people-economy.pdf",
+          "relative_path": "geography/indian/ncert-class12-india-people-economy.pdf",
+          "name": "ncert-class12-india-people-economy.pdf",
+          "extension": ".pdf",
+          "size": 4535849,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/indian/ncert-class9-geography-1.pdf",
+          "relative_path": "geography/indian/ncert-class9-geography-1.pdf",
+          "name": "ncert-class9-geography-1.pdf",
+          "extension": ".pdf",
+          "size": 5059481,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/physical/ncert-class11-geography-practical.pdf",
+          "relative_path": "geography/physical/ncert-class11-geography-practical.pdf",
+          "name": "ncert-class11-geography-practical.pdf",
+          "extension": ".pdf",
+          "size": 8818297,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/physical/ncert-class11-physical-geography.pdf",
+          "relative_path": "geography/physical/ncert-class11-physical-geography.pdf",
+          "name": "ncert-class11-physical-geography.pdf",
+          "extension": ".pdf",
+          "size": 6714677,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/physical/ncert-class6-geography.pdf",
+          "relative_path": "geography/physical/ncert-class6-geography.pdf",
+          "name": "ncert-class6-geography.pdf",
+          "extension": ".pdf",
+          "size": 24231787,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/physical/ncert-class7-our-environment.pdf",
+          "relative_path": "geography/physical/ncert-class7-our-environment.pdf",
+          "name": "ncert-class7-our-environment.pdf",
+          "extension": ".pdf",
+          "size": 27951478,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/physical/ncert-class8-resources-development.pdf",
+          "relative_path": "geography/physical/ncert-class8-resources-development.pdf",
+          "name": "ncert-class8-resources-development.pdf",
+          "extension": ".pdf",
+          "size": 15380205,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/geography/world/ncert-class12-human-geography.pdf",
+          "relative_path": "geography/world/ncert-class12-human-geography.pdf",
+          "name": "ncert-class12-human-geography.pdf",
+          "extension": ".pdf",
+          "size": 9822539,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/indian-history/ancient/ncert-class12-themes-indian-history-1.pdf",
+          "relative_path": "indian-history/ancient/ncert-class12-themes-indian-history-1.pdf",
+          "name": "ncert-class12-themes-indian-history-1.pdf",
+          "extension": ".pdf",
+          "size": 174473,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/indian-history/ancient/ncert-class6-our-pasts-1.pdf",
+          "relative_path": "indian-history/ancient/ncert-class6-our-pasts-1.pdf",
+          "name": "ncert-class6-our-pasts-1.pdf",
+          "extension": ".pdf",
+          "size": 174557,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/indian-history/medieval/ncert-class12-themes-indian-history-2.pdf",
+          "relative_path": "indian-history/medieval/ncert-class12-themes-indian-history-2.pdf",
+          "name": "ncert-class12-themes-indian-history-2.pdf",
+          "extension": ".pdf",
+          "size": 174473,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/indian-history/medieval/ncert-class7-our-pasts-2.pdf",
+          "relative_path": "indian-history/medieval/ncert-class7-our-pasts-2.pdf",
+          "name": "ncert-class7-our-pasts-2.pdf",
+          "extension": ".pdf",
+          "size": 174571,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/indian-history/modern/ncert-class10-india-contemporary-world-2.pdf",
+          "relative_path": "indian-history/modern/ncert-class10-india-contemporary-world-2.pdf",
+          "name": "ncert-class10-india-contemporary-world-2.pdf",
+          "extension": ".pdf",
+          "size": 7390788,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/indian-history/modern/ncert-class11-themes-world-history.pdf",
+          "relative_path": "indian-history/modern/ncert-class11-themes-world-history.pdf",
+          "name": "ncert-class11-themes-world-history.pdf",
+          "extension": ".pdf",
+          "size": 3826129,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/indian-history/modern/ncert-class12-themes-indian-history-3.pdf",
+          "relative_path": "indian-history/modern/ncert-class12-themes-indian-history-3.pdf",
+          "name": "ncert-class12-themes-indian-history-3.pdf",
+          "extension": ".pdf",
+          "size": 174473,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/indian-history/modern/ncert-class8-our-pasts-3.pdf",
+          "relative_path": "indian-history/modern/ncert-class8-our-pasts-3.pdf",
+          "name": "ncert-class8-our-pasts-3.pdf",
+          "extension": ".pdf",
+          "size": 174557,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/indian-history/modern/ncert-class9-india-contemporary-world-1.pdf",
+          "relative_path": "indian-history/modern/ncert-class9-india-contemporary-world-1.pdf",
+          "name": "ncert-class9-india-contemporary-world-1.pdf",
+          "extension": ".pdf",
+          "size": 174375,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/metadata/diksha_content_inventory.json",
+          "relative_path": "metadata/diksha_content_inventory.json",
+          "name": "diksha_content_inventory.json",
+          "extension": ".json",
+          "size": 6185,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/metadata/final_comprehensive_inventory.json",
+          "relative_path": "metadata/final_comprehensive_inventory.json",
+          "name": "final_comprehensive_inventory.json",
+          "extension": ".json",
+          "size": 15789,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/polity/constitution/ncert-class10-democratic-politics-2.pdf",
+          "relative_path": "polity/constitution/ncert-class10-democratic-politics-2.pdf",
+          "name": "ncert-class10-democratic-politics-2.pdf",
+          "extension": ".pdf",
+          "size": 5370551,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/polity/constitution/ncert-class11-indian-constitution.pdf",
+          "relative_path": "polity/constitution/ncert-class11-indian-constitution.pdf",
+          "name": "ncert-class11-indian-constitution.pdf",
+          "extension": ".pdf",
+          "size": 4012108,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/polity/constitution/ncert-class11-political-theory.pdf",
+          "relative_path": "polity/constitution/ncert-class11-political-theory.pdf",
+          "name": "ncert-class11-political-theory.pdf",
+          "extension": ".pdf",
+          "size": 6888966,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/polity/constitution/ncert-class6-social-political-life-1.pdf",
+          "relative_path": "polity/constitution/ncert-class6-social-political-life-1.pdf",
+          "name": "ncert-class6-social-political-life-1.pdf",
+          "extension": ".pdf",
+          "size": 13099441,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/polity/constitution/ncert-class7-social-political-life-2.pdf",
+          "relative_path": "polity/constitution/ncert-class7-social-political-life-2.pdf",
+          "name": "ncert-class7-social-political-life-2.pdf",
+          "extension": ".pdf",
+          "size": 22950037,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/polity/constitution/ncert-class8-social-political-life-3.pdf",
+          "relative_path": "polity/constitution/ncert-class8-social-political-life-3.pdf",
+          "name": "ncert-class8-social-political-life-3.pdf",
+          "extension": ".pdf",
+          "size": 17209913,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/polity/constitution/ncert-class9-democratic-politics-1.pdf",
+          "relative_path": "polity/constitution/ncert-class9-democratic-politics-1.pdf",
+          "name": "ncert-class9-democratic-politics-1.pdf",
+          "extension": ".pdf",
+          "size": 10916922,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/polity/governance/ncert-class12-contemporary-world-politics.pdf",
+          "relative_path": "polity/governance/ncert-class12-contemporary-world-politics.pdf",
+          "name": "ncert-class12-contemporary-world-politics.pdf",
+          "extension": ".pdf",
+          "size": 3301124,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/polity/governance/ncert-class12-politics-india-independence.pdf",
+          "relative_path": "polity/governance/ncert-class12-politics-india-independence.pdf",
+          "name": "ncert-class12-politics-india-independence.pdf",
+          "extension": ".pdf",
+          "size": 29731325,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/science-technology/ncert-class11-biology-hindi.zip",
+          "relative_path": "science-technology/ncert-class11-biology-hindi.zip",
+          "name": "ncert-class11-biology-hindi.zip",
+          "extension": ".zip",
+          "size": 557056,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/science-technology/ncert-class11-chemistry-part1-hindi.zip",
+          "relative_path": "science-technology/ncert-class11-chemistry-part1-hindi.zip",
+          "name": "ncert-class11-chemistry-part1-hindi.zip",
+          "extension": ".zip",
+          "size": 294912,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/science-technology/ncert-class11-physics-part1-english.zip",
+          "relative_path": "science-technology/ncert-class11-physics-part1-english.zip",
+          "name": "ncert-class11-physics-part1-english.zip",
+          "extension": ".zip",
+          "size": 131072,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/science-technology/ncert-class11-physics-part2-hindi.zip",
+          "relative_path": "science-technology/ncert-class11-physics-part2-hindi.zip",
+          "name": "ncert-class11-physics-part2-hindi.zip",
+          "extension": ".zip",
+          "size": 114688,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/science-technology/ncert-class9-science-complete.pdf",
+          "relative_path": "science-technology/ncert-class9-science-complete.pdf",
+          "name": "ncert-class9-science-complete.pdf",
+          "extension": ".pdf",
+          "size": 30822578,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/science-technology/ncert-class9-science.pdf",
+          "relative_path": "science-technology/ncert-class9-science.pdf",
+          "name": "ncert-class9-science.pdf",
+          "extension": ".pdf",
+          "size": 30822578,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/static-gk/organizations/ncert-class11-craft-traditions.pdf",
+          "relative_path": "static-gk/organizations/ncert-class11-craft-traditions.pdf",
+          "name": "ncert-class11-craft-traditions.pdf",
+          "extension": ".pdf",
+          "size": 174557,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/static-gk/organizations/ncert-class11-indian-art-complete.pdf",
+          "relative_path": "static-gk/organizations/ncert-class11-indian-art-complete.pdf",
+          "name": "ncert-class11-indian-art-complete.pdf",
+          "extension": ".pdf",
+          "size": 174585,
+          "category": "study_materials_diksha"
+        },
+        {
+          "path": "/workspace/diksha-ga/static-gk/organizations/ncert-class11-indian-art.pdf",
+          "relative_path": "static-gk/organizations/ncert-class11-indian-art.pdf",
+          "name": "ncert-class11-indian-art.pdf",
+          "extension": ".pdf",
+          "size": 174585,
+          "category": "study_materials_diksha"
+        }
+      ]
+    },
+    "study_materials_wikimedia": {
+      "directory": "/workspace/content/rrb-ntpc/study-materials/wikimedia",
+      "total_files": 226,
+      "files": [
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/FINAL_COMPLETION_REPORT.md",
+          "relative_path": "general-awareness/FINAL_COMPLETION_REPORT.md",
+          "name": "FINAL_COMPLETION_REPORT.md",
+          "extension": ".md",
+          "size": 48140,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/FINAL_PROJECT_COMPLETION_REPORT.md",
+          "relative_path": "general-awareness/FINAL_PROJECT_COMPLETION_REPORT.md",
+          "name": "FINAL_PROJECT_COMPLETION_REPORT.md",
+          "extension": ".md",
+          "size": 11598,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/FINAL_STATUS_REPORT.md",
+          "relative_path": "general-awareness/FINAL_STATUS_REPORT.md",
+          "name": "FINAL_STATUS_REPORT.md",
+          "extension": ".md",
+          "size": 10656,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/IMPLEMENTATION_ROADMAP.md",
+          "relative_path": "general-awareness/IMPLEMENTATION_ROADMAP.md",
+          "name": "IMPLEMENTATION_ROADMAP.md",
+          "extension": ".md",
+          "size": 40929,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/WIKIPEDIA_DUMPS_IMPLEMENTATION_REPORT.md",
+          "relative_path": "general-awareness/WIKIPEDIA_DUMPS_IMPLEMENTATION_REPORT.md",
+          "name": "WIKIPEDIA_DUMPS_IMPLEMENTATION_REPORT.md",
+          "extension": ".md",
+          "size": 6552,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/batch_collection.py",
+          "relative_path": "general-awareness/batch_collection.py",
+          "name": "batch_collection.py",
+          "extension": ".py",
+          "size": 9123,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/collection_script.py",
+          "relative_path": "general-awareness/collection_script.py",
+          "name": "collection_script.py",
+          "extension": ".py",
+          "size": 9528,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/comprehensive_collector.py",
+          "relative_path": "general-awareness/comprehensive_collector.py",
+          "name": "comprehensive_collector.py",
+          "extension": ".py",
+          "size": 28650,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/core_collection.py",
+          "relative_path": "general-awareness/core_collection.py",
+          "name": "core_collection.py",
+          "extension": ".py",
+          "size": 2513,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/dumps_based_collection.py",
+          "relative_path": "general-awareness/dumps_based_collection.py",
+          "name": "dumps_based_collection.py",
+          "extension": ".py",
+          "size": 20941,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/focused_collection.py",
+          "relative_path": "general-awareness/focused_collection.py",
+          "name": "focused_collection.py",
+          "extension": ".py",
+          "size": 11884,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/hybrid_content_collector.py",
+          "relative_path": "general-awareness/hybrid_content_collector.py",
+          "name": "hybrid_content_collector.py",
+          "extension": ".py",
+          "size": 34542,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/image_downloader.py",
+          "relative_path": "general-awareness/image_downloader.py",
+          "name": "image_downloader.py",
+          "extension": ".py",
+          "size": 17390,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/improved_collection_script.py",
+          "relative_path": "general-awareness/improved_collection_script.py",
+          "name": "improved_collection_script.py",
+          "extension": ".py",
+          "size": 15268,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/progressive_collection.py",
+          "relative_path": "general-awareness/progressive_collection.py",
+          "name": "progressive_collection.py",
+          "extension": ".py",
+          "size": 27401,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/simple_collector.py",
+          "relative_path": "general-awareness/simple_collector.py",
+          "name": "simple_collector.py",
+          "extension": ".py",
+          "size": 11182,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/streamlined_dumps_collector.py",
+          "relative_path": "general-awareness/streamlined_dumps_collector.py",
+          "name": "streamlined_dumps_collector.py",
+          "extension": ".py",
+          "size": 10274,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_dumps_collection.py",
+          "relative_path": "general-awareness/test_dumps_collection.py",
+          "name": "test_dumps_collection.py",
+          "extension": ".py",
+          "size": 22278,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/__pycache__/collection_script.cpython-312.pyc",
+          "relative_path": "general-awareness/__pycache__/collection_script.cpython-312.pyc",
+          "name": "collection_script.cpython-312.pyc",
+          "extension": ".pyc",
+          "size": 10830,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/culture/Culture_of_India/index.html",
+          "relative_path": "general-awareness/culture/Culture_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8819,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/culture/Culture_of_India/metadata.json",
+          "relative_path": "general-awareness/culture/Culture_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 841,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/culture/Indian_literature/index.html",
+          "relative_path": "general-awareness/culture/Indian_literature/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8829,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/culture/Indian_literature/metadata.json",
+          "relative_path": "general-awareness/culture/Indian_literature/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 844,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Banking_in_India/Banking_in_India.html",
+          "relative_path": "general-awareness/economy/Banking_in_India/Banking_in_India.html",
+          "name": "Banking_in_India.html",
+          "extension": ".html",
+          "size": 4805,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Banking_in_India/index.html",
+          "relative_path": "general-awareness/economy/Banking_in_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8819,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Banking_in_India/metadata.json",
+          "relative_path": "general-awareness/economy/Banking_in_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 841,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Economy_of_India/Economy_of_India.html",
+          "relative_path": "general-awareness/economy/Economy_of_India/Economy_of_India.html",
+          "name": "Economy_of_India.html",
+          "extension": ".html",
+          "size": 4805,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Economy_of_India/index.html",
+          "relative_path": "general-awareness/economy/Economy_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8819,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Economy_of_India/metadata.json",
+          "relative_path": "general-awareness/economy/Economy_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 841,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Finance_in_India/Finance_in_India.html",
+          "relative_path": "general-awareness/economy/Finance_in_India/Finance_in_India.html",
+          "name": "Finance_in_India.html",
+          "extension": ".html",
+          "size": 4805,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Finance_in_India/index.html",
+          "relative_path": "general-awareness/economy/Finance_in_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8819,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Finance_in_India/metadata.json",
+          "relative_path": "general-awareness/economy/Finance_in_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 841,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/List_of_banks_in_India/index.html",
+          "relative_path": "general-awareness/economy/List_of_banks_in_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8879,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/List_of_banks_in_India/metadata.json",
+          "relative_path": "general-awareness/economy/List_of_banks_in_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 859,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Payment_and_settlement_systems_in_India/index.html",
+          "relative_path": "general-awareness/economy/Payment_and_settlement_systems_in_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 9049,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Payment_and_settlement_systems_in_India/metadata.json",
+          "relative_path": "general-awareness/economy/Payment_and_settlement_systems_in_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 910,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Reserve_Bank_of_India/Reserve_Bank_of_India.html",
+          "relative_path": "general-awareness/economy/Reserve_Bank_of_India/Reserve_Bank_of_India.html",
+          "name": "Reserve_Bank_of_India.html",
+          "extension": ".html",
+          "size": 4845,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Reserve_Bank_of_India/index.html",
+          "relative_path": "general-awareness/economy/Reserve_Bank_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8838,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Reserve_Bank_of_India/metadata.json",
+          "relative_path": "general-awareness/economy/Reserve_Bank_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 836,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Conservation_in_India/Conservation_in_India.html",
+          "relative_path": "general-awareness/environment/Conservation_in_India/Conservation_in_India.html",
+          "name": "Conservation_in_India.html",
+          "extension": ".html",
+          "size": 4849,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Conservation_in_India/index.html",
+          "relative_path": "general-awareness/environment/Conservation_in_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8869,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Conservation_in_India/metadata.json",
+          "relative_path": "general-awareness/environment/Conservation_in_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 856,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environment_of_India/Environment_of_India.html",
+          "relative_path": "general-awareness/environment/Environment_of_India/Environment_of_India.html",
+          "name": "Environment_of_India.html",
+          "extension": ".html",
+          "size": 4841,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environment_of_India/index.html",
+          "relative_path": "general-awareness/environment/Environment_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8859,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environment_of_India/metadata.json",
+          "relative_path": "general-awareness/environment/Environment_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 853,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environmental_issues_in_India/Environmental_issues_in_India.html",
+          "relative_path": "general-awareness/environment/Environmental_issues_in_India/Environmental_issues_in_India.html",
+          "name": "Environmental_issues_in_India.html",
+          "extension": ".html",
+          "size": 4913,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environmental_issues_in_India/index.html",
+          "relative_path": "general-awareness/environment/Environmental_issues_in_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8949,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environmental_issues_in_India/metadata.json",
+          "relative_path": "general-awareness/environment/Environmental_issues_in_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 880,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Fauna_of_India/index.html",
+          "relative_path": "general-awareness/environment/Fauna_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8799,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Fauna_of_India/metadata.json",
+          "relative_path": "general-awareness/environment/Fauna_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 835,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Wildlife_of_India/Wildlife_of_India.html",
+          "relative_path": "general-awareness/environment/Wildlife_of_India/Wildlife_of_India.html",
+          "name": "Wildlife_of_India.html",
+          "extension": ".html",
+          "size": 4817,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Wildlife_of_India/index.html",
+          "relative_path": "general-awareness/environment/Wildlife_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8829,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Wildlife_of_India/metadata.json",
+          "relative_path": "general-awareness/environment/Wildlife_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 844,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Eastern_Ghats/Eastern_Ghats.html",
+          "relative_path": "general-awareness/geography/Eastern_Ghats/Eastern_Ghats.html",
+          "name": "Eastern_Ghats.html",
+          "extension": ".html",
+          "size": 4783,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Eastern_Ghats/index.html",
+          "relative_path": "general-awareness/geography/Eastern_Ghats/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8789,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Eastern_Ghats/metadata.json",
+          "relative_path": "general-awareness/geography/Eastern_Ghats/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 832,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_India/Geography_of_India.html",
+          "relative_path": "general-awareness/geography/Geography_of_India/Geography_of_India.html",
+          "name": "Geography_of_India.html",
+          "extension": ".html",
+          "size": 4823,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_India/index.html",
+          "relative_path": "general-awareness/geography/Geography_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 9158,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_India/metadata.json",
+          "relative_path": "general-awareness/geography/Geography_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 847,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_South_India/index.html",
+          "relative_path": "general-awareness/geography/Geography_of_South_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 3287,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_South_India/metadata.json",
+          "relative_path": "general-awareness/geography/Geography_of_South_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 737,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Himalayas/Himalayas.html",
+          "relative_path": "general-awareness/geography/Himalayas/Himalayas.html",
+          "name": "Himalayas.html",
+          "extension": ".html",
+          "size": 4751,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Himalayas/index.html",
+          "relative_path": "general-awareness/geography/Himalayas/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 488151,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Himalayas/metadata.json",
+          "relative_path": "general-awareness/geography/Himalayas/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 800,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indian_subcontinent/index.html",
+          "relative_path": "general-awareness/geography/Indian_subcontinent/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 3262,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indian_subcontinent/metadata.json",
+          "relative_path": "general-awareness/geography/Indian_subcontinent/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 722,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indo-Gangetic_Plain/Indo-Gangetic_Plain.html",
+          "relative_path": "general-awareness/geography/Indo-Gangetic_Plain/Indo-Gangetic_Plain.html",
+          "name": "Indo-Gangetic_Plain.html",
+          "extension": ".html",
+          "size": 4831,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indo-Gangetic_Plain/index.html",
+          "relative_path": "general-awareness/geography/Indo-Gangetic_Plain/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8849,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indo-Gangetic_Plain/metadata.json",
+          "relative_path": "general-awareness/geography/Indo-Gangetic_Plain/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 850,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/List_of_major_rivers_of_India/List_of_major_rivers_of_India.html",
+          "relative_path": "general-awareness/geography/List_of_major_rivers_of_India/List_of_major_rivers_of_India.html",
+          "name": "List_of_major_rivers_of_India.html",
+          "extension": ".html",
+          "size": 4911,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/List_of_major_rivers_of_India/index.html",
+          "relative_path": "general-awareness/geography/List_of_major_rivers_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 104207,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/List_of_major_rivers_of_India/metadata.json",
+          "relative_path": "general-awareness/geography/List_of_major_rivers_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 860,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Western_Ghats/Western_Ghats.html",
+          "relative_path": "general-awareness/geography/Western_Ghats/Western_Ghats.html",
+          "name": "Western_Ghats.html",
+          "extension": ".html",
+          "size": 4783,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Western_Ghats/index.html",
+          "relative_path": "general-awareness/geography/Western_Ghats/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8698,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Western_Ghats/metadata.json",
+          "relative_path": "general-awareness/geography/Western_Ghats/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 812,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/image_downloads/collection_summary.json",
+          "relative_path": "general-awareness/image_downloads/collection_summary.json",
+          "name": "collection_summary.json",
+          "extension": ".json",
+          "size": 255,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bal_Gangadhar_Tilak/Bal_Gangadhar_Tilak.html",
+          "relative_path": "general-awareness/indian-history/Bal_Gangadhar_Tilak/Bal_Gangadhar_Tilak.html",
+          "name": "Bal_Gangadhar_Tilak.html",
+          "extension": ".html",
+          "size": 4836,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bal_Gangadhar_Tilak/index.html",
+          "relative_path": "general-awareness/indian-history/Bal_Gangadhar_Tilak/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 54347,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bal_Gangadhar_Tilak/metadata.json",
+          "relative_path": "general-awareness/indian-history/Bal_Gangadhar_Tilak/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 830,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bhagat_Singh/Bhagat_Singh.html",
+          "relative_path": "general-awareness/indian-history/Bhagat_Singh/Bhagat_Singh.html",
+          "name": "Bhagat_Singh.html",
+          "extension": ".html",
+          "size": 4780,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bhagat_Singh/index.html",
+          "relative_path": "general-awareness/indian-history/Bhagat_Singh/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 449205,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bhagat_Singh/metadata.json",
+          "relative_path": "general-awareness/indian-history/Bhagat_Singh/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 809,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/History_of_India/History_of_India.html",
+          "relative_path": "general-awareness/indian-history/History_of_India/History_of_India.html",
+          "name": "History_of_India.html",
+          "extension": ".html",
+          "size": 4812,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/History_of_India/index.html",
+          "relative_path": "general-awareness/indian-history/History_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 9126,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/History_of_India/metadata.json",
+          "relative_path": "general-awareness/indian-history/History_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 841,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Indian_independence_movement/Indian_independence_movement.html",
+          "relative_path": "general-awareness/indian-history/Indian_independence_movement/Indian_independence_movement.html",
+          "name": "Indian_independence_movement.html",
+          "extension": ".html",
+          "size": 4908,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Indian_independence_movement/index.html",
+          "relative_path": "general-awareness/indian-history/Indian_independence_movement/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8939,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Indian_independence_movement/metadata.json",
+          "relative_path": "general-awareness/indian-history/Indian_independence_movement/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 877,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Lala_Lajpat_Rai/Lala_Lajpat_Rai.html",
+          "relative_path": "general-awareness/indian-history/Lala_Lajpat_Rai/Lala_Lajpat_Rai.html",
+          "name": "Lala_Lajpat_Rai.html",
+          "extension": ".html",
+          "size": 4804,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Lala_Lajpat_Rai/index.html",
+          "relative_path": "general-awareness/indian-history/Lala_Lajpat_Rai/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8809,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Lala_Lajpat_Rai/metadata.json",
+          "relative_path": "general-awareness/indian-history/Lala_Lajpat_Rai/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 838,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/List_of_Indian_independence_activists/List_of_Indian_independence_activists.html",
+          "relative_path": "general-awareness/indian-history/List_of_Indian_independence_activists/List_of_Indian_independence_activists.html",
+          "name": "List_of_Indian_independence_activists.html",
+          "extension": ".html",
+          "size": 4980,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/List_of_Indian_independence_activists/index.html",
+          "relative_path": "general-awareness/indian-history/List_of_Indian_independence_activists/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 9029,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/List_of_Indian_independence_activists/metadata.json",
+          "relative_path": "general-awareness/indian-history/List_of_Indian_independence_activists/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 904,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Mahatma_Gandhi/Mahatma_Gandhi.html",
+          "relative_path": "general-awareness/indian-history/Mahatma_Gandhi/Mahatma_Gandhi.html",
+          "name": "Mahatma_Gandhi.html",
+          "extension": ".html",
+          "size": 4796,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Mahatma_Gandhi/index.html",
+          "relative_path": "general-awareness/indian-history/Mahatma_Gandhi/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8787,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Mahatma_Gandhi/metadata.json",
+          "relative_path": "general-awareness/indian-history/Mahatma_Gandhi/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 815,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Medieval_India/Medieval_India.html",
+          "relative_path": "general-awareness/indian-history/Medieval_India/Medieval_India.html",
+          "name": "Medieval_India.html",
+          "extension": ".html",
+          "size": 4796,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Medieval_India/index.html",
+          "relative_path": "general-awareness/indian-history/Medieval_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8799,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Medieval_India/metadata.json",
+          "relative_path": "general-awareness/indian-history/Medieval_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 835,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Outline_of_ancient_India/Outline_of_ancient_India.html",
+          "relative_path": "general-awareness/indian-history/Outline_of_ancient_India/Outline_of_ancient_India.html",
+          "name": "Outline_of_ancient_India.html",
+          "extension": ".html",
+          "size": 4876,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Outline_of_ancient_India/index.html",
+          "relative_path": "general-awareness/indian-history/Outline_of_ancient_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8899,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Outline_of_ancient_India/metadata.json",
+          "relative_path": "general-awareness/indian-history/Outline_of_ancient_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 865,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Subhas_Chandra_Bose/Subhas_Chandra_Bose.html",
+          "relative_path": "general-awareness/indian-history/Subhas_Chandra_Bose/Subhas_Chandra_Bose.html",
+          "name": "Subhas_Chandra_Bose.html",
+          "extension": ".html",
+          "size": 4836,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Subhas_Chandra_Bose/index.html",
+          "relative_path": "general-awareness/indian-history/Subhas_Chandra_Bose/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8849,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Subhas_Chandra_Bose/metadata.json",
+          "relative_path": "general-awareness/indian-history/Subhas_Chandra_Bose/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 850,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Timeline_of_Indian_history/Timeline_of_Indian_history.html",
+          "relative_path": "general-awareness/indian-history/Timeline_of_Indian_history/Timeline_of_Indian_history.html",
+          "name": "Timeline_of_Indian_history.html",
+          "extension": ".html",
+          "size": 4892,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Timeline_of_Indian_history/index.html",
+          "relative_path": "general-awareness/indian-history/Timeline_of_Indian_history/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8919,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Timeline_of_Indian_history/metadata.json",
+          "relative_path": "general-awareness/indian-history/Timeline_of_Indian_history/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 871,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/International_relations/International_relations.html",
+          "relative_path": "general-awareness/international-relations/International_relations/International_relations.html",
+          "name": "International_relations.html",
+          "extension": ".html",
+          "size": 4877,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/International_relations/index.html",
+          "relative_path": "general-awareness/international-relations/International_relations/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8889,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/International_relations/metadata.json",
+          "relative_path": "general-awareness/international-relations/International_relations/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 862,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/List_of_specialized_agencies_of_the_United_Nations/List_of_specialized_agencies_of_the_United_Nations.html",
+          "relative_path": "general-awareness/international-relations/List_of_specialized_agencies_of_the_United_Nations/List_of_specialized_agencies_of_the_United_Nations.html",
+          "name": "List_of_specialized_agencies_of_the_United_Nations.html",
+          "extension": ".html",
+          "size": 5093,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/List_of_specialized_agencies_of_the_United_Nations/index.html",
+          "relative_path": "general-awareness/international-relations/List_of_specialized_agencies_of_the_United_Nations/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 201722,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/List_of_specialized_agencies_of_the_United_Nations/metadata.json",
+          "relative_path": "general-awareness/international-relations/List_of_specialized_agencies_of_the_United_Nations/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 923,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/United_Nations/United_Nations.html",
+          "relative_path": "general-awareness/international-relations/United_Nations/United_Nations.html",
+          "name": "United_Nations.html",
+          "extension": ".html",
+          "size": 4805,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/United_Nations/index.html",
+          "relative_path": "general-awareness/international-relations/United_Nations/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8799,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/United_Nations/metadata.json",
+          "relative_path": "general-awareness/international-relations/United_Nations/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 835,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/collection.log",
+          "relative_path": "general-awareness/logs/collection.log",
+          "name": "collection.log",
+          "extension": ".log",
+          "size": 15204,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/comprehensive_collection.log",
+          "relative_path": "general-awareness/logs/comprehensive_collection.log",
+          "name": "comprehensive_collection.log",
+          "extension": ".log",
+          "size": 4229,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/dumps_collection.log",
+          "relative_path": "general-awareness/logs/dumps_collection.log",
+          "name": "dumps_collection.log",
+          "extension": ".log",
+          "size": 274,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/hybrid_collection.log",
+          "relative_path": "general-awareness/logs/hybrid_collection.log",
+          "name": "hybrid_collection.log",
+          "extension": ".log",
+          "size": 17877,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/image_download.log",
+          "relative_path": "general-awareness/logs/image_download.log",
+          "name": "image_download.log",
+          "extension": ".log",
+          "size": 13156,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/progressive_collection.log",
+          "relative_path": "general-awareness/logs/progressive_collection.log",
+          "name": "progressive_collection.log",
+          "extension": ".log",
+          "size": 34619,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/collection_metadata.json",
+          "relative_path": "general-awareness/metadata/collection_metadata.json",
+          "name": "collection_metadata.json",
+          "extension": ".json",
+          "size": 1931,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/collection_metadata_updated.json",
+          "relative_path": "general-awareness/metadata/collection_metadata_updated.json",
+          "name": "collection_metadata_updated.json",
+          "extension": ".json",
+          "size": 3725,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/comprehensive_collection_list.md",
+          "relative_path": "general-awareness/metadata/comprehensive_collection_list.md",
+          "name": "comprehensive_collection_list.md",
+          "extension": ".md",
+          "size": 6405,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/final_collection_metadata.json",
+          "relative_path": "general-awareness/metadata/final_collection_metadata.json",
+          "name": "final_collection_metadata.json",
+          "extension": ".json",
+          "size": 5878,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/licensing_requirements.md",
+          "relative_path": "general-awareness/metadata/licensing_requirements.md",
+          "name": "licensing_requirements.md",
+          "extension": ".md",
+          "size": 1908,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/topic_mapping.md",
+          "relative_path": "general-awareness/metadata/topic_mapping.md",
+          "name": "topic_mapping.md",
+          "extension": ".md",
+          "size": 12631,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/International_organization/index.html",
+          "relative_path": "general-awareness/organizations/International_organization/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 159205,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/International_organization/metadata.json",
+          "relative_path": "general-awareness/organizations/International_organization/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 851,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/List_of_intergovernmental_organizations/List_of_intergovernmental_organizations.html",
+          "relative_path": "general-awareness/organizations/List_of_intergovernmental_organizations/List_of_intergovernmental_organizations.html",
+          "name": "List_of_intergovernmental_organizations.html",
+          "extension": ".html",
+          "size": 4995,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/List_of_intergovernmental_organizations/index.html",
+          "relative_path": "general-awareness/organizations/List_of_intergovernmental_organizations/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 9049,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/List_of_intergovernmental_organizations/metadata.json",
+          "relative_path": "general-awareness/organizations/List_of_intergovernmental_organizations/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 910,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/Member_states_of_the_United_Nations/index.html",
+          "relative_path": "general-awareness/organizations/Member_states_of_the_United_Nations/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 468919,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/Member_states_of_the_United_Nations/metadata.json",
+          "relative_path": "general-awareness/organizations/Member_states_of_the_United_Nations/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 878,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/United_Nations_System/United_Nations_System.html",
+          "relative_path": "general-awareness/organizations/United_Nations_System/United_Nations_System.html",
+          "name": "United_Nations_System.html",
+          "extension": ".html",
+          "size": 4851,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/United_Nations_System/index.html",
+          "relative_path": "general-awareness/organizations/United_Nations_System/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8869,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/United_Nations_System/metadata.json",
+          "relative_path": "general-awareness/organizations/United_Nations_System/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 856,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Basic_structure_doctrine/Basic_structure_doctrine.html",
+          "relative_path": "general-awareness/polity/Basic_structure_doctrine/Basic_structure_doctrine.html",
+          "name": "Basic_structure_doctrine.html",
+          "extension": ".html",
+          "size": 4868,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Basic_structure_doctrine/index.html",
+          "relative_path": "general-awareness/polity/Basic_structure_doctrine/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8899,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Basic_structure_doctrine/metadata.json",
+          "relative_path": "general-awareness/polity/Basic_structure_doctrine/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 865,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Constitution_of_India/Constitution_of_India.html",
+          "relative_path": "general-awareness/polity/Constitution_of_India/Constitution_of_India.html",
+          "name": "Constitution_of_India.html",
+          "extension": ".html",
+          "size": 4844,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Constitution_of_India/index.html",
+          "relative_path": "general-awareness/polity/Constitution_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 598694,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Constitution_of_India/metadata.json",
+          "relative_path": "general-awareness/polity/Constitution_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 836,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Government_of_India/Government_of_India.html",
+          "relative_path": "general-awareness/polity/Government_of_India/Government_of_India.html",
+          "name": "Government_of_India.html",
+          "extension": ".html",
+          "size": 4828,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Government_of_India/index.html",
+          "relative_path": "general-awareness/polity/Government_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8849,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Government_of_India/metadata.json",
+          "relative_path": "general-awareness/polity/Government_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 850,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Judicial_review_in_India/index.html",
+          "relative_path": "general-awareness/polity/Judicial_review_in_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 3281,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Judicial_review_in_India/metadata.json",
+          "relative_path": "general-awareness/polity/Judicial_review_in_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 737,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/Kesavananda_Bharati_v_State_of_Kerala.html",
+          "relative_path": "general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/Kesavananda_Bharati_v_State_of_Kerala.html",
+          "name": "Kesavananda_Bharati_v_State_of_Kerala.html",
+          "extension": ".html",
+          "size": 4980,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/index.html",
+          "relative_path": "general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 9029,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/metadata.json",
+          "relative_path": "general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 904,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Parliament_of_India/Parliament_of_India.html",
+          "relative_path": "general-awareness/polity/Parliament_of_India/Parliament_of_India.html",
+          "name": "Parliament_of_India.html",
+          "extension": ".html",
+          "size": 4828,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Parliament_of_India/index.html",
+          "relative_path": "general-awareness/polity/Parliament_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8812,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Parliament_of_India/metadata.json",
+          "relative_path": "general-awareness/polity/Parliament_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 830,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Supreme_Court_of_India/Supreme_Court_of_India.html",
+          "relative_path": "general-awareness/polity/Supreme_Court_of_India/Supreme_Court_of_India.html",
+          "name": "Supreme_Court_of_India.html",
+          "extension": ".html",
+          "size": 4852,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Supreme_Court_of_India/index.html",
+          "relative_path": "general-awareness/polity/Supreme_Court_of_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8806,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Supreme_Court_of_India/metadata.json",
+          "relative_path": "general-awareness/polity/Supreme_Court_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 839,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Chandrayaan_programme/Chandrayaan_programme.html",
+          "relative_path": "general-awareness/science-technology/Chandrayaan_programme/Chandrayaan_programme.html",
+          "name": "Chandrayaan_programme.html",
+          "extension": ".html",
+          "size": 4856,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Chandrayaan_programme/index.html",
+          "relative_path": "general-awareness/science-technology/Chandrayaan_programme/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8869,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Chandrayaan_programme/metadata.json",
+          "relative_path": "general-awareness/science-technology/Chandrayaan_programme/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 856,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/ISRO/ISRO.html",
+          "relative_path": "general-awareness/science-technology/ISRO/ISRO.html",
+          "name": "ISRO.html",
+          "extension": ".html",
+          "size": 4720,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/ISRO/index.html",
+          "relative_path": "general-awareness/science-technology/ISRO/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 1038280,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/ISRO/metadata.json",
+          "relative_path": "general-awareness/science-technology/ISRO/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 785,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Indias_three-stage_nuclear_power_programme/Indias_three-stage_nuclear_power_programme.html",
+          "relative_path": "general-awareness/science-technology/Indias_three-stage_nuclear_power_programme/Indias_three-stage_nuclear_power_programme.html",
+          "name": "Indias_three-stage_nuclear_power_programme.html",
+          "extension": ".html",
+          "size": 5032,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Indias_three-stage_nuclear_power_programme/index.html",
+          "relative_path": "general-awareness/science-technology/Indias_three-stage_nuclear_power_programme/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 9079,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Indias_three-stage_nuclear_power_programme/metadata.json",
+          "relative_path": "general-awareness/science-technology/Indias_three-stage_nuclear_power_programme/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 919,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Mars_Orbiter_Mission/Mars_Orbiter_Mission.html",
+          "relative_path": "general-awareness/science-technology/Mars_Orbiter_Mission/Mars_Orbiter_Mission.html",
+          "name": "Mars_Orbiter_Mission.html",
+          "extension": ".html",
+          "size": 4848,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Mars_Orbiter_Mission/index.html",
+          "relative_path": "general-awareness/science-technology/Mars_Orbiter_Mission/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 90411,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Mars_Orbiter_Mission/metadata.json",
+          "relative_path": "general-awareness/science-technology/Mars_Orbiter_Mission/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 833,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Nuclear_power_in_India/Nuclear_power_in_India.html",
+          "relative_path": "general-awareness/science-technology/Nuclear_power_in_India/Nuclear_power_in_India.html",
+          "name": "Nuclear_power_in_India.html",
+          "extension": ".html",
+          "size": 4864,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Nuclear_power_in_India/index.html",
+          "relative_path": "general-awareness/science-technology/Nuclear_power_in_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8879,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Nuclear_power_in_India/metadata.json",
+          "relative_path": "general-awareness/science-technology/Nuclear_power_in_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 859,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Science_and_technology_in_India/Science_and_technology_in_India.html",
+          "relative_path": "general-awareness/science-technology/Science_and_technology_in_India/Science_and_technology_in_India.html",
+          "name": "Science_and_technology_in_India.html",
+          "extension": ".html",
+          "size": 4936,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Science_and_technology_in_India/index.html",
+          "relative_path": "general-awareness/science-technology/Science_and_technology_in_India/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 8969,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Science_and_technology_in_India/metadata.json",
+          "relative_path": "general-awareness/science-technology/Science_and_technology_in_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 886,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Vikram_Sarabhai/index.html",
+          "relative_path": "general-awareness/science-technology/Vikram_Sarabhai/index.html",
+          "name": "index.html",
+          "extension": ".html",
+          "size": 22834,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Vikram_Sarabhai/metadata.json",
+          "relative_path": "general-awareness/science-technology/Vikram_Sarabhai/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 818,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Constitution_of_India/Constitution_of_India.html",
+          "relative_path": "general-awareness/test_collection/Constitution_of_India/Constitution_of_India.html",
+          "name": "Constitution_of_India.html",
+          "extension": ".html",
+          "size": 590086,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Constitution_of_India/metadata.json",
+          "relative_path": "general-awareness/test_collection/Constitution_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 594,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Geography_of_India/Geography_of_India.html",
+          "relative_path": "general-awareness/test_collection/Geography_of_India/Geography_of_India.html",
+          "name": "Geography_of_India.html",
+          "extension": ".html",
+          "size": 366134,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Geography_of_India/metadata.json",
+          "relative_path": "general-awareness/test_collection/Geography_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 584,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/ISRO/ISRO.html",
+          "relative_path": "general-awareness/test_collection/ISRO/ISRO.html",
+          "name": "ISRO.html",
+          "extension": ".html",
+          "size": 1029712,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/ISRO/metadata.json",
+          "relative_path": "general-awareness/test_collection/ISRO/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 544,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Mahatma_Gandhi/Mahatma_Gandhi.html",
+          "relative_path": "general-awareness/test_collection/Mahatma_Gandhi/Mahatma_Gandhi.html",
+          "name": "Mahatma_Gandhi.html",
+          "extension": ".html",
+          "size": 1091042,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Mahatma_Gandhi/metadata.json",
+          "relative_path": "general-awareness/test_collection/Mahatma_Gandhi/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 572,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/Bal_Gangadhar_Tilak.html",
+          "relative_path": "general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/Bal_Gangadhar_Tilak.html",
+          "name": "Bal_Gangadhar_Tilak.html",
+          "extension": ".html",
+          "size": 293024,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/metadata.json",
+          "relative_path": "general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 596,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bhagat_Singh/Bhagat_Singh.html",
+          "relative_path": "general-awareness/test_improved_collection/Bhagat_Singh/Bhagat_Singh.html",
+          "name": "Bhagat_Singh.html",
+          "extension": ".html",
+          "size": 440703,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bhagat_Singh/metadata.json",
+          "relative_path": "general-awareness/test_improved_collection/Bhagat_Singh/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 577,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Lala_Lajpat_Rai/Lala_Lajpat_Rai.html",
+          "relative_path": "general-awareness/test_improved_collection/Lala_Lajpat_Rai/Lala_Lajpat_Rai.html",
+          "name": "Lala_Lajpat_Rai.html",
+          "extension": ".html",
+          "size": 191451,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Lala_Lajpat_Rai/metadata.json",
+          "relative_path": "general-awareness/test_improved_collection/Lala_Lajpat_Rai/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 586,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/List_of_major_rivers_of_India/List_of_major_rivers_of_India.html",
+          "relative_path": "general-awareness/test_improved_collection/List_of_major_rivers_of_India/List_of_major_rivers_of_India.html",
+          "name": "List_of_major_rivers_of_India.html",
+          "extension": ".html",
+          "size": 95641,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/List_of_major_rivers_of_India/metadata.json",
+          "relative_path": "general-awareness/test_improved_collection/List_of_major_rivers_of_India/metadata.json",
+          "name": "metadata.json",
+          "extension": ".json",
+          "size": 628,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/wikipedia_dumps/enwiki-latest-pages-articles.xml.bz2",
+          "relative_path": "general-awareness/wikipedia_dumps/enwiki-latest-pages-articles.xml.bz2",
+          "name": "enwiki-latest-pages-articles.xml.bz2",
+          "extension": ".bz2",
+          "size": 1581252608,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/blood_1319508762.html",
+          "relative_path": "science/biology/blood_1319508762.html",
+          "name": "blood_1319508762.html",
+          "extension": ".html",
+          "size": 353593,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/cell_1319521240.html",
+          "relative_path": "science/biology/cell_1319521240.html",
+          "name": "cell_1319521240.html",
+          "extension": ".html",
+          "size": 563614,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/disease_1318519893.html",
+          "relative_path": "science/biology/disease_1318519893.html",
+          "name": "disease_1318519893.html",
+          "extension": ".html",
+          "size": 322311,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/human_anatomy_1293568406.html",
+          "relative_path": "science/biology/human_anatomy_1293568406.html",
+          "name": "human_anatomy_1293568406.html",
+          "extension": ".html",
+          "size": 170928,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/plant_1317009702.html",
+          "relative_path": "science/biology/plant_1317009702.html",
+          "name": "plant_1317009702.html",
+          "extension": ".html",
+          "size": 723605,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/taxonomy_1314869660.html",
+          "relative_path": "science/biology/taxonomy_1314869660.html",
+          "name": "taxonomy_1314869660.html",
+          "extension": ".html",
+          "size": 395430,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/taxonomy_extraction_summary.md",
+          "relative_path": "science/biology/taxonomy_extraction_summary.md",
+          "name": "taxonomy_extraction_summary.md",
+          "extension": ".md",
+          "size": 1511,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/acid_1298836412.html",
+          "relative_path": "science/chemistry/acid_1298836412.html",
+          "name": "acid_1298836412.html",
+          "extension": ".html",
+          "size": 275951,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/atom_1319509621.html",
+          "relative_path": "science/chemistry/atom_1319509621.html",
+          "name": "atom_1319509621.html",
+          "extension": ".html",
+          "size": 556308,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/base_1297874383.html",
+          "relative_path": "science/chemistry/base_1297874383.html",
+          "name": "base_1297874383.html",
+          "extension": ".html",
+          "size": 223912,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/chemical_bond_1305343114.html",
+          "relative_path": "science/chemistry/chemical_bond_1305343114.html",
+          "name": "chemical_bond_1305343114.html",
+          "extension": ".html",
+          "size": 250118,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/periodic_table_1317929863.html",
+          "relative_path": "science/chemistry/periodic_table_1317929863.html",
+          "name": "periodic_table_1317929863.html",
+          "extension": ".html",
+          "size": 1360541,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/environmental/environmental_science_1314325017.html",
+          "relative_path": "science/environmental/environmental_science_1314325017.html",
+          "name": "environmental_science_1314325017.html",
+          "extension": ".html",
+          "size": 239382,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/general/biodiversity_1317660757.html",
+          "relative_path": "science/general/biodiversity_1317660757.html",
+          "name": "biodiversity_1317660757.html",
+          "extension": ".html",
+          "size": 848024,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/general/scientific_instrument_1303677775.html",
+          "relative_path": "science/general/scientific_instrument_1303677775.html",
+          "name": "scientific_instrument_1303677775.html",
+          "extension": ".html",
+          "size": 126209,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/general/si_units_1318235358.html",
+          "relative_path": "science/general/si_units_1318235358.html",
+          "name": "si_units_1318235358.html",
+          "extension": ".html",
+          "size": 417342,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/GRAVITY_WIKIPEDIA_EXTRACTION_SUMMARY.md",
+          "relative_path": "science/physics/GRAVITY_WIKIPEDIA_EXTRACTION_SUMMARY.md",
+          "name": "GRAVITY_WIKIPEDIA_EXTRACTION_SUMMARY.md",
+          "extension": ".md",
+          "size": 3019,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/gravity_1312856522.html",
+          "relative_path": "science/physics/gravity_1312856522.html",
+          "name": "gravity_1312856522.html",
+          "extension": ".html",
+          "size": 509548,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/light_1319036238.html",
+          "relative_path": "science/physics/light_1319036238.html",
+          "name": "light_1319036238.html",
+          "extension": ".html",
+          "size": 20438,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/motion_1318299894.html",
+          "relative_path": "science/physics/motion_1318299894.html",
+          "name": "motion_1318299894.html",
+          "extension": ".html",
+          "size": 300737,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/newtons_laws_of_motion_1313918647.html",
+          "relative_path": "science/physics/newtons_laws_of_motion_1313918647.html",
+          "name": "newtons_laws_of_motion_1313918647.html",
+          "extension": ".html",
+          "size": 777173,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/sound_1314635102.html",
+          "relative_path": "science/physics/sound_1314635102.html",
+          "name": "sound_1314635102.html",
+          "extension": ".html",
+          "size": 265771,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/work_1306675761.html",
+          "relative_path": "science/physics/work_1306675761.html",
+          "name": "work_1306675761.html",
+          "extension": ".html",
+          "size": 469920,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/capture_summary.md",
+          "relative_path": "science/wikibooks/capture_summary.md",
+          "name": "capture_summary.md",
+          "extension": ".md",
+          "size": 2423,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/general_biology_2025-10-30_23-45-22.html",
+          "relative_path": "science/wikibooks/general_biology_2025-10-30_23-45-22.html",
+          "name": "general_biology_2025-10-30_23-45-22.html",
+          "extension": ".html",
+          "size": 84106,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/general_biology_extraction_summary.md",
+          "relative_path": "science/wikibooks/general_biology_extraction_summary.md",
+          "name": "general_biology_extraction_summary.md",
+          "extension": ".md",
+          "size": 2430,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/general_chemistry_20251030_234150.html",
+          "relative_path": "science/wikibooks/general_chemistry_20251030_234150.html",
+          "name": "general_chemistry_20251030_234150.html",
+          "extension": ".html",
+          "size": 111189,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/physics_study_guide_20251030_233645.html",
+          "relative_path": "science/wikibooks/physics_study_guide_20251030_233645.html",
+          "name": "physics_study_guide_20251030_233645.html",
+          "extension": ".html",
+          "size": 65183,
+          "category": "study_materials_wikimedia"
+        },
+        {
+          "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/physics_study_guide_summary.md",
+          "relative_path": "science/wikibooks/physics_study_guide_summary.md",
+          "name": "physics_study_guide_summary.md",
+          "extension": ".md",
+          "size": 4221,
+          "category": "study_materials_wikimedia"
+        }
+      ]
+    },
+    "practice_sets": {
+      "directory": "/workspace/practice-ga",
+      "total_files": 39,
+      "files": [
+        {
+          "path": "/workspace/practice-ga/RRB_Materials_Download_Summary.md",
+          "relative_path": "RRB_Materials_Download_Summary.md",
+          "name": "RRB_Materials_Download_Summary.md",
+          "extension": ".md",
+          "size": 3096,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/collection_completion_report.md",
+          "relative_path": "collection_completion_report.md",
+          "name": "collection_completion_report.md",
+          "extension": ".md",
+          "size": 11268,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/current_affairs_01_august_2025.txt",
+          "relative_path": "current_affairs_01_august_2025.txt",
+          "name": "current_affairs_01_august_2025.txt",
+          "extension": ".txt",
+          "size": 6414,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/final_downloaded_materials_inventory.md",
+          "relative_path": "final_downloaded_materials_inventory.md",
+          "name": "final_downloaded_materials_inventory.md",
+          "extension": ".md",
+          "size": 46773,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/final_materials_summary.md",
+          "relative_path": "final_materials_summary.md",
+          "name": "final_materials_summary.md",
+          "extension": ".md",
+          "size": 34478,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/final_project_completion_report.md",
+          "relative_path": "final_project_completion_report.md",
+          "name": "final_project_completion_report.md",
+          "extension": ".md",
+          "size": 13608,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/quick_access_guide.md",
+          "relative_path": "quick_access_guide.md",
+          "name": "quick_access_guide.md",
+          "extension": ".md",
+          "size": 2650,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/railway_capsule_research_summary.md",
+          "relative_path": "railway_capsule_research_summary.md",
+          "name": "railway_capsule_research_summary.md",
+          "extension": ".md",
+          "size": 5824,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/view",
+          "relative_path": "view",
+          "name": "view",
+          "extension": "",
+          "size": 55117,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/compliance/licensing_and_redistribution_policy.md",
+          "relative_path": "compliance/licensing_and_redistribution_policy.md",
+          "name": "licensing_and_redistribution_policy.md",
+          "extension": ".md",
+          "size": 7462,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/current-affairs/Formatted-ga-questions-asked-in-ntpc.pdf",
+          "relative_path": "current-affairs/Formatted-ga-questions-asked-in-ntpc.pdf",
+          "name": "Formatted-ga-questions-asked-in-ntpc.pdf",
+          "extension": ".pdf",
+          "size": 629919,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/current-affairs/adda247_current_affairs_100_questions.pdf",
+          "relative_path": "current-affairs/adda247_current_affairs_100_questions.pdf",
+          "name": "adda247_current_affairs_100_questions.pdf",
+          "extension": ".pdf",
+          "size": 308159,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/current-affairs/current_affairs_practice_set_01.md",
+          "relative_path": "current-affairs/current_affairs_practice_set_01.md",
+          "name": "current_affairs_practice_set_01.md",
+          "extension": ".md",
+          "size": 9525,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/current-affairs/download_summary.md",
+          "relative_path": "current-affairs/download_summary.md",
+          "name": "download_summary.md",
+          "extension": ".md",
+          "size": 3670,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/current-affairs/practiceMock_500_current_affairs.pdf",
+          "relative_path": "current-affairs/practiceMock_500_current_affairs.pdf",
+          "name": "practiceMock_500_current_affairs.pdf",
+          "extension": ".pdf",
+          "size": 129767,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/current-affairs/practiceMock_500_current_affairs_2025.pdf",
+          "relative_path": "current-affairs/practiceMock_500_current_affairs_2025.pdf",
+          "name": "practiceMock_500_current_affairs_2025.pdf",
+          "extension": ".pdf",
+          "size": 29922,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/economy/economy_practice_set_01.md",
+          "relative_path": "economy/economy_practice_set_01.md",
+          "name": "economy_practice_set_01.md",
+          "extension": ".md",
+          "size": 10371,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/economy/practice_sets_ntpc_stage2.pdf",
+          "relative_path": "economy/practice_sets_ntpc_stage2.pdf",
+          "name": "practice_sets_ntpc_stage2.pdf",
+          "extension": ".pdf",
+          "size": 89582,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/economy/railway_ntpc_economy_one_liners.pdf",
+          "relative_path": "economy/railway_ntpc_economy_one_liners.pdf",
+          "name": "railway_ntpc_economy_one_liners.pdf",
+          "extension": ".pdf",
+          "size": 42401,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/economy/rrb_group_d_economy_25_questions.pdf",
+          "relative_path": "economy/rrb_group_d_economy_25_questions.pdf",
+          "name": "rrb_group_d_economy_25_questions.pdf",
+          "extension": ".pdf",
+          "size": 88778,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/geography/geography_practice_set_01.md",
+          "relative_path": "geography/geography_practice_set_01.md",
+          "name": "geography_practice_set_01.md",
+          "extension": ".md",
+          "size": 6063,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/geography/rrb_guide_hindi.pdf",
+          "relative_path": "geography/rrb_guide_hindi.pdf",
+          "name": "rrb_guide_hindi.pdf",
+          "extension": ".pdf",
+          "size": 89499,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/geography/rrb_ntpc_geography_100_questions.pdf",
+          "relative_path": "geography/rrb_ntpc_geography_100_questions.pdf",
+          "name": "rrb_ntpc_geography_100_questions.pdf",
+          "extension": ".pdf",
+          "size": 88755,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/history/general_science_railways.pdf",
+          "relative_path": "history/general_science_railways.pdf",
+          "name": "general_science_railways.pdf",
+          "extension": ".pdf",
+          "size": 88678,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/indian-history/indian_history_practice_set_01.md",
+          "relative_path": "indian-history/indian_history_practice_set_01.md",
+          "name": "indian_history_practice_set_01.md",
+          "extension": ".md",
+          "size": 5120,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/metadata/comprehensive_material_index.md",
+          "relative_path": "metadata/comprehensive_material_index.md",
+          "name": "comprehensive_material_index.md",
+          "extension": ".md",
+          "size": 14399,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/metadata/download_guide_by_source.md",
+          "relative_path": "metadata/download_guide_by_source.md",
+          "name": "download_guide_by_source.md",
+          "extension": ".md",
+          "size": 9961,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/metadata/source_catalog_and_coverage.md",
+          "relative_path": "metadata/source_catalog_and_coverage.md",
+          "name": "source_catalog_and_coverage.md",
+          "extension": ".md",
+          "size": 6890,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/metadata/syllabus_mapping_compliance.md",
+          "relative_path": "metadata/syllabus_mapping_compliance.md",
+          "name": "syllabus_mapping_compliance.md",
+          "extension": ".md",
+          "size": 12527,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/metadata/testbook_rrb_ntpc_syllabus_2024.pdf",
+          "relative_path": "metadata/testbook_rrb_ntpc_syllabus_2024.pdf",
+          "name": "testbook_rrb_ntpc_syllabus_2024.pdf",
+          "extension": ".pdf",
+          "size": 2543375,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/polity/polity_practice_set_01.md",
+          "relative_path": "polity/polity_practice_set_01.md",
+          "name": "polity_practice_set_01.md",
+          "extension": ".md",
+          "size": 7080,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/polity/rrb_ntpc_book_solved_papers.pdf",
+          "relative_path": "polity/rrb_ntpc_book_solved_papers.pdf",
+          "name": "rrb_ntpc_book_solved_papers.pdf",
+          "extension": ".pdf",
+          "size": 128946,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/polity/rrb_ntpc_polity_governance_questions.pdf",
+          "relative_path": "polity/rrb_ntpc_polity_governance_questions.pdf",
+          "name": "rrb_ntpc_polity_governance_questions.pdf",
+          "extension": ".pdf",
+          "size": 88776,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/science-technology/researchgate_rrb_general_science.pdf",
+          "relative_path": "science-technology/researchgate_rrb_general_science.pdf",
+          "name": "researchgate_rrb_general_science.pdf",
+          "extension": ".pdf",
+          "size": 629919,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/science-technology/science_technology_practice_set_01.md",
+          "relative_path": "science-technology/science_technology_practice_set_01.md",
+          "name": "science_technology_practice_set_01.md",
+          "extension": ".md",
+          "size": 7969,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/static-gk/README.md",
+          "relative_path": "static-gk/README.md",
+          "name": "README.md",
+          "extension": ".md",
+          "size": 1697,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/static-gk/adda247_ga_questions_ntpc.pdf",
+          "relative_path": "static-gk/adda247_ga_questions_ntpc.pdf",
+          "name": "adda247_ga_questions_ntpc.pdf",
+          "extension": ".pdf",
+          "size": 629919,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/static-gk/static_gk_practice_set_01.md",
+          "relative_path": "static-gk/static_gk_practice_set_01.md",
+          "name": "static_gk_practice_set_01.md",
+          "extension": ".md",
+          "size": 7470,
+          "category": "practice_sets"
+        },
+        {
+          "path": "/workspace/practice-ga/static-gk/yctfastbook_rrb_gk.pdf",
+          "relative_path": "static-gk/yctfastbook_rrb_gk.pdf",
+          "name": "yctfastbook_rrb_gk.pdf",
+          "extension": ".pdf",
+          "size": 567682,
+          "category": "practice_sets"
+        }
+      ]
+    },
+    "current_affairs": {
+      "directory": "/workspace/current-affairs",
+      "total_files": 12,
+      "files": [
+        {
+          "path": "/workspace/current-affairs/annual-reports/2023/Culture_Annual_Report_2022-23.pdf",
+          "relative_path": "annual-reports/2023/Culture_Annual_Report_2022-23.pdf",
+          "name": "Culture_Annual_Report_2022-23.pdf",
+          "extension": ".pdf",
+          "size": 5175346,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/annual-reports/2023/MEA_Annual_Report_2022-23.pdf",
+          "relative_path": "annual-reports/2023/MEA_Annual_Report_2022-23.pdf",
+          "name": "MEA_Annual_Report_2022-23.pdf",
+          "extension": ".pdf",
+          "size": 16628918,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/annual-reports/2023/NITI_Annual_Report_2023-24_English.pdf",
+          "relative_path": "annual-reports/2023/NITI_Annual_Report_2023-24_English.pdf",
+          "name": "NITI_Annual_Report_2023-24_English.pdf",
+          "extension": ".pdf",
+          "size": 73697536,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/annual-reports/2024/MHA_Annual_Report_2023-24.pdf",
+          "relative_path": "annual-reports/2024/MHA_Annual_Report_2023-24.pdf",
+          "name": "MHA_Annual_Report_2023-24.pdf",
+          "extension": ".pdf",
+          "size": 23583045,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/economic-surveys/2023/economic_survey_2023-24.pdf",
+          "relative_path": "economic-surveys/2023/economic_survey_2023-24.pdf",
+          "name": "economic_survey_2023-24.pdf",
+          "extension": ".pdf",
+          "size": 15387751,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/economic-surveys/2024/economic_survey_2024-25.pdf",
+          "relative_path": "economic-surveys/2024/economic_survey_2024-25.pdf",
+          "name": "economic_survey_2024-25.pdf",
+          "extension": ".pdf",
+          "size": 15387751,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/ministry-publications/2023/Education_Annual_Report_2023-24.pdf",
+          "relative_path": "ministry-publications/2023/Education_Annual_Report_2023-24.pdf",
+          "name": "Education_Annual_Report_2023-24.pdf",
+          "extension": ".pdf",
+          "size": 13637580,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/ministry-publications/2024/ISRO_Annual_Report_2023-24.pdf",
+          "relative_path": "ministry-publications/2024/ISRO_Annual_Report_2023-24.pdf",
+          "name": "ISRO_Annual_Report_2023-24.pdf",
+          "extension": ".pdf",
+          "size": 87958614,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/policy-documents/2020/NEP_2020.pdf",
+          "relative_path": "policy-documents/2020/NEP_2020.pdf",
+          "name": "NEP_2020.pdf",
+          "extension": ".pdf",
+          "size": 1453912,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/policy-documents/2023/Union_Budget_2023-24_Speech.pdf",
+          "relative_path": "policy-documents/2023/Union_Budget_2023-24_Speech.pdf",
+          "name": "Union_Budget_2023-24_Speech.pdf",
+          "extension": ".pdf",
+          "size": 472415,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/yearbooks/2023/India_Year_Book_2023.pdf",
+          "relative_path": "yearbooks/2023/India_Year_Book_2023.pdf",
+          "name": "India_Year_Book_2023.pdf",
+          "extension": ".pdf",
+          "size": 7214843,
+          "category": "current_affairs"
+        },
+        {
+          "path": "/workspace/current-affairs/yearbooks/2024/India_Year_Book_2024.pdf",
+          "relative_path": "yearbooks/2024/India_Year_Book_2024.pdf",
+          "name": "India_Year_Book_2024.pdf",
+          "extension": ".pdf",
+          "size": 17539821,
+          "category": "current_affairs"
+        }
+      ]
+    },
+    "metadata_files": {
+      "directory": "/workspace/metadata",
+      "total_files": 8,
+      "files": [
+        {
+          "path": "/workspace/metadata/content_inventory.json",
+          "relative_path": "content_inventory.json",
+          "name": "content_inventory.json",
+          "extension": ".json",
+          "size": 37067,
+          "category": "metadata_files"
+        },
+        {
+          "path": "/workspace/metadata/credible_portals_catalog.csv",
+          "relative_path": "credible_portals_catalog.csv",
+          "name": "credible_portals_catalog.csv",
+          "extension": ".csv",
+          "size": 3162,
+          "category": "metadata_files"
+        },
+        {
+          "path": "/workspace/metadata/decisions.md",
+          "relative_path": "decisions.md",
+          "name": "decisions.md",
+          "extension": ".md",
+          "size": 10235,
+          "category": "metadata_files"
+        },
+        {
+          "path": "/workspace/metadata/oer-research.log",
+          "relative_path": "oer-research.log",
+          "name": "oer-research.log",
+          "extension": ".log",
+          "size": 6090,
+          "category": "metadata_files"
+        },
+        {
+          "path": "/workspace/metadata/oer_platforms_catalog.csv",
+          "relative_path": "oer_platforms_catalog.csv",
+          "name": "oer_platforms_catalog.csv",
+          "extension": ".csv",
+          "size": 4180,
+          "category": "metadata_files"
+        },
+        {
+          "path": "/workspace/metadata/official_papers_catalog.csv",
+          "relative_path": "official_papers_catalog.csv",
+          "name": "official_papers_catalog.csv",
+          "extension": ".csv",
+          "size": 2874,
+          "category": "metadata_files"
+        },
+        {
+          "path": "/workspace/metadata/portal-research.log",
+          "relative_path": "portal-research.log",
+          "name": "portal-research.log",
+          "extension": ".log",
+          "size": 12827,
+          "category": "metadata_files"
+        },
+        {
+          "path": "/workspace/metadata/rrb_sources_catalog.csv",
+          "relative_path": "rrb_sources_catalog.csv",
+          "name": "rrb_sources_catalog.csv",
+          "extension": ".csv",
+          "size": 4173,
+          "category": "metadata_files"
+        }
+      ]
+    }
+  },
+  "sample_files": {
+    "study_materials_diksha": [
+      {
+        "path": "/workspace/diksha-ga/polity/constitution/ncert-class9-democratic-politics-1.pdf",
+        "relative_path": "polity/constitution/ncert-class9-democratic-politics-1.pdf",
+        "name": "ncert-class9-democratic-politics-1.pdf",
+        "extension": ".pdf",
+        "size": 10916922,
+        "category": "study_materials_diksha"
+      },
+      {
+        "path": "/workspace/diksha-ga/economy/ncert-class10-economics.pdf",
+        "relative_path": "economy/ncert-class10-economics.pdf",
+        "name": "ncert-class10-economics.pdf",
+        "extension": ".pdf",
+        "size": 1957206,
+        "category": "study_materials_diksha"
+      },
+      {
+        "path": "/workspace/diksha-ga/DIKSHA_GA_FINAL_REPORT.md",
+        "relative_path": "DIKSHA_GA_FINAL_REPORT.md",
+        "name": "DIKSHA_GA_FINAL_REPORT.md",
+        "extension": ".md",
+        "size": 9653,
+        "category": "study_materials_diksha"
+      },
+      {
+        "path": "/workspace/diksha-ga/science-technology/ncert-class9-science-complete.pdf",
+        "relative_path": "science-technology/ncert-class9-science-complete.pdf",
+        "name": "ncert-class9-science-complete.pdf",
+        "extension": ".pdf",
+        "size": 30822578,
+        "category": "study_materials_diksha"
+      },
+      {
+        "path": "/workspace/diksha-ga/geography/physical/ncert-class11-geography-practical.pdf",
+        "relative_path": "geography/physical/ncert-class11-geography-practical.pdf",
+        "name": "ncert-class11-geography-practical.pdf",
+        "extension": ".pdf",
+        "size": 8818297,
+        "category": "study_materials_diksha"
+      }
+    ],
+    "study_materials_wikimedia": [
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Himalayas/index.html",
+        "relative_path": "general-awareness/geography/Himalayas/index.html",
+        "name": "index.html",
+        "extension": ".html",
+        "size": 488151,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_India/index.html",
+        "relative_path": "general-awareness/geography/Geography_of_India/index.html",
+        "name": "index.html",
+        "extension": ".html",
+        "size": 9158,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Payment_and_settlement_systems_in_India/metadata.json",
+        "relative_path": "general-awareness/economy/Payment_and_settlement_systems_in_India/metadata.json",
+        "name": "metadata.json",
+        "extension": ".json",
+        "size": 910,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/Bal_Gangadhar_Tilak.html",
+        "relative_path": "general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/Bal_Gangadhar_Tilak.html",
+        "name": "Bal_Gangadhar_Tilak.html",
+        "extension": ".html",
+        "size": 293024,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Economy_of_India/Economy_of_India.html",
+        "relative_path": "general-awareness/economy/Economy_of_India/Economy_of_India.html",
+        "name": "Economy_of_India.html",
+        "extension": ".html",
+        "size": 4805,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Nuclear_power_in_India/index.html",
+        "relative_path": "general-awareness/science-technology/Nuclear_power_in_India/index.html",
+        "name": "index.html",
+        "extension": ".html",
+        "size": 8879,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/metadata.json",
+        "relative_path": "general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/metadata.json",
+        "name": "metadata.json",
+        "extension": ".json",
+        "size": 596,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/United_Nations_System/metadata.json",
+        "relative_path": "general-awareness/organizations/United_Nations_System/metadata.json",
+        "name": "metadata.json",
+        "extension": ".json",
+        "size": 856,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/culture/Indian_literature/metadata.json",
+        "relative_path": "general-awareness/culture/Indian_literature/metadata.json",
+        "name": "metadata.json",
+        "extension": ".json",
+        "size": 844,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/Kesavananda_Bharati_v_State_of_Kerala.html",
+        "relative_path": "general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/Kesavananda_Bharati_v_State_of_Kerala.html",
+        "name": "Kesavananda_Bharati_v_State_of_Kerala.html",
+        "extension": ".html",
+        "size": 4980,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Timeline_of_Indian_history/metadata.json",
+        "relative_path": "general-awareness/indian-history/Timeline_of_Indian_history/metadata.json",
+        "name": "metadata.json",
+        "extension": ".json",
+        "size": 871,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/core_collection.py",
+        "relative_path": "general-awareness/core_collection.py",
+        "name": "core_collection.py",
+        "extension": ".py",
+        "size": 2513,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/comprehensive_collector.py",
+        "relative_path": "general-awareness/comprehensive_collector.py",
+        "name": "comprehensive_collector.py",
+        "extension": ".py",
+        "size": 28650,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Banking_in_India/Banking_in_India.html",
+        "relative_path": "general-awareness/economy/Banking_in_India/Banking_in_India.html",
+        "name": "Banking_in_India.html",
+        "extension": ".html",
+        "size": 4805,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Eastern_Ghats/metadata.json",
+        "relative_path": "general-awareness/geography/Eastern_Ghats/metadata.json",
+        "name": "metadata.json",
+        "extension": ".json",
+        "size": 832,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_South_India/index.html",
+        "relative_path": "general-awareness/geography/Geography_of_South_India/index.html",
+        "name": "index.html",
+        "extension": ".html",
+        "size": 3287,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/topic_mapping.md",
+        "relative_path": "general-awareness/metadata/topic_mapping.md",
+        "name": "topic_mapping.md",
+        "extension": ".md",
+        "size": 12631,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Parliament_of_India/Parliament_of_India.html",
+        "relative_path": "general-awareness/polity/Parliament_of_India/Parliament_of_India.html",
+        "name": "Parliament_of_India.html",
+        "extension": ".html",
+        "size": 4828,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/collection_script.py",
+        "relative_path": "general-awareness/collection_script.py",
+        "name": "collection_script.py",
+        "extension": ".py",
+        "size": 9528,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Constitution_of_India/Constitution_of_India.html",
+        "relative_path": "general-awareness/polity/Constitution_of_India/Constitution_of_India.html",
+        "name": "Constitution_of_India.html",
+        "extension": ".html",
+        "size": 4844,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Wildlife_of_India/Wildlife_of_India.html",
+        "relative_path": "general-awareness/environment/Wildlife_of_India/Wildlife_of_India.html",
+        "name": "Wildlife_of_India.html",
+        "extension": ".html",
+        "size": 4817,
+        "category": "study_materials_wikimedia"
+      },
+      {
+        "path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Geography_of_India/metadata.json",
+        "relative_path": "general-awareness/test_collection/Geography_of_India/metadata.json",
+        "name": "metadata.json",
+        "extension": ".json",
+        "size": 584,
+        "category": "study_materials_wikimedia"
+      }
+    ],
+    "practice_sets": [
+      {
+        "path": "/workspace/practice-ga/science-technology/science_technology_practice_set_01.md",
+        "relative_path": "science-technology/science_technology_practice_set_01.md",
+        "name": "science_technology_practice_set_01.md",
+        "extension": ".md",
+        "size": 7969,
+        "category": "practice_sets"
+      },
+      {
+        "path": "/workspace/practice-ga/metadata/download_guide_by_source.md",
+        "relative_path": "metadata/download_guide_by_source.md",
+        "name": "download_guide_by_source.md",
+        "extension": ".md",
+        "size": 9961,
+        "category": "practice_sets"
+      },
+      {
+        "path": "/workspace/practice-ga/current-affairs/practiceMock_500_current_affairs.pdf",
+        "relative_path": "current-affairs/practiceMock_500_current_affairs.pdf",
+        "name": "practiceMock_500_current_affairs.pdf",
+        "extension": ".pdf",
+        "size": 129767,
+        "category": "practice_sets"
+      }
+    ],
+    "current_affairs": [
+      {
+        "path": "/workspace/current-affairs/ministry-publications/2024/ISRO_Annual_Report_2023-24.pdf",
+        "relative_path": "ministry-publications/2024/ISRO_Annual_Report_2023-24.pdf",
+        "name": "ISRO_Annual_Report_2023-24.pdf",
+        "extension": ".pdf",
+        "size": 87958614,
+        "category": "current_affairs"
+      }
+    ],
+    "metadata_files": [
+      {
+        "path": "/workspace/metadata/oer_platforms_catalog.csv",
+        "relative_path": "oer_platforms_catalog.csv",
+        "name": "oer_platforms_catalog.csv",
+        "extension": ".csv",
+        "size": 4180,
+        "category": "metadata_files"
+      }
+    ]
+  },
+  "file_types": {
+    ".md": 40,
+    ".pdf": 69,
+    ".json": 68,
+    ".zip": 4,
+    ".py": 13,
+    ".pyc": 1,
+    ".html": 127,
+    ".log": 8,
+    ".bz2": 1,
+    ".txt": 1,
+    "": 1,
+    ".csv": 4
+  }
+}

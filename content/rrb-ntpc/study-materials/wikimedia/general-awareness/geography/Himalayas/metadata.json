@@ -1,0 +1,19 @@
+{
+  "title": "Himalayas",
+  "source_url": "https://en.wikipedia.org/wiki/Himalayas",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Himalayas",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:32:05.607916",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "f503f0162b572c2cf78eee330dc2d4a6",
+  "checksum_sha256": "28121d65a14f9ebc73d00da7e2562240ead17077dbcda16bc6ca73e03c56fe8f"
+}

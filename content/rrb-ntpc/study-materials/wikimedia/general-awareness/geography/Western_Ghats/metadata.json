@@ -1,0 +1,19 @@
+{
+  "title": "Western_Ghats",
+  "source_url": "https://en.wikipedia.org/wiki/Western_Ghats",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Western_Ghats",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:32:10.054057",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "9ec50e821272bc59a097bcd931737b4d",
+  "checksum_sha256": "e4cf754f7fa30ba4f705d0b73a1e0d6c106026c5ac519941f9c82c433804d6ca"
+}

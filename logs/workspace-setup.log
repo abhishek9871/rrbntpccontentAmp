@@ -1,0 +1,135 @@
+# RRB-NTPC Workspace Directory Setup
+# Generated on: 2025-10-30 19:07:14
+# Author: MiniMax Agent
+
+## Directory Creation Commands
+# The following commands were used to create the complete workspace structure:
+
+# Create main content directories with year subdirectories
+mkdir -p content/rrb-ntpc/previous-papers/CBT1/{2019,2020,2021,2022,2023,2024,2025}
+mkdir -p content/rrb-ntpc/previous-papers/CBT2/{2019,2020,2021,2022,2023,2024,2025}
+
+# Create study materials directories
+mkdir -p content/rrb-ntpc/study-materials/{oer,wikimedia}
+
+# Create practice and current affairs directories
+mkdir -p content/rrb-ntpc/practice-sets
+mkdir -p content/rrb-ntpc/current-affairs/{2024,2025}
+
+# Create language-specific directories
+mkdir -p content/rrb-ntpc/language/{en,hi}/{vocabulary,grammar,previous-papers,model-papers}
+
+# Create metadata and utility directories
+mkdir -p metadata checksums logs packages/openzim
+
+## Complete Workspace Structure Overview
+
+/content/rrb-ntpc/
+├── previous-papers/
+│   ├── CBT1/
+│   │   ├── 2019/
+│   │   ├── 2020/
+│   │   ├── 2021/
+│   │   ├── 2022/
+│   │   ├── 2023/
+│   │   ├── 2024/
+│   │   └── 2025/
+│   └── CBT2/
+│       ├── 2019/
+│       ├── 2020/
+│       ├── 2021/
+│       ├── 2022/
+│       ├── 2023/
+│       ├── 2024/
+│       └── 2025/
+├── study-materials/
+│   ├── oer/                    # Open Educational Resources
+│   └── wikimedia/              # Wikimedia Commons materials
+├── practice-sets/              # Practice test materials
+├── current-affairs/
+│   ├── 2024/
+│   └── 2025/
+└── language/
+    ├── en/                     # English language materials
+    │   ├── vocabulary/
+    │   ├── grammar/
+    │   ├── previous-papers/
+    │   └── model-papers/
+    └── hi/                     # Hindi language materials
+        ├── vocabulary/
+        ├── grammar/
+        ├── previous-papers/
+        └── model-papers/
+
+/metadata/                       # Metadata files for content management
+/checksums/                      # SHA256 checksums for file verification
+/logs/                          # System logs and documentation
+└── packages/openzim/            # OpenZim packages and tools
+
+## Directory Purposes
+
+### /content/rrb-ntpc/previous-papers/
+- CBT1/: Computer-Based Test 1 previous papers organized by year
+- CBT2/: Computer-Based Test 2 previous papers organized by year
+- Purpose: Contains official question papers and answer keys
+
+### /content/rrb-ntpc/study-materials/
+- oer/: Open Educational Resources (NCERT, educational materials)
+- wikimedia/: Content from Wikimedia Commons
+- Purpose: Curated study materials for exam preparation
+
+### /content/rrb-ntpc/practice-sets/
+- Purpose: Mock tests, practice questions, and test series
+
+### /content/rrb-ntpc/current-affairs/
+- Organized by year (2024, 2025, etc.)
+- Purpose: Current events and General Knowledge materials
+
+### /content/rrb-ntpc/language/
+- en/: English language practice materials and resources
+- hi/: Hindi language practice materials and resources
+- Each subdirectory contains: vocabulary, grammar, previous-papers, model-papers
+
+### /metadata/
+- Purpose: Contains metadata files for content organization and tracking
+
+### /checksums/
+- Purpose: SHA256 checksum files for data integrity verification
+
+### /logs/
+- Purpose: System logs, setup documentation, and operational records
+
+### /packages/openzim/
+- Purpose: OpenZim packages and related tools for content management
+
+## File Created in logs/ Directory:
+- catalog.csv: Comprehensive content catalog with metadata tracking
+- workspace-setup.log: This setup documentation file
+
+## Catalog Template Fields
+
+The catalog.csv file contains the following fields for comprehensive content management:
+
+1. **title**: Descriptive title of the content
+2. **year**: Publication or exam year
+3. **stage**: CBT1, CBT2, Language, Practice, etc.
+4. **sections**: Subject sections covered
+5. **topic tags**: Detailed topic categorization
+6. **language**: Primary language (en, hi)
+7. **source_url**: Original source URL
+8. **source_domain**: Domain of the source
+9. **license**: Content license type
+10. **attribution_text**: Attribution requirements
+11. **expected_format**: File format (PDF, HTML, etc.)
+12. **intended_path**: Planned file path in workspace
+13. **checksum_sha256**: File integrity checksum
+14. **filesize_bytes**: File size in bytes
+15. **retrieved_at**: Content retrieval timestamp
+16. **verification_notes**: Verification status and notes
+
+## Notes
+- All content is organized by year and exam stage for easy navigation
+- Year subdirectories allow for historical content and updates
+- Language-specific directories support bilingual preparation
+- Metadata tracking enables content verification and updates
+- Checksum validation ensures data integrity

@@ -1,0 +1,174 @@
+# OpenZIM Build Manifest: reasoning-complete-bundle
+# Complete Reasoning Skills Bundle
+bundle_id: reasoning-complete-v1.0
+version: "1.0"
+created_date: "2025-10-31"
+description: "Comprehensive reasoning skills training covering verbal, non-verbal, logical, and analytical reasoning"
+target_audience: "Competitive exam aspirants and reasoning skill builders"
+
+# Bundle Configuration
+bundle_config:
+  language_support: ["en", "hi"]
+  total_content_size: "1.8 GB"
+  estimated_article_count: 1200
+  compression_level: "standard"
+  indexing_strategy: "skill-based"
+  
+# Content Sources and Paths
+content_sources:
+  diksha_reasoning:
+    source_path: "/workspace/diksha-reasoning/downloaded_content/"
+    includes:
+      - "logical_reasoning/"
+      - "mental_ability/"
+      - "non_verbal_reasoning/"
+      - "verbal_reasoning/"
+    content_types: ["PDF", "DOC", "ZIP"]
+    licensing: "mixed"
+    attribution_required: true
+    priority: "primary"
+    
+  reasoning_practice:
+    source_path: "/workspace/downloads/"
+    content_types: ["PDF"]
+    licensing: "restricted"
+    attribution_required: true
+    priority: "secondary"
+    
+  practice_licensing:
+    source_path: "/workspace/practice-ga/compliance/"
+    content_types: ["PDF", "DOC"]
+    licensing: "restricted"
+    attribution_required: true
+    priority: "secondary"
+    
+# Skill Organization
+skill_organization:
+  verbal_reasoning:
+    coverage: ["synonyms", "antonyms", "analogies", "completion", "classification", "series", "coding-decoding", "directions", "blood-relations"]
+    sources: ["diksha_reasoning"]
+    
+  non_verbal_reasoning:
+    coverage: ["series", "analogies", "classification", "hidden-patterns", "figure-completion", "figure-formation", "figure-matrix"]
+    sources: ["diksha_reasoning"]
+    
+  logical_reasoning:
+    coverage: ["statements-conclusions", "statements-assumptions", "statements-arguments", "course-of-action", "cause-effect", "data-sufficiency"]
+    sources: ["diksha_reasoning", "reasoning_practice"]
+    
+  mental_ability:
+    coverage: ["number-series", "alphabet-series", "arithmetic-reasoning", "age-problems", "sitting-arrangements", "ranking"]
+    sources: ["diksha_reasoning", "reasoning_practice"]
+    
+# Metadata Inclusion
+metadata_inclusion:
+  required_fields:
+    - "skill_type"
+    - "sub_skill"
+    - "difficulty_level"
+    - "question_type"
+    - "estimated_completion_time"
+    - "prerequisite_skills"
+    - "learning_objectives"
+    - "practice_questions_count"
+    
+  enrichment_sources:
+    - "/workspace/diksha-reasoning/metadata/"
+    - "/workspace/memory/deduplication_research_plan.md"
+    - "/workspace/license-registry/metadata/license_register.csv"
+    
+# Compression Settings
+compression:
+  document_compression: "standard"
+  image_compression: "webp"
+  diagram_compression: "svg_optimized"
+  practice_set_compression: "gzip"
+  
+# Indexing Requirements
+indexing:
+  search_fields:
+    - "title"
+    - "skill_type"
+    - "sub_skill"
+    - "difficulty"
+    - "question_type"
+    - "keywords"
+    - "tags"
+  skill_based_search: true
+  difficulty_progressive_search: true
+  tag_based_indexing: ["Verbal", "Non-Verbal", "Logical", "Mental-Ability", "Beginner", "Intermediate", "Advanced", "Practice", "Theory"]
+  
+# Licensing Compliance
+licensing_compliance:
+  diksha_content:
+    - source: "DIKSHA (NCERT)"
+    - license: "CC BY 4.0"
+    - attribution_template: "Title: {title}, Author: NCERT, Source: {source_url}, License: CC BY 4.0"
+    - commercial_use: true
+    - modifications_allowed: true
+    
+  restricted_practice_materials:
+    - source: "IBPS Guide"
+    - license: "All Rights Reserved"
+    - redistribution: false
+    - personal_use_only: true
+    - educational_use_only: true
+    
+  unknown_licensing:
+    - source: "Various Educational Platforms"
+    - license: "Unknown"
+    - redistribution: false
+    - verification_required: true
+    
+# Quality Assurance
+quality_checks:
+  skill_progression_validation: true
+  duplicate_removal: true
+  difficulty_level_consistency: true
+  answer_accuracy: true
+  
+# PWA Integration Settings
+pwa_settings:
+  offline_capability: true
+  sync_strategy: "selective"
+  cache_size_limit: "1.0 GB"
+  update_frequency: "monthly"
+  prefetch_strategy: "skill-path-based"
+  practice_modes: true
+  
+# Performance Optimization
+performance_optimization:
+  lazy_loading: true
+  progressive_download: true
+  practice_session_caching: true
+  skill_assessment_cache: true
+  
+# Security
+security:
+  content_sanitization: true
+  answer_protection: true
+  watermark_applicable: false
+  
+# Educational Features
+educational_features:
+  practice_modes: true
+  timed_exercises: true
+  solution_explanations: true
+  progress_tracking: true
+  difficulty_adaptation: true
+  skill_assessment: true
+  
+# Build Configuration
+build_config:
+  output_format: "zim"
+  chunk_size: "80 MB"
+  parallel_processing: 4
+  build_timeout: "3 hours"
+  verification_level: "strict"
+  
+# Distribution
+distribution:
+  delivery_methods: ["offline", "streaming", "cache"]
+  regional_localization: true
+  size_optimization: true
+  skill_based_packaging: true

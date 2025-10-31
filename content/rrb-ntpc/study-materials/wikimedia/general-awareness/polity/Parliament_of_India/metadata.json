@@ -1,0 +1,19 @@
+{
+  "title": "Parliament_of_India",
+  "source_url": "https://en.wikipedia.org/wiki/Parliament_of_India",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Parliament_of_India",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:32:47.826567",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "843d154ecec7b442667afea035f18dc4",
+  "checksum_sha256": "6a28e8b48878fd95e67b3b5ebfc20d31b3541d0045f7c4f04236f90e0c88766e"
+}

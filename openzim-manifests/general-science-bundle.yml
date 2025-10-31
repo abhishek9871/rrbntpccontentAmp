@@ -1,0 +1,186 @@
+# OpenZIM Build Manifest: general-science-bundle
+# General Science Bundle (Physics, Chemistry, Biology, Earth Science)
+bundle_id: general-science-v1.0
+version: "1.0"
+created_date: "2025-10-31"
+description: "Comprehensive general science content covering physics, chemistry, biology, and earth science for competitive exam preparation"
+target_audience: "Students and professionals preparing for competitive exams requiring general science knowledge"
+
+# Bundle Configuration
+bundle_config:
+  language_support: ["en", "hi"]
+  total_content_size: "4.1 GB"
+  estimated_article_count: 3200
+  compression_level: "high"
+  indexing_strategy: "subject-comprehensive"
+  
+# Content Sources and Paths
+content_sources:
+  diksha_science:
+    source_path: "/workspace/diksha-ga/science-technology/"
+    includes:
+      - "ncert-class9-science-complete.pdf"
+      - "ncert-class9-science.pdf"
+      - "ncert-class11-biology-hindi.zip"
+      - "ncert-class11-chemistry-part1-hindi.zip"
+      - "ncert-class11-physics-part1-english.zip"
+      - "ncert-class11-physics-part2-hindi.zip"
+    content_types: ["PDF", "ZIP"]
+    licensing: "cc-by-40"
+    attribution_required: true
+    priority: "primary"
+    
+  general_science_practice:
+    source_path: "/workspace/practice-ga/science-technology/"
+    content_types: ["PDF", "DOC", "MD"]
+    licensing: "mixed"
+    attribution_required: true
+    priority: "secondary"
+    
+  ncert_science:
+    source_path: "/workspace/practice-ga/history/"
+    content_types: ["PDF"]
+    licensing: "cc-by-40"
+    attribution_required: true
+    priority: "primary"
+    
+# Subject Organization
+subject_organization:
+  physics:
+    topics: ["mechanics", "thermodynamics", "electromagnetism", "optics", "modern-physics", "waves"]
+    sources: ["diksha_science", "general_science_practice"]
+    grade_levels: ["class-9", "class-11", "competitive-level"]
+    
+  chemistry:
+    topics: ["organic-chemistry", "inorganic-chemistry", "physical-chemistry", "analytical-chemistry"]
+    sources: ["diksha_science", "general_science_practice"]
+    grade_levels: ["class-9", "class-11", "competitive-level"]
+    
+  biology:
+    topics: ["cell-biology", "genetics", "ecology", "human-physiology", "botany", "zoology"]
+    sources: ["diksha_science", "general_science_practice"]
+    grade_levels: ["class-9", "class-11", "competitive-level"]
+    
+  earth_science:
+    topics: ["geology", "meteorology", "astronomy", "environmental-science"]
+    sources: ["general_science_practice"]
+    grade_levels: ["class-9", "competitive-level"]
+    
+# Metadata Inclusion
+metadata_inclusion:
+  required_fields:
+    - "subject"
+    - "topic"
+    - "subtopic"
+    - "grade_level"
+    - "difficulty"
+    - "chapter"
+    - "page_count"
+    - "question_count"
+    - "experiment_suggestions"
+    
+  enrichment_sources:
+    - "/workspace/diksha-ga/metadata/"
+    - "/workspace/metadata/oer_platforms_catalog.csv"
+    - "/workspace/bilingual-org/organization_map.csv"
+    
+# Compression Settings
+compression:
+  scientific_diagram_handling: "preserve_original_format"
+  formula_handling: "mathml_with_fallback"
+  image_compression: "scientific_lossless"
+  document_compression: "high"
+  experimental_diagram_optimization: true
+  
+# Indexing Requirements
+indexing:
+  search_fields:
+    - "title"
+    - "subject"
+    - "topic"
+    - "concept"
+    - "formula"
+    - "grade_level"
+    - "difficulty"
+    - "experiment_keywords"
+  scientific_concept_search: true
+  formula_search: true
+  experiment_search: true
+  tag_based_indexing: ["Physics", "Chemistry", "Biology", "Earth-Science", "Class-9", "Class-11", "Beginner", "Intermediate", "Advanced", "Theory", "Practice", "Experiments"]
+  
+# Licensing Compliance
+licensing_compliance:
+  diksha_ncert_content:
+    - source: "DIKSHA (NCERT)"
+    - license: "CC BY 4.0"
+    - attribution_template: "Title: {title}, Author: NCERT, Source: {source_url}, License: CC BY 4.0"
+    - commercial_use: true
+    - modifications_allowed: true
+    
+  general_science_resources:
+    - source: "ResearchGate"
+    - license: "Research Use"
+    - redistribution: false
+    - educational_use_only: true
+    - attribution_required: true
+    
+  practice_materials:
+    - source: "Various Educational Platforms"
+    - license: "Mixed"
+    - redistribution: case_by_case
+    - educational_use_only: true
+    - verification_required: true
+    
+# Quality Assurance
+quality_checks:
+  scientific_accuracy: true
+  diagram_quality: true
+  experiment_validation: true
+  formula_verification: true
+  duplicate_content_removal: true
+  
+# PWA Integration Settings
+pwa_settings:
+  offline_capability: true
+  sync_strategy: "selective"
+  cache_size_limit: "2.5 GB"
+  update_frequency: "quarterly"
+  prefetch_strategy: "curriculum-based"
+  interactive_elements: true
+  
+# Performance Optimization
+performance:
+  lazy_loading: true
+  progressive_download: true
+  scientific_diagram_caching: true
+  search_optimization: true
+  
+# Security
+security:
+  content_sanitization: true
+  diagram_security: true
+  watermark_applicable: false
+  
+# Educational Features
+educational_features:
+  interactive_diagrams: true
+  virtual_experiments: false
+  practice_questions: true
+  concept_mapping: true
+  lab_manual_integration: true
+  
+# Build Configuration
+build_config:
+  output_format: "zim"
+  chunk_size: "200 MB"
+  parallel_processing: 8
+  build_timeout: "8 hours"
+  scientific_rendering: true
+  verification_level: "comprehensive"
+  
+# Distribution
+distribution:
+  delivery_methods: ["offline", "streaming", "cache"]
+  regional_localization: true
+  size_optimization: true
+  bandwidth_optimization: true

@@ -1,0 +1,149 @@
+2025-10-30 22:28:29,957 - INFO - Starting Wikimedia Commons image collection...
+2025-10-30 22:28:29,957 - INFO - 
+--- Processing domain: indian-history ---
+2025-10-30 22:28:29,960 - INFO - Downloading images for: indian-history/History_of_India
+2025-10-30 22:28:30,002 - WARNING - Error getting images for History_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,003 - INFO - No images found for History_of_India
+2025-10-30 22:28:30,005 - INFO - Downloading images for: indian-history/Timeline_of_Indian_history
+2025-10-30 22:28:30,036 - WARNING - Error getting images for Timeline_of_Indian_history: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,036 - INFO - No images found for Timeline_of_Indian_history
+2025-10-30 22:28:30,040 - INFO - No images found in HTML for Medieval_India
+2025-10-30 22:28:30,043 - INFO - No images found in HTML for Outline_of_ancient_India
+2025-10-30 22:28:30,046 - INFO - No images found in HTML for Indian_independence_movement
+2025-10-30 22:28:30,048 - INFO - No images found in HTML for List_of_Indian_independence_activists
+2025-10-30 22:28:30,050 - INFO - Downloading images for: indian-history/Mahatma_Gandhi
+2025-10-30 22:28:30,084 - WARNING - Error getting images for Mahatma_Gandhi: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,085 - INFO - No images found for Mahatma_Gandhi
+2025-10-30 22:28:30,090 - INFO - No images found in HTML for Subhas_Chandra_Bose
+2025-10-30 22:28:30,092 - INFO - Downloading images for: indian-history/Bal_Gangadhar_Tilak
+2025-10-30 22:28:30,122 - WARNING - Error getting images for Bal_Gangadhar_Tilak: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,122 - INFO - No images found for Bal_Gangadhar_Tilak
+2025-10-30 22:28:30,125 - INFO - Downloading images for: indian-history/Lala_Lajpat_Rai
+2025-10-30 22:28:30,154 - WARNING - Error getting images for Lala_Lajpat_Rai: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,155 - INFO - No images found for Lala_Lajpat_Rai
+2025-10-30 22:28:30,156 - INFO - Downloading images for: indian-history/Bhagat_Singh
+2025-10-30 22:28:30,190 - WARNING - Error getting images for Bhagat_Singh: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,190 - INFO - No images found for Bhagat_Singh
+2025-10-30 22:28:30,191 - INFO - 
+--- Processing domain: geography ---
+2025-10-30 22:28:30,192 - INFO - Downloading images for: geography/Geography_of_India
+2025-10-30 22:28:30,226 - WARNING - Error getting images for Geography_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,227 - INFO - No images found for Geography_of_India
+2025-10-30 22:28:30,229 - INFO - Downloading images for: geography/List_of_major_rivers_of_India
+2025-10-30 22:28:30,258 - WARNING - Error getting images for List_of_major_rivers_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,259 - INFO - No images found for List_of_major_rivers_of_India
+2025-10-30 22:28:30,261 - INFO - Downloading images for: geography/Himalayas
+2025-10-30 22:28:30,294 - WARNING - Error getting images for Himalayas: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,294 - INFO - No images found for Himalayas
+2025-10-30 22:28:30,296 - INFO - Downloading images for: geography/Western_Ghats
+2025-10-30 22:28:30,327 - WARNING - Error getting images for Western_Ghats: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,327 - INFO - No images found for Western_Ghats
+2025-10-30 22:28:30,329 - INFO - Downloading images for: geography/Eastern_Ghats
+2025-10-30 22:28:30,359 - WARNING - Error getting images for Eastern_Ghats: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,360 - INFO - No images found for Eastern_Ghats
+2025-10-30 22:28:30,362 - INFO - Downloading images for: geography/Indo-Gangetic_Plain
+2025-10-30 22:28:30,392 - WARNING - Error getting images for Indo-Gangetic_Plain: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,393 - INFO - No images found for Indo-Gangetic_Plain
+2025-10-30 22:28:30,393 - INFO - 
+--- Processing domain: polity ---
+2025-10-30 22:28:30,394 - INFO - Downloading images for: polity/Constitution_of_India
+2025-10-30 22:28:30,429 - WARNING - Error getting images for Constitution_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,430 - INFO - No images found for Constitution_of_India
+2025-10-30 22:28:30,432 - INFO - Downloading images for: polity/Government_of_India
+2025-10-30 22:28:30,462 - WARNING - Error getting images for Government_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,462 - INFO - No images found for Government_of_India
+2025-10-30 22:28:30,465 - INFO - Downloading images for: polity/Parliament_of_India
+2025-10-30 22:28:30,495 - WARNING - Error getting images for Parliament_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,495 - INFO - No images found for Parliament_of_India
+2025-10-30 22:28:30,497 - INFO - Downloading images for: polity/Supreme_Court_of_India
+2025-10-30 22:28:30,528 - WARNING - Error getting images for Supreme_Court_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,528 - INFO - No images found for Supreme_Court_of_India
+2025-10-30 22:28:30,530 - INFO - Downloading images for: polity/Kesavananda_Bharati_v_State_of_Kerala
+2025-10-30 22:28:30,561 - WARNING - Error getting images for Kesavananda_Bharati_v_State_of_Kerala: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,561 - INFO - No images found for Kesavananda_Bharati_v_State_of_Kerala
+2025-10-30 22:28:30,563 - INFO - Downloading images for: polity/Basic_structure_doctrine
+2025-10-30 22:28:30,593 - WARNING - Error getting images for Basic_structure_doctrine: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,594 - INFO - No images found for Basic_structure_doctrine
+2025-10-30 22:28:30,594 - INFO - 
+--- Processing domain: science-technology ---
+2025-10-30 22:28:30,596 - INFO - Downloading images for: science-technology/Science_and_technology_in_India
+2025-10-30 22:28:30,631 - WARNING - Error getting images for Science_and_technology_in_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,631 - INFO - No images found for Science_and_technology_in_India
+2025-10-30 22:28:30,633 - INFO - Downloading images for: science-technology/ISRO
+2025-10-30 22:28:30,665 - WARNING - Error getting images for ISRO: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,665 - INFO - No images found for ISRO
+2025-10-30 22:28:30,667 - INFO - Downloading images for: science-technology/Chandrayaan_programme
+2025-10-30 22:28:30,698 - WARNING - Error getting images for Chandrayaan_programme: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,699 - INFO - No images found for Chandrayaan_programme
+2025-10-30 22:28:30,701 - INFO - Downloading images for: science-technology/Mars_Orbiter_Mission
+2025-10-30 22:28:30,733 - WARNING - Error getting images for Mars_Orbiter_Mission: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,733 - INFO - No images found for Mars_Orbiter_Mission
+2025-10-30 22:28:30,735 - INFO - Downloading images for: science-technology/Nuclear_power_in_India
+2025-10-30 22:28:30,765 - WARNING - Error getting images for Nuclear_power_in_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,765 - INFO - No images found for Nuclear_power_in_India
+2025-10-30 22:28:30,767 - INFO - Downloading images for: science-technology/Indias_three-stage_nuclear_power_programme
+2025-10-30 22:28:30,798 - WARNING - Error getting images for Indias_three-stage_nuclear_power_programme: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,799 - INFO - No images found for Indias_three-stage_nuclear_power_programme
+2025-10-30 22:28:30,802 - INFO - No images found in HTML for Vikram_Sarabhai
+2025-10-30 22:28:30,802 - INFO - 
+--- Processing domain: economy ---
+2025-10-30 22:28:30,804 - INFO - Downloading images for: economy/Economy_of_India
+2025-10-30 22:28:30,841 - WARNING - Error getting images for Economy_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,841 - INFO - No images found for Economy_of_India
+2025-10-30 22:28:30,843 - INFO - Downloading images for: economy/Banking_in_India
+2025-10-30 22:28:30,878 - WARNING - Error getting images for Banking_in_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,879 - INFO - No images found for Banking_in_India
+2025-10-30 22:28:30,881 - INFO - Downloading images for: economy/Reserve_Bank_of_India
+2025-10-30 22:28:30,914 - WARNING - Error getting images for Reserve_Bank_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,915 - INFO - No images found for Reserve_Bank_of_India
+2025-10-30 22:28:30,916 - INFO - Downloading images for: economy/Finance_in_India
+2025-10-30 22:28:30,950 - WARNING - Error getting images for Finance_in_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,950 - INFO - No images found for Finance_in_India
+2025-10-30 22:28:30,954 - INFO - No images found in HTML for Payment_and_settlement_systems_in_India
+2025-10-30 22:28:30,956 - INFO - No images found in HTML for List_of_banks_in_India
+2025-10-30 22:28:30,956 - INFO - 
+--- Processing domain: environment ---
+2025-10-30 22:28:30,958 - INFO - Downloading images for: environment/Environmental_issues_in_India
+2025-10-30 22:28:30,993 - WARNING - Error getting images for Environmental_issues_in_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:30,994 - INFO - No images found for Environmental_issues_in_India
+2025-10-30 22:28:30,998 - INFO - Downloading images for: environment/Wildlife_of_India
+2025-10-30 22:28:31,035 - WARNING - Error getting images for Wildlife_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:31,035 - INFO - No images found for Wildlife_of_India
+2025-10-30 22:28:31,037 - INFO - Downloading images for: environment/Environment_of_India
+2025-10-30 22:28:31,070 - WARNING - Error getting images for Environment_of_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:31,071 - INFO - No images found for Environment_of_India
+2025-10-30 22:28:31,078 - INFO - Downloading images for: environment/Conservation_in_India
+2025-10-30 22:28:31,115 - WARNING - Error getting images for Conservation_in_India: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:31,115 - INFO - No images found for Conservation_in_India
+2025-10-30 22:28:31,118 - INFO - No images found in HTML for Fauna_of_India
+2025-10-30 22:28:31,118 - INFO - 
+--- Processing domain: international-relations ---
+2025-10-30 22:28:31,121 - INFO - Downloading images for: international-relations/United_Nations
+2025-10-30 22:28:31,159 - WARNING - Error getting images for United_Nations: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:31,160 - INFO - No images found for United_Nations
+2025-10-30 22:28:31,161 - INFO - Downloading images for: international-relations/International_relations
+2025-10-30 22:28:31,192 - WARNING - Error getting images for International_relations: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:31,193 - INFO - No images found for International_relations
+2025-10-30 22:28:31,195 - INFO - Downloading images for: international-relations/List_of_specialized_agencies_of_the_United_Nations
+2025-10-30 22:28:31,227 - WARNING - Error getting images for List_of_specialized_agencies_of_the_United_Nations: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:31,227 - INFO - No images found for List_of_specialized_agencies_of_the_United_Nations
+2025-10-30 22:28:31,228 - INFO - 
+--- Processing domain: organizations ---
+2025-10-30 22:28:31,229 - INFO - Downloading images for: organizations/United_Nations_System
+2025-10-30 22:28:31,266 - WARNING - Error getting images for United_Nations_System: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:31,267 - INFO - No images found for United_Nations_System
+2025-10-30 22:28:31,269 - INFO - Downloading images for: organizations/List_of_intergovernmental_organizations
+2025-10-30 22:28:31,300 - WARNING - Error getting images for List_of_intergovernmental_organizations: Expecting value: line 1 column 1 (char 0)
+2025-10-30 22:28:31,301 - INFO - No images found for List_of_intergovernmental_organizations
+2025-10-30 22:28:31,303 - INFO - No images found in HTML for International_organization
+2025-10-30 22:28:31,306 - INFO - No images found in HTML for Member_states_of_the_United_Nations
+2025-10-30 22:28:31,306 - INFO - 
+--- Processing domain: culture ---
+2025-10-30 22:28:31,308 - INFO - No images found in HTML for Culture_of_India
+2025-10-30 22:28:31,310 - INFO - No images found in HTML for Indian_literature
+2025-10-30 22:28:31,315 - INFO - 
+🎯 Image Collection Summary:
+2025-10-30 22:28:31,315 - INFO -    Total images downloaded: 0
+2025-10-30 22:28:31,316 - INFO -    Downloads completed: 0
+2025-10-30 22:28:31,316 - INFO -    Summary saved: /workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/image_downloads/collection_summary.json
+2025-10-30 22:28:31,316 - WARNING - ⚠️ No images were downloaded

@@ -1,0 +1,63 @@
+{
+  "total_images": 6,
+  "download_date": "2025-10-30",
+  "images": [
+    {
+      "filename": "The_Free_Encyclopedia.jpg",
+      "size": 9444,
+      "educational_value": "Medium"
+    },
+    {
+      "filename": "Wikipedia.jpg",
+      "size": 6170,
+      "educational_value": "Medium"
+    },
+    {
+      "filename": "decomposition_stages.jpg",
+      "size": 37901,
+      "educational_value": "High"
+    },
+    {
+      "filename": "ecosystem_nitrogen_cycle.jpg",
+      "size": 33927,
+      "educational_value": "High"
+    },
+    {
+      "filename": "nitrogen_cycle_diagram.jpg",
+      "size": 33927,
+      "educational_value": "High"
+    },
+    {
+      "filename": "plastic_pollution_map.jpg",
+      "size": 12070,
+      "educational_value": "High"
+    }
+  ],
+  "educational_topics_supported": [
+    "Environmental pollution and smog",
+    "Marine plastic pollution and ocean contamination",
+    "Biogeochemical cycles (nitrogen cycle)",
+    "Decomposition and nutrient cycling",
+    "Ecosystem processes and energy flow"
+  ],
+  "critical_educational_content": [
+    {
+      "image": "ecosystem_nitrogen_cycle.jpg",
+      "topic": "Nitrogen Cycle - Biogeochemical Cycling",
+      "description": "Essential diagram showing nitrogen cycling in ecosystems",
+      "importance": "Critical for understanding nutrient cycles"
+    },
+    {
+      "image": "plastic_pollution_map.jpg",
+      "topic": "Plastic Pollution - Marine Environment",
+      "description": "Map showing global plastic pollution distribution",
+      "importance": "Key for pollution and environmental issues"
+    },
+    {
+      "image": "decomposition_stages.jpg",
+      "topic": "Decomposition Processes",
+      "description": "Visual showing stages of organic matter decomposition",
+      "importance": "Essential for ecosystem nutrient cycling"
+    }
+  ]
+}

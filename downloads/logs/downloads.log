@@ -1,0 +1,52 @@
+--2025-10-30 19:42:09--  https://rrbsecunderabad.gov.in/CEN05-2024-CBT1-to-CBT2-Results-CEN-05-2024-NTPC-Graduate.pdf
+Resolving rrbsecunderabad.gov.in (rrbsecunderabad.gov.in)... 45.127.64.40
+Connecting to rrbsecunderabad.gov.in (rrbsecunderabad.gov.in)|45.127.64.40|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2025-10-30 19:45:02 ERROR 404: Not Found.
+
+[Thu Oct 30 19:47:23 CST 2025] Starting download of RRB CBT1 to CBT2 Results 2024
+[Thu Oct 30 19:47:38 CST 2025] Download failed
+
+=== Download Summary ===
+Time: 2025-10-30T19:53:35.228283
+Successful: 0
+Failed: 4
+Total attempted: 4
+Failed downloads:
+  - https://rrbsecunderabad.gov.in/CEN05-2024-CBT1-to-CBT2-Results-CEN-05-2024-NTPC-Graduate.pdf
+  - https://rrbchennai.gov.in/CEN-03-2015-shortlisted-18candidates-2nd-stage-examination.pdf
+  - https://rrbsecunderabad.gov.in/CEN-01-2019-NTPC-CBT1-Result-Level-5.pdf
+  - https://rrbchennai.gov.in/CEN-05-2024-NB-Candidates-shortlisted-for-CBT-2.pdf
+
+=== Download Summary ===
+Time: 2025-10-30T19:54:34.991375
+Successful: 0
+Failed: 4
+Total attempted: 4
+Failed downloads:
+  - https://rrbsecunderabad.gov.in/CEN05-2024-CBT1-to-CBT2-Results-CEN-05-2024-NTPC-Graduate.pdf
+  - https://rrbchennai.gov.in/CEN-03-2015-shortlisted-18candidates-2nd-stage-examination.pdf
+  - https://rrbsecunderabad.gov.in/CEN-01-2019-NTPC-CBT1-Result-Level-5.pdf
+  - https://rrbchennai.gov.in/CEN-05-2024-NB-Candidates-shortlisted-for-CBT-2.pdf
+
+=== RRB Bhopal Download Summary ===
+Time: 2025-10-30T20:01:22.235789
+Successful: 4
+Failed: 0
+Total attempted: 4
+Successful downloads:
+  - /workspace/downloads/rrb-ntpc/previous-papers/CBT1/2025/notice__2025__CBT__railway-recruitment-warning__en__rrbbhopal.gov.pdf
+  - /workspace/downloads/rrb-ntpc/previous-papers/CBT1/2025/faq__2025__CBT__normalization__en__rrbbhopal.gov.pdf
+  - /workspace/downloads/rrb-ntpc/previous-papers/CBT1/2025/notice__2025__CBT__email-correspondence__en__rrbbhopal.gov.pdf
+  - /workspace/downloads/rrb-ntpc/previous-papers/CBT1/2025/cen__2025__CBT__je-dms-cma__en__rrbbhopal.gov.pdf
+
+=== RRB Bhopal Download Summary ===
+Time: 2025-10-30T20:02:16.671307
+Successful: 4
+Failed: 0
+Total attempted: 4
+Successful downloads:
+  - /workspace/downloads/rrb-ntpc/previous-papers/CBT1/2025/notice__2025__CBT__railway-recruitment-warning__en__rrbbhopal.gov.pdf
+  - /workspace/downloads/rrb-ntpc/previous-papers/CBT1/2025/faq__2025__CBT__normalization__en__rrbbhopal.gov.pdf
+  - /workspace/downloads/rrb-ntpc/previous-papers/CBT1/2025/notice__2025__CBT__email-correspondence__en__rrbbhopal.gov.pdf
+  - /workspace/downloads/rrb-ntpc/previous-papers/CBT1/2025/cen__2025__CBT__je-dms-cma__en__rrbbhopal.gov.pdf

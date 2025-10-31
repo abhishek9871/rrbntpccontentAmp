@@ -1,0 +1,19 @@
+{
+  "title": "Reserve_Bank_of_India",
+  "source_url": "https://en.wikipedia.org/wiki/Reserve_Bank_of_India",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Reserve_Bank_of_India",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:34:03.224330",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "bdfa9ee7e7c0cf1017b88c0e5a86475a",
+  "checksum_sha256": "d52927340021d6ecd073f4c636e7d814a431707fc8cf466df48d8e458c640c4d"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Bal_Gangadhar_Tilak",
+  "source_url": "https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Bal_Gangadhar_Tilak",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:31:17.222942",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "7c1d64ef33cc38f6aed68c37e77214f1",
+  "checksum_sha256": "9c679e7501cc03f44ece30e4da4a44c765ba4deff921a283c4734d4f58af7f45"
+}

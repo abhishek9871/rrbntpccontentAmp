@@ -1,0 +1,19 @@
+{
+  "title": "Wildlife_of_India",
+  "source_url": "https://en.wikipedia.org/wiki/Wildlife_of_India",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Wildlife_of_India",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:36:27.790380",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "2de329b2db994bcb46e3718e404e53cc",
+  "checksum_sha256": "ad28c04e72727bf77fb0225ec638f38d0f7a7359557a0308d0ec86f50b8ff566"
+}

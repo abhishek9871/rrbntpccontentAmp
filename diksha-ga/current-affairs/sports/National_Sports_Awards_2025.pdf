@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <title>SarkariPariksha: Prepare online for SSC</title> -->
+    <link rel="icon" href="/wp-content/themes/sp_theme_1/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/wp-content/themes/sarkaripariksha_theme/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/wp-content/themes/sarkaripariksha_theme/css/swiper-bundle.min.css">
+    <link rel="stylesheet" type="text/css" href="https://sarkaripariksha.com/wp-content/themes/sarkaripariksha_theme/css/jquery-ui.css" />
+    <script src="/wp-content/themes/sarkaripariksha_theme/js/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/wp-content/themes/sarkaripariksha_theme/style.css?301025065101">
+    <link rel="stylesheet" href="/wp-content/plugins/tet-india/css/toastr.min.css">
+    <!-- Global site tag (gtag.js) - Google Analytics  -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7QDVNQ527G"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-7QDVNQ527G');
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Sarkari Pariksha",
+            "url": "https://sarkaripariksha.com",
+            "logo": "https://sarkaripariksha.com/wp-content/themes/sp_theme_1/images/logo-wide-white.png",
+            "sameAs": [
+                "https://www.facebook.com/sarkariparikshacom",
+                "https://twitter.com/ParikshaSarkari",
+                "https://www.instagram.com/sarkari_pariksha",
+                "https://www.youtube.com/channel/UCN2zU-NlmCuvjDFikv5507w",
+                "https://www.linkedin.com/company/sarkari-pariksha",
+                "https://in.pinterest.com/sarkaripariksha"
+            ]
+        }
+    </script>
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+            OneSignal.init({
+                appId: "e04ab9e5-0777-432c-bdb2-c847625f5bc2",
+                notifyButton: {
+                    enable: true,
+                },
+            });
+            OneSignal.showNativePrompt();
+        });
+    </script>
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sarkaripariksha.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://sarkaripariksha.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://sarkaripariksha.com/wp-json/" /><link rel="alternate" type="application/json" href="https://sarkaripariksha.com/wp-json/wp/v2/pages/3197" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sarkaripariksha.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sarkaripariksha.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.1" />
+<link rel='shortlink' href='https://sarkaripariksha.com/?p=3197' />
+<link rel="alternate" type="application/json+oembed" href="https://sarkaripariksha.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsarkaripariksha.com%2Fstatic-gk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sarkaripariksha.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsarkaripariksha.com%2Fstatic-gk%2F&#038;format=xml" />
+<script src='https://sarkaripariksha.com/?dm=245ba3b2331840da70f3cb11a66d940a&amp;action=load&amp;blogid=1&amp;siteid=1&amp;t=670333489&amp;back=https%3A%2F%2Fsarkaripariksha.com%2Fstatic-gk%2Fnational-sports-awards-2025-winner-list.pdf%2F' type='text/javascript'></script><meta name="keywords" content="" /></head>
+
+<body class="page-template-default page page-id-3197" id="custom-scroll">
+
+    <!-- HEADER SECTION -->
+
+    <header class="header-section">
+        <div class="top-header-section navigation-header">
+            <div class="container">
+                <div class="row d-flex">
+                    <div class="col-md-1 col-sm-2 col-xs-4">
+                        <div class="logo-box">
+                            <a href="/"><img class="sp-logo" src="/wp-content/themes/sarkaripariksha_theme/images/sp-logo.png" alt=""></a>
+                        </div>
+                    </div>
+
+                    <div class="desktop-hide col-xs-8">
+                        <ul>
+                                                            <li class="loginregister-btn">
+                                    <a href="/sign-up/"><i class="fa fa-user"></i> Login / Register</a>
+                                </li>
+                                                    </ul>
+                    </div>
+
+                    <div class="col-md-8 col-sm-12 col-xs-12">
+                        <div class="header-nav-box">
+                            <div class="navbar navbar-default" role="navigation">
+                                <div class="desktop-hide">
+                                    <div class="navbar-header">
+                                        <div class="navbar-header-toggle-flex">
+                                            <a class="exams-toggle-btn" href="/exams/"> <i class="fa fa-book"></i> Exams</a>
+                                            <div>
+                                                <a href="/exams/"><i class="fa fa-search"></i></a>
+                                                <a href="/notification/"><i class="fa fa-bell"></i></a>
+                                            </div>
+                                        </div>
+                                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                            <span class="sr-only">Toggle navigation</span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="collapse navbar-collapse">
+                                    <div class="d-flex">
+                                        <ul class="nav navbar-nav">
+                                            <li class="active"><a href="/">Home</a></li>
+                                            <li>
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Exams <b class="caret"></b></a>
+                                                <ul class="dropdown-menu multi-level">
+                                                    <li><a href="/exams/">All Exams</a></li>
+                                                    <li><a href="/central-exams/">Central Exams</a></li>
+                                                    <li><a href="/state-exams/">State Exams</a></li>
+                                                    <li><a href="/school-exams/">School Exams</a></li>
+                                                    <li><a href="/computer-exams/">Computer Exams</a></li>
+                                                    <li><a href="/upcoming-exams/">Upcoming Exams</a></li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Samanya Gyan Guru <b class="caret"></b></a>
+                                                <ul class="dropdown-menu multi-level">
+                                                    <li><a href="/gk-and-current-affairs/">Current Affairs</a></li>
+                                                    <!-- <li><a href="/news-analysis/">News Analysis</a></li> -->
+                                                    <li><a href="/ready-reference/">Static GK</a></li>
+                                                    <li><a href="/current-affair-videos/">Current Affairs Videos</a></li>
+                                                    <li><a href="/one-liner-current-affairs/">One Liner Current Affairs</a></li>
+                                                    <li><a href="/weekly-current-affairs/">Weekly Current Affairs</a></li>
+                                                    <li><a href="/mica-100/">MICA-100</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="/daily-quiz/">Daily Quiz</a></li>
+                                            <li><a href="/live-test/">Live Test</a></li>
+                                            <li><a href="/video-series/">Videos</a></li>
+
+                                            <!-- <li>
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Skill Courses <b class="caret"></b></a>
+                                                <ul class="dropdown-menu multi-level">
+                                                <li><a href="/english-speaking-course/">English Speaking Course</a></li>
+                                                <li><a href="/skill-course/"> Skill Courses</a></li>
+
+                                                </ul>
+                                            </li> -->
+                                            <!-- <li><a href="/gupta-ji-ki-accounts-classes-for-class-12/" class="AccountsClassesBtn"> Accounts Classes <div class="blink"></div></a></li> -->
+
+
+                                            <!-- <li><a href="plan-details.php">Plans</a></li> -->
+                                            <!-- <li><a href="/skill-course1">Skill Courses</a></li> -->
+                                            <!-- <li><a href="upcoming-exams1">Upcoming Exams</a></li> -->
+                                            <!-- <li><a href="become-a-partner1">Become a Partner</a></li> -->
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-12 col-xs-12 mobile-hide">
+                        <ul class="loginregister-ul-div">
+                            <li>
+                                <div class="open-btn1"></div>
+                                <div id="search-wrap">
+                                    <form role="search" method="get" id="searchform" action="/exams/" autocomplete="off">
+                                        <input type="text" value="" name="search" id="search-text" placeholder="Search">
+                                        <button type="submit" class="searchsubmit-icon"> <span id="searchsubmit"></span></button>
+                                    </form>
+                                </div>
+                            </li>
+                            <li class="noti-dropdown">
+                                <div class="dd"><a href=""><i class="fa fa-bell"></i></a>
+                                    <input type="checkbox">
+                                    <div class="dd-c">
+                                            <h4>
+        <div>
+            Notification
+        </div>
+        <a href="/notification/">view all</a>
+    </h4>
+    <ul class="notification-page-ul">                <li>
+                    <a href="#">
+                        <img src="/wp-content/plugins/tet-india/images/category-icons/ssc_4.png" alt="">
+                        <div>
+                            <h5>Oct 30</h5>
+                            <p>MPPSC SET (State Eligibility Test) Form 2025 l Online Application</p>
+                        </div>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://sarkaripariksha.com//rrb-ntpc-undergraduate-level-cbt-1/">
+                        <img src="/wp-content/plugins/tet-india/images/category-icons/railway.png" alt="">
+                        <div>
+                            <h5>Oct 28</h5>
+                            <p>Railways RRB NTPC 10+2 Level 2025 l Online Application	</p>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <img src="/wp-content/plugins/tet-india/images/category-icons/ssc_4.png" alt="">
+                        <div>
+                            <h5>Oct 28</h5>
+                            <p>IBPS Specialist Officer SO 15th Recruitment 2025	l Marks / Score Card</p>
+                        </div>
+                    </a>
+                </li>
+                            <li>
+                    <a href="#">
+                        <img src="/wp-content/plugins/tet-india/images/category-icons/ssc_4.png" alt="">
+                        <div>
+                            <h5>Oct 28</h5>
+                            <p>UP Police Computer Operator 2023 l Admit Card	</p>
+                        </div>
+                    </a>
+                </li>
+                            <li>
+                    <a href="#">
+                        <img src="/wp-content/plugins/tet-india/images/category-icons/ssc_4.png" alt="">
+                        <div>
+                            <h5>Oct 28</h5>
+                            <p>UP Police SI ASI Clerk & Accountant 2023 l Admit Card	</p>
+                        </div>
+                    </a>
+                </li>
+            </ul>                                    </div>
+                                </div>
+                            </li>
+                                                            <li class="loginregister-btn">
+                                    <a href="/sign-up/"><i class="fa fa-user"></i> Login / Register</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- END HEADER SECTION --><!-- CURRENT AFFAIRS PAGE SECTION -->
+
+    <section class="examlist-details-page-section special-details-page-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="examlist-details-left-box recent-post-left-box">
+
+                        <h6>Other Static GK</h6>
+
+                        <ul id="english_content">
+                                                                <li>
+                                        <p>The politics of the EBCs in Bihar?</p><a href="https://sarkaripariksha.com/static-gk/the-politics-of-the-ebcs-in-bihar/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>Why are China’s officials being expelled?</p><a href="https://sarkaripariksha.com/static-gk/why-are-chinas-officials-being-expelled/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>Why has IUCN red-flagged the Western Ghats?</p><a href="https://sarkaripariksha.com/static-gk/why-has-iucn-red-flagged-the-western-ghats/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>What France and others can learn from Sweden’s hard budget lessons?</p><a href="https://sarkaripariksha.com/static-gk/what-france-and-others-can-learn-from-swedens-hard-budget-lessons/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>How do monsoons affect Tamil Nadu?</p><a href="https://sarkaripariksha.com/static-gk/how-do-monsoons-affect-tamil-nadu/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>Global investors like the new-look Japan government, for the present:</p><a href="https://sarkaripariksha.com/static-gk/global-investors-like-the-new-look-japan-government-for-the-present/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>U.S-.Australia rare earths deal won’t shake China dominance:</p><a href="https://sarkaripariksha.com/static-gk/u-s-australia-rare-earths-deal-wont-shake-china-dominance/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>When brands sparkle out of the box:</p><a href="https://sarkaripariksha.com/static-gk/when-brands-sparkle-out-of-the-box/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>Restoring fiscal space for the States:</p><a href="https://sarkaripariksha.com/static-gk/restoring-fiscal-space-for-the-states/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>Auto sector bankruptcies spark fresh scrutiny of Wall Street credit risks:</p><a href="https://sarkaripariksha.com/static-gk/auto-sector-bankruptcies-spark-fresh-scrutiny-of-wall-street-credit-risks/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>A realignment of Pak.-Afghan relations:</p><a href="https://sarkaripariksha.com/static-gk/a-realignment-of-pak-afghan-relations/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>TSF group lays the road for future:</p><a href="https://sarkaripariksha.com/static-gk/tsf-group-lays-the-road-for-future/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>Musk’s record Tesla package will pay him tens of billions of dollars even if he misses most goals:</p><a href="https://sarkaripariksha.com/static-gk/musks-record-tesla-package-will-pay-him-tens-of-billions-of-dollars-even-if-he-misses-most-goals/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>Euphoria grips U.S. stock options traders on fear of missing out:</p><a href="https://sarkaripariksha.com/static-gk/euphoria-grips-u-s-stock-options-traders-on-fear-of-missing-out/">Read More</a>
+                                    </li>
+                                                                <li>
+                                        <p>Asia’s carbon capture push may jeopardise global climate goals:</p><a href="https://sarkaripariksha.com/static-gk/asias-carbon-capture-push-may-jeopardise-global-climate-goals/">Read More</a>
+                                    </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- END News Analysis details PAGE SECTION -->
+
+<style>
+    table.MsoNormalTable {
+        font-family: 'Heebo', sans-serif !important;
+        border-collapse: collapse !important;
+        margin: 25px 0 !important;
+        font-size: 0.9em !important;
+        min-width: 400px !important;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15) !important;
+        width: 100%;
+    }
+
+    table.MsoNormalTable th {
+        padding: 12px 15px !important;
+        font-size: 14px !important;
+        font-weight: normal !important;
+        font-family: 'Heebo', sans-serif !important;
+    }
+
+    table.MsoNormalTable td {
+        padding: 12px 15px !important;
+        font-size: 14px !important;
+        font-weight: normal !important;
+        font-family: 'Heebo', sans-serif !important;
+    }
+
+    table.MsoNormalTable td p,
+    table.MsoNormalTable td span {
+        font-family: 'Heebo', sans-serif !important;
+        font-weight: normal !important;
+        font-size: 14px !important;
+    }
+
+    table.MsoNormalTable tbody tr {
+        border-bottom: 1px solid #dddddd !important;
+    }
+
+    /* table.MsoNormalTable tbody tr:first-child {
+        background-color: #f3f3f3 !important;
+    } */
+
+    table.MsoNormalTable tbody tr:first-child>td p,
+    table.MsoNormalTable tbody tr:first-child>td span {
+        font-family: 'Heebo', sans-serif !important;
+        font-weight: 700 !important;
+        font-size: 14px !important;
+    }
+
+    table.MsoNormalTable tbody tr:nth-of-type(odd) {
+        background-color: #f7f7f7 !important;
+    }
+
+    table.MsoNormalTable tbody tr:last-of-type {
+        border-bottom: 2px solid #f58634 !important;
+    }
+
+    table.MsoNormalTable tbody tr.active-row {
+        font-weight: bold !important;
+        color: #009879 !important;
+    }
+
+    .examlist-details-center-box-1 {
+        box-shadow: 0 0 30px 0 rgb(0 0 0 / 10%);
+        background-color: #ffffff;
+        border: 1px solid #dedede;
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .examlist-details-para-box {
+        border-top: none;
+    }
+
+    .examlist-details-para-box p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 10px;
+        font-weight: normal;
+        color: #515151;
+    }
+
+    .examlist-details-center-box-1 {
+        padding: 0;
+    }
+
+    .examlist-details-center-box-1 ul li,
+    .examlist-details-center-box-1 ol li {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 10px;
+        font-weight: normal;
+        color: #515151;
+    }
+
+    .examlist-details-center-box-1 ul,
+    .examlist-details-center-box-1 ol {
+        padding: 0;
+        padding-left: 30px;
+    }
+
+    .special-header-page-section {
+        background: #0056a7;
+        padding: 20px 0;
+        border-bottom: 4px solid #1d8eff;
+    }
+
+    .special-header-page-section h1 {
+        margin: 0;
+        font-size: 22px;
+        color: #ffffff;
+        line-height: 34px;
+        font-weight: 800;
+    }
+
+    .special-header-page-section p {
+        margin: 0;
+        font-weight: 500;
+        color: #ffffff;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+    .special-header-page-section p a {
+        color: #d6d6d6;
+        text-decoration: underline;
+    }
+
+    .special-header-page-section .current-affairslanguageFlex {
+        text-align: right;
+    }
+
+    .special-header-page-section .current-affairslanguageFlex span {
+        display: block;
+        font-size: 10px;
+        color: #fff;
+        font-weight: 500;
+        margin-bottom: 10px;
+    }
+
+    .special-header-page-section .current-affairslanguageFlex a {
+        display: inline-block;
+        background: #ffffff;
+        font-size: 10px;
+        padding: 4px 14px;
+        color: #000;
+        border-radius: 2px;
+        line-height: normal;
+    }
+
+    .special-header-page-section .row {
+        align-items: center;
+        display: flex;
+    }
+
+    .bookmark-news-right .fa-bookmark {
+        background: #f1802b;
+        color: #fff;
+        padding: 4px 6px;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+
+    .examlist-details-center-box-1 .ca-news-img-div .ca-news-img {
+        min-width: 100%;
+        max-width: 100%;
+        max-height: 340px;
+        object-fit: contain;
+        background: #dadada;
+        padding: 10px 0;
+        border-radius: 10px 10px 0 0;
+    }
+
+    .examlist-details-center-box-1 .CategoryCurrentAffairsBox {
+        font-weight: 400;
+        font-size: 14px;
+        margin: 0;
+        padding: 10px 20px;
+        background: #00376a;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .examlist-details-center-box-1 .CategoryCurrentAffairsBox p {
+        margin: 0;
+        color: #fff;
+    }
+
+    .examlist-details-center-box-1 .CategoryCurrentAffairsBox p span {
+        border-right: 2px solid #b7b7b7;
+        display: inline-block;
+        padding-right: 10px;
+        margin-right: 10px;
+        font-size: 12px;
+    }
+
+    .examlist-details-center-box-1 .CategoryCurrentAffairsBox p span:last-child {
+        border-right: none;
+        padding-right: 0;
+        margin-right: 0;
+    }
+
+    .examlist-details-center-box-1 .CategoryCurrentAffairsBox .bookmarkBtn {
+        font-size: 12px;
+        padding: 2px 8px;
+        text-align: center;
+        border-radius: 2px;
+        line-height: normal;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+
+    .bookmark_login {
+        font-size: 12px;
+        padding: 2px 8px;
+        text-align: center;
+        border-radius: 2px;
+        line-height: normal;
+        margin-left: 10px;
+        cursor: pointer;
+        color: white;
+        background: #e90606;
+    }
+
+    .examlist-details-center-box-1 .CategoryCurrentAffairsBox .ShareonfacebookBtn {
+        background: #4267B2;
+        color: #fff;
+        font-size: 12px;
+        padding: 4px 10px;
+        line-height: normal;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .special-details-page-section .recent-post-left-box h6 {
+        margin: 0;
+        font-size: 14px;
+        font-weight: 700;
+        background: #393939;
+        color: #fff;
+        padding: 10px 16px;
+        border-radius: 4px 4px 0 0;
+    }
+
+    .special-details-page-section .recent-post-left-box ul {
+        background: #f7f7f7;
+        padding: 6px 10px;
+    }
+
+    .special-details-page-section .recent-post-left-box ul li {
+        list-style: none;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .special-header-page-section .row {
+            display: block;
+        }
+
+        .special-header-page-section h1 {
+            line-height: 28px;
+        }
+
+        .examlist-details-center-box-1 .CategoryCurrentAffairsBox {
+            display: block;
+        }
+
+        .examlist-details-center-box-1 .CategoryCurrentAffairsBox .SocialBookmarkFlex {
+            margin-top: 20px;
+        }
+
+        .examlist-details-center-box-1 .CategoryCurrentAffairsBox p span {
+            display: initial;
+        }
+    }
+</style>
+<script type='text/javascript' src='https://sarkaripariksha.com/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
+<!-- FOOTER SECTION -->
+
+<footer class="footer-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3 col-sm-4 col-xs-12">
+				<h4 class="footer-head">ABOUT</h4>
+				<p>SarkariPariksha.com is an online test preparation platform for 150+ Central and State level exams and is available on web and mobile formats.</p>
+				<button><a href="/exams/" target="_blank">LEARNING NOW</a></button>
+			</div>
+
+			<div class="col-md-3 col-sm-4 col-xs-12">
+				<h4 class="footer-head">SAMANYA GYAN GURU</h4>
+
+				<ul>
+					<li><a href="/gk-and-current-affairs/"><i class="fa fa-angle-right"></i>Current Affairs</a></li>
+					<!-- <li><a href="/news-analysis/"><i class="fa fa-angle-right"></i>News Analysis</a></li> -->
+					<li><a href="/ready-reference/"><i class="fa fa-angle-right"></i>Static GK</a></li>
+					<li><a href="/current-affair-videos/"><i class="fa fa-angle-right"></i>Current Affairs Videos</a></li>
+					<li><a href="/one-liner-current-affairs/"><i class="fa fa-angle-right"></i>One Liner Current Affairs</a></li>
+				</ul>
+			</div>
+
+			<div class="col-md-3 col-sm-4 col-xs-12">
+				<h4 class="footer-head">USEFUL LINKS</h4>
+				<ul>
+					<li><a href="/about-us/"> <i class="fa fa-angle-right"></i>About Us</a></li>
+					<li><a href="/contact-us/"> <i class="fa fa-angle-right"></i>Contact Us</a></li>
+					<li><a href="/school-lms/"><i class="fa fa-angle-right"></i>School LMS</a></li>
+					<!-- <li><a href="/gupta-ji-ki-accounts-classes-for-class-12/"><i class="fa fa-angle-right"></i>Accounts Classes</a></li> -->
+					<!-- <li><a href="/blogs/"><i class="fa fa-angle-right"></i>Blogs</a></li> -->
+					<li><a href="/become-a-partner/"><i class="fa fa-angle-right"></i>Become a Partner</a></li>
+				</ul>
+			</div>
+
+			<div class="col-md-3 col-sm-12 col-xs-12">
+				<h4 class="footer-head">CONTACT</h4>
+
+				<ul>
+					<li>
+						<i class="fa fa-envelope"></i>
+						info@sarkaripariksha.com
+					</li>
+					<li>
+						<i class="fab fa-whatsapp"></i>
+						+91 7042298465
+					</li>
+				</ul>
+
+				<div class="footer-social-link">
+					<h4>Share With Us</h4>
+					<a target="_blank" href="https://www.facebook.com/sarkariparikshacom"><i class="fa-brands fa-facebook-f" style="background: #3d6198;"></i></a>
+					<a target="_blank" href="https://twitter.com/ParikshaSarkari"><i class="fa-brands fa-twitter" style="background: #50a5fe;"></i></a>
+					<a target="_blank" href="https://www.instagram.com/sarkari_pariksha/"><i class="fa-brands fa-instagram" style="background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);"></i></a>
+					<a target="_blank" href="https://www.youtube.com/channel/UCN2zU-NlmCuvjDFikv5507w"><i class="fa-brands fa-youtube" style="background: #c93b10;"></i></a>
+					<a target="_blank" href="https://www.linkedin.com/company/sarkari-pariksha"><i class="fa-brands fa-linkedin-in" style="background: #3479a8;"></i></a>
+					<a href="https://t.me/officialsarkaripariksha"><i class="fa-brands fa-telegram" style="background: #4b8ec6;"></i></a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-12 col-sm-12 col-xs-12">
+				<div class="footer-tags-box">
+					<h4>Tags</h4>
+					<a href="/common-entrance-test/ccc-exam/" target="_blank">NIELIT CCC Test</a>
+					<a href="/upsc/" target="_blank">UPSC</a>
+					<a href="/ssc/" target="_blank">SSC</a>
+					<a href="/railways/" target="_blank">Railways</a>
+					<a href="/other-government-exam/" target="_blank">Other Exams</a>
+					<a href="/state-exam/" target="_blank">State Exam</a>
+					<a href="/common-entrance-test/" target="_blank">Entrance Test</a>
+					<a href="/teacher-eligibility-test/" target="_blank">Teacher Eligibility Test</a>
+					<a href="/wb-exams/" target="_blank">West Bengal</a>
+					<a href="/haryana-exams/" target="_blank">Haryana Exams</a>
+					<a href="/jharkhand-exams/" target="_blank">Jharkhand Exams</a>
+					<a href="/up-exams/" target="_blank">Uttar Pradesh Exams</a>
+					<a href="/uttarakhand-exams/" target="_blank">Uttarakhand Exams</a>
+					<a href="/mp-exams/" target="_blank">Madhya Pradesh Exams</a>
+					<a href="/rajasthan-exams/" target="_blank">Rajasthan Exams</a>
+					<a href="/bihar-exams/" target="_blank">Bihar Exams</a>
+					<a href="/common-entrance-test/jawahar-navodaya-vidyalaya-selection-test/" target="_blank">JNVST Class-VI</a>
+					<a href="/ssc/ssc-cgl-exam/" target="_blank">SSC CGL (Tier-I)</a>
+					<a href="/wb-exams/wbpsc-miscellaneous-jobs-exams/" target="_blank">WBPSC Misc Services (Prelims)</a>
+					<a href="/ssc/ssc-chsl-exam/" target="_blank">SSC CHSL (Tier-I)</a>
+					<a href="/common-entrance-test/neet-exam/" target="_blank">NTA-NEET</a>
+					<a href="/ssc/ssc-stenographer-exam/" target="_blank">SSC Stenographer Grade C &amp; D </a>
+					<a href="/railways/railway-group-d/" target="_blank">Railway RRC Group D</a>
+					<a href="/haryana-exams/haryana-si/" target="_blank">Haryana Police Constable &amp; SI</a>
+					<a href="/haryana-exams/haryana-land-patwari/" target="_blank">Haryana (HSSC) Land Patwari</a>
+					<a href="/haryana-exams/haryana-canal-patwari/" target="_blank">Haryana (HSSC) Canal Patwari</a>
+					<a href="/haryana-exams/haryana-gram-sachiv/" target="_blank">Haryana GS Gram Sachiv</a>
+					<a href="/rajasthan-exams/rajasthan-police-constable/" target="_blank">Rajasthan Police Constable (GD)</a>
+					<a href="/rajasthan-exams/rajasthan-patwari/" target="_blank">RSMSSB Rajasthan Patwari</a>
+					<a href="/bihar-exams/bihar-amin/" target="_blank">Bihar Amin</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Start of Zopim Live Chat Script-->
+	<img src="/wp-content/themes/sp_theme_1/images/chat-img.webp" alt="Zendesk Chat" id="zendeskChatImage" style="width: 32px;  cursor:pointer; z-index: 9; float: right; margin: -5px 22px 0px 0px;" />
+          <script type="text/javascript">
+            var image = document.getElementById('zendeskChatImage');
+            image.onclick = function () {
+                initializeChat();
+                image.classList.add("chatImgHide");
+            };
+            function initializeChat() {
+              window.$zopim || (function(d, s) {
+                var z = $zopim = function(c) {
+                    z._.push(c)
+                  },
+                  $ = z.s =
+                  d.createElement(s),
+                  e = d.getElementsByTagName(s)[0];
+                z.set = function(o) {
+                  z.set.
+                  _.push(o)
+                };
+                z._ = [];
+                z.set._ = [];
+                $.async = !0;
+                $.setAttribute("charset", "utf-8");
+                $.src = "//v2.zopim.com/?4DMVfvAq5Kdd5FZYAXlIcPskqj6ibc1Z";
+                z.t = +new Date;
+                $.
+                type = "text/javascript";
+                e.parentNode.insertBefore($, e)
+              })(document, "script");
+            };
+          </script>
+          <!--End of Zopim Live Chat Script-->
+</footer>
+<div class="bottom-footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-6 col-xs-12">
+				<p>2025 © and Powered By <a href="https://grapossconnect.com" target="_blank">Graposs Edutech Private Limited</a></p>
+			</div>
+
+			<div class="col-md-6 col-sm-6 col-xs-12">
+				<div class="bottom-right-footer">
+					<a href="/terms-conditions/">Terms & Condition</a>
+					<a href="/privacy-policy/">Privacy Policy</a>
+					<a href="/disclaimer/">Disclaimer</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- END FOOTER SECTION -->
+	<!-- Login Modal -->
+	<div class="modal fade registerlogin-Modal" id="openLoginModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="registerlogin-page">
+						<i class="fa-solid fa-circle-xmark" data-dismiss="modal"></i>
+						<div class="scene scene--card">
+							<div class="loginpage-section-flex card">
+								<div class="card__face card__face--front" id="login_form_screen">
+									<div class="loginpage-section-box">
+										<h4 class="loginpage-heading" id="s_login_text">Login</h4>
+										<p class="loginpage-description">Sarkari Pariksha, an online test prep platform</p>
+
+										<form method="POST" class="loginpage-form" autocomplete="off" id="reg4">
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/username-icon.png" alt="">
+												<input type="text" placeholder="Username" id="a" name="a">
+											</div>
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/password-icon.png" alt="">
+												<input type="password" placeholder="Password" id="b" name="b">
+											</div>
+											<p class="forgot-pwd-txt" id="open_fpwd"><a href="javascript:void(0);">Forgot Password ?</a></p>
+											<input type="button" value="LOGIN" class="login-btn" id="authenticate_login">
+											<button type="button" id="authenticate_login_hide" class="login-btn" style="display: none;"><i class="fa fa-spinner fa-spin"></i></button>
+
+											<!-- <h6 class="connect-with-g-txt">Connect with Google</h6>
+
+											<div class="connect-with-g-img">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/google-icon.png" alt="">
+												Google
+											</div> -->
+										</form>
+										<form method="POST" class="loginpage-form" id="reg5" style="display: none;" autocomplete="off">
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/password-icon.png" alt="">
+												<input type="text" placeholder="Enter your username" id="fp_user" name="fp_user">
+												<input type="hidden" id="fp_u1" name="fp_u1">
+												<input type="hidden" id="fp_u2" name="fp_u2">
+											</div>
+											<p class="forgot-pwd-txt" id="open_login"><a href="javascript:void(0);">Login ?</a></p>
+											<input type="button" value="SUBMIT" class="login-btn" id="authenticate_reg5">
+											<button type="button" id="authenticate_reg5_hide" class="login-btn" style="display: none;"><i class="fa fa-spinner fa-spin"></i></button>
+
+											<!-- <h6 class="connect-with-g-txt">Connect with Google</h6>
+
+											<div class="connect-with-g-img">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/google-icon.png" alt="">
+												Google
+											</div> -->
+										</form>
+										<form method="POST" class="loginpage-form" id="reg6" style="display: none;" autocomplete="off">
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/password-icon.png" alt="">
+												<input type="text" placeholder="Enter OTP" id="fp_otp" name="fp_otp">
+											</div>
+											<p class="forgot-pwd-txt" id="resend_otp"><a href="javascript:void(0);">Resend ?</a></p>
+											<input type="button" value="SUBMIT" class="login-btn" id="authenticate_reg6">
+											<button type="button" id="authenticate_reg6_hide" class="login-btn" style="display: none;"><i class="fa fa-spinner fa-spin"></i></button>
+
+											<!-- <h6 class="connect-with-g-txt">Connect with Google</h6>
+
+											<div class="connect-with-g-img">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/google-icon.png" alt="">
+												Google
+											</div> -->
+										</form>
+										<form method="POST" class="loginpage-form" id="reg7" style="display: none;" autocomplete="off">
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/password-icon.png" alt="">
+												<input type="password" placeholder="Enter New Password" id="s_fpwd1" name="s_fpwd1">
+											</div>
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/password-icon.png" alt="">
+												<input type="password" placeholder="Confirm Password" id="s_fpwd2" name="s_fpwd2">
+											</div>
+											<input type="button" value="SUBMIT" class="login-btn" id="authenticate_reg7">
+											<button type="button" id="authenticate_reg7_hide" class="login-btn" style="display: none;"><i class="fa fa-spinner fa-spin"></i></button>
+
+											<!-- <h6 class="connect-with-g-txt">Connect with Google</h6>
+
+											<div class="connect-with-g-img">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/google-icon.png" alt="">
+												Google
+											</div> -->
+										</form>
+										<h6 class="account-loginsigup-link" id="signup_here">Don’t have an account ? <a href="javascript:void(0);">Sign Up</a> </h6>
+									</div>
+								</div>
+								<div class="card__face card__face--back" id="reg_form_screen" style="display: none;">
+									<div class="loginpage-section-box registerpage-section-box">
+										<h4 class="loginpage-heading">Sign Up</h4>
+										<p class="loginpage-description">Sarkari Pariksha, an online test prep platform</p>
+
+										<form method="POST" class="loginpage-form" id="reg1" autocomplete="off">
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/username-icon.png" alt="">
+												<input type="text" placeholder="Name" id="s_name" name="s_name">
+											</div>
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/password-icon.png" alt="">
+												<input type="text" placeholder="Email ID" id="s_email" name="s_email">
+											</div>
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/mobile-icon.png" alt="">
+												<input type="text" placeholder="Mobile No." id="s_mob" name="s_mob">
+											</div>
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/username-icon.png" alt="">
+												<input type="text" placeholder="Enter Pincode" id="s_pin" name="s_pin">
+											</div>
+											<input type="button" value="SUBMIT" class="login-btn" id="authenticate_reg1">
+											<button type="button" id="authenticate_reg1_hide" class="login-btn" style="display: none;"><i class="fa fa-spinner fa-spin"></i></button>
+
+											<!-- <h6 class="connect-with-g-txt">Connect with Google</h6>
+
+											<div class="connect-with-g-img">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/google-icon.png" alt="">
+												Google
+											</div> -->
+										</form>
+										<form method="POST" class="loginpage-form" id="reg2" style="display: none;" autocomplete="off">
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/password-icon.png" alt="">
+												<input type="text" placeholder="Enter OTP" id="s_otp" name="s_otp">
+												<input type="hidden" name="s_text_name" id="s_text_name">
+											</div>
+											<input type="button" value="SUBMIT" class="login-btn" id="authenticate_reg2">
+											<button type="button" id="authenticate_reg2_hide" class="login-btn" style="display: none;"><i class="fa fa-spinner fa-spin"></i></button>
+
+											<!-- <h6 class="connect-with-g-txt">Connect with Google</h6>
+
+											<div class="connect-with-g-img">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/google-icon.png" alt="">
+												Google
+											</div> -->
+										</form>
+										<form method="POST" class="loginpage-form" id="reg3" style="display: none;" autocomplete="off">
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/password-icon.png" alt="">
+												<input type="password" placeholder="Enter Password" id="s_pwd1" name="s_pwd1">
+											</div>
+											<div class="loginpage-form-div">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/password-icon.png" alt="">
+												<input type="password" placeholder="Confirm Password" id="s_pwd2" name="s_pwd2">
+											</div>
+											<input type="button" value="SUBMIT" class="login-btn" id="authenticate_reg3">
+											<button type="button" id="authenticate_reg3_hide" class="login-btn" style="display: none;"><i class="fa fa-spinner fa-spin"></i></button>
+
+											<!-- <h6 class="connect-with-g-txt">Connect with Google</h6>
+
+											<div class="connect-with-g-img">
+												<img src="/wp-content/themes/sarkaripariksha_theme/images/login/google-icon.png" alt="">
+												Google
+											</div> -->
+										</form>
+
+										<h6 class="account-loginsigup-link" id="login_here">Already have an account ? <a href="javascript:void(0);">Login Here</a> </h6>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Login Modal end -->
+
+<script src="/wp-content/themes/sarkaripariksha_theme/js/bootstrap.min.js"></script>
+<!-- ----------------------------------------------- Swiper JS -->
+<script src="/wp-content/themes/sarkaripariksha_theme/js/swiper-bundle.min.js"></script>
+<script src="/wp-content/plugins/tet-india/js/toastr.min.js"></script>
+<script src="https://sarkaripariksha.com/wp-content/themes/sarkaripariksha_theme/js/jquery-ui.js"></script>
+<script src="https://sarkaripariksha.com/wp-content/themes/sarkaripariksha_theme/js/jquery-migrate-3.0.0.min.js"></script>
+	<script src="/wp-content/plugins/tet-india/js/auth_new.js?v=301025065101"></script>
+<!-- ----------------------------------------------- Initialize Swiper -->
+<script>
+	var current_url = '/static-gk/national-sports-awards-2025-winner-list.pdf/';
+	if (current_url != '/sign-up/') {
+		localStorage.setItem("current_url", current_url);
+
+	}
+	localStorage.setItem('domain', "https://sarkaripariksha.com");
+	var swiper = new Swiper(".mySwiper", {
+		spaceBetween: 30,
+		speed: 1000,
+		autoplay: {
+			delay: 3000,
+			disableOnInteraction: false,
+			pauseOnMouseEnter: true,
+		},
+		loop: true,
+		effect: "fade",
+		navigation: {
+			nextEl: ".swiper-button-next",
+			prevEl: ".swiper-button-prev",
+		},
+		pagination: {
+			el: ".swiper-pagination",
+			clickable: true,
+		},
+		breakpoints: {
+			300: {
+				slidesPerView: 1,
+				spaceBetweenSlides: 0
+			},
+			999: {
+				slidesPerView: 1,
+				spaceBetweenSlides: 40
+			}
+		}
+	});
+</script>
+
+<!-- ------------------------------------------------------------ HEADER SEARCH BOX JS -->
+<script>
+	jQuery(".open-btn1").click(function() {
+		jQuery(this).toggleClass("btnactive");
+		jQuery("#search-wrap").toggleClass("panelactive");
+		jQuery("#search-text").focus();
+	});
+</script>
+<!-- ------------------------------------------- EXAM CATEGORIES TABS JS -->
+<script>
+	function openCity(evt, cityName) {
+		var i, tabcontent, tablinks;
+		tabcontent = document.getElementsByClassName("tabcontent");
+		for (i = 0; i < tabcontent.length; i++) {
+			tabcontent[i].style.display = "none";
+		}
+		tablinks = document.getElementsByClassName("tablinks");
+		for (i = 0; i < tablinks.length; i++) {
+			tablinks[i].className = tablinks[i].className.replace(" active", "");
+		}
+		document.getElementById(cityName).style.display = "block";
+		evt.currentTarget.className += " active";
+	}
+	// Get the element with id="defaultOpen" and click on it
+	if (document.getElementById("defaultOpen")) {
+		document.getElementById("defaultOpen").click();
+	}
+</script>
+</body>
+
+</html>

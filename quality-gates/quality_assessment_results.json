@@ -1,0 +1,4175 @@
+{
+  "RRB NTPC Content": {
+    "category_name": "RRB NTPC Content",
+    "category_path": "/workspace/content/rrb-ntpc",
+    "assessment_timestamp": "2025-10-31T02:50:27.517396",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/FINAL_COMPLETION_REPORT.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 48140,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/FINAL_PROJECT_COMPLETION_REPORT.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 11598,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/FINAL_STATUS_REPORT.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 10656,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/IMPLEMENTATION_ROADMAP.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 40929,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/WIKIPEDIA_DUMPS_IMPLEMENTATION_REPORT.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 6552,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/batch_collection.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 9123,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/collection_script.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 9528,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/comprehensive_collector.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 28650,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/core_collection.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 2513,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/dumps_based_collection.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 20941,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/focused_collection.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 11884,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/hybrid_content_collector.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 34542,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/image_downloader.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 17390,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/improved_collection_script.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 15268,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/progressive_collection.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 27401,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/simple_collector.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 11182,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/streamlined_dumps_collector.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 10274,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_dumps_collection.py",
+        "file_type": "other",
+        "exists": true,
+        "size": 22278,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/__pycache__/collection_script.cpython-312.pyc",
+        "file_type": "other",
+        "exists": true,
+        "size": 10830,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/culture/Culture_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8819,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/culture/Culture_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 841,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/culture/Indian_literature/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8829,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/culture/Indian_literature/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 844,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Banking_in_India/Banking_in_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4805,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Banking_in_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8819,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Banking_in_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 841,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Economy_of_India/Economy_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4805,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Economy_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8819,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Economy_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 841,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Finance_in_India/Finance_in_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4805,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Finance_in_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8819,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Finance_in_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 841,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/List_of_banks_in_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8879,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/List_of_banks_in_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 859,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Payment_and_settlement_systems_in_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 9049,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Payment_and_settlement_systems_in_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 910,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Reserve_Bank_of_India/Reserve_Bank_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4845,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Reserve_Bank_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8838,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/economy/Reserve_Bank_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 836,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Conservation_in_India/Conservation_in_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4849,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Conservation_in_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8869,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Conservation_in_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 856,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environment_of_India/Environment_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4841,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environment_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8859,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environment_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 853,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environmental_issues_in_India/Environmental_issues_in_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4913,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environmental_issues_in_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8949,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Environmental_issues_in_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 880,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Fauna_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8799,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Fauna_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 835,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Wildlife_of_India/Wildlife_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4817,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Wildlife_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8829,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/environment/Wildlife_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 844,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Eastern_Ghats/Eastern_Ghats.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4783,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Eastern_Ghats/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8789,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Eastern_Ghats/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 832,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_India/Geography_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4823,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 9158,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 847,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_South_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 3287,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Geography_of_South_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 737,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Himalayas/Himalayas.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4751,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Himalayas/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 488151,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Himalayas/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 800,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indian_subcontinent/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 3262,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indian_subcontinent/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 722,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indo-Gangetic_Plain/Indo-Gangetic_Plain.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4831,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indo-Gangetic_Plain/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8849,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Indo-Gangetic_Plain/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 850,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/List_of_major_rivers_of_India/List_of_major_rivers_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4911,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/List_of_major_rivers_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 104207,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/List_of_major_rivers_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 860,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Western_Ghats/Western_Ghats.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4783,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Western_Ghats/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8698,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/geography/Western_Ghats/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 812,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/image_downloads/collection_summary.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 255,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bal_Gangadhar_Tilak/Bal_Gangadhar_Tilak.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4836,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bal_Gangadhar_Tilak/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 54347,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bal_Gangadhar_Tilak/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 830,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bhagat_Singh/Bhagat_Singh.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4780,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bhagat_Singh/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 449205,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Bhagat_Singh/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 809,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/History_of_India/History_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4812,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/History_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 9126,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/History_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 841,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Indian_independence_movement/Indian_independence_movement.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4908,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Indian_independence_movement/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8939,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Indian_independence_movement/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 877,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Lala_Lajpat_Rai/Lala_Lajpat_Rai.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4804,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Lala_Lajpat_Rai/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8809,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Lala_Lajpat_Rai/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 838,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/List_of_Indian_independence_activists/List_of_Indian_independence_activists.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4980,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/List_of_Indian_independence_activists/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 9029,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/List_of_Indian_independence_activists/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 904,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Mahatma_Gandhi/Mahatma_Gandhi.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4796,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Mahatma_Gandhi/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8787,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Mahatma_Gandhi/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 815,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Medieval_India/Medieval_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4796,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Medieval_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8799,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Medieval_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 835,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Outline_of_ancient_India/Outline_of_ancient_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4876,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Outline_of_ancient_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8899,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Outline_of_ancient_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 865,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Subhas_Chandra_Bose/Subhas_Chandra_Bose.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4836,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Subhas_Chandra_Bose/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8849,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Subhas_Chandra_Bose/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 850,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Timeline_of_Indian_history/Timeline_of_Indian_history.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4892,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Timeline_of_Indian_history/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8919,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/indian-history/Timeline_of_Indian_history/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 871,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/International_relations/International_relations.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4877,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/International_relations/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8889,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/International_relations/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 862,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/List_of_specialized_agencies_of_the_United_Nations/List_of_specialized_agencies_of_the_United_Nations.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 5093,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/List_of_specialized_agencies_of_the_United_Nations/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 201722,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/List_of_specialized_agencies_of_the_United_Nations/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 923,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/United_Nations/United_Nations.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4805,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/United_Nations/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8799,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/international-relations/United_Nations/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 835,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/collection.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 15204,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/comprehensive_collection.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 4229,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/dumps_collection.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 274,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/hybrid_collection.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 17877,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/image_download.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 13156,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/logs/progressive_collection.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 34619,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/collection_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 1931,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/collection_metadata_updated.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 3725,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/comprehensive_collection_list.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 6405,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/final_collection_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 5878,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/licensing_requirements.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 1908,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/metadata/topic_mapping.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 12631,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/International_organization/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 159205,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/International_organization/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 851,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/List_of_intergovernmental_organizations/List_of_intergovernmental_organizations.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4995,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/List_of_intergovernmental_organizations/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 9049,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/List_of_intergovernmental_organizations/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 910,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/Member_states_of_the_United_Nations/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 468919,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/Member_states_of_the_United_Nations/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 878,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/United_Nations_System/United_Nations_System.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4851,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/United_Nations_System/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8869,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/organizations/United_Nations_System/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 856,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Basic_structure_doctrine/Basic_structure_doctrine.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4868,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Basic_structure_doctrine/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8899,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Basic_structure_doctrine/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 865,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Constitution_of_India/Constitution_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4844,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Constitution_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 598694,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Constitution_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 836,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Government_of_India/Government_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4828,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Government_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8849,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Government_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 850,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Judicial_review_in_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 3281,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Judicial_review_in_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 737,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/Kesavananda_Bharati_v_State_of_Kerala.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4980,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 9029,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Kesavananda_Bharati_v_State_of_Kerala/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 904,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Parliament_of_India/Parliament_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4828,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Parliament_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8812,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Parliament_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 830,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Supreme_Court_of_India/Supreme_Court_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4852,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Supreme_Court_of_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8806,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/polity/Supreme_Court_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 839,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Chandrayaan_programme/Chandrayaan_programme.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4856,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Chandrayaan_programme/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8869,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Chandrayaan_programme/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 856,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/ISRO/ISRO.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4720,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/ISRO/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 1038280,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/ISRO/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 785,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Indias_three-stage_nuclear_power_programme/Indias_three-stage_nuclear_power_programme.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 5032,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Indias_three-stage_nuclear_power_programme/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 9079,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Indias_three-stage_nuclear_power_programme/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 919,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Mars_Orbiter_Mission/Mars_Orbiter_Mission.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4848,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Mars_Orbiter_Mission/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 90411,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Mars_Orbiter_Mission/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 833,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Nuclear_power_in_India/Nuclear_power_in_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4864,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Nuclear_power_in_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8879,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Nuclear_power_in_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 859,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Science_and_technology_in_India/Science_and_technology_in_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 4936,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Science_and_technology_in_India/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 8969,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Science_and_technology_in_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 886,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Vikram_Sarabhai/index.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 22834,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/science-technology/Vikram_Sarabhai/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 818,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Constitution_of_India/Constitution_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 590086,
+        "integrity": "no_html_structure",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Constitution_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 594,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Geography_of_India/Geography_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 366134,
+        "integrity": "no_html_structure",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Geography_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 584,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/ISRO/ISRO.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 1029712,
+        "integrity": "no_html_structure",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/ISRO/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 544,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Mahatma_Gandhi/Mahatma_Gandhi.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 1091042,
+        "integrity": "no_html_structure",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_collection/Mahatma_Gandhi/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 572,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/Bal_Gangadhar_Tilak.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 293024,
+        "integrity": "no_html_structure",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bal_Gangadhar_Tilak/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 596,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bhagat_Singh/Bhagat_Singh.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 440703,
+        "integrity": "no_html_structure",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Bhagat_Singh/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 577,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Lala_Lajpat_Rai/Lala_Lajpat_Rai.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 191451,
+        "integrity": "no_html_structure",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/Lala_Lajpat_Rai/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 586,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/List_of_major_rivers_of_India/List_of_major_rivers_of_India.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 95641,
+        "integrity": "no_html_structure",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/test_improved_collection/List_of_major_rivers_of_India/metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 628,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/general-awareness/wikipedia_dumps/enwiki-latest-pages-articles.xml.bz2",
+        "file_type": "other",
+        "exists": true,
+        "size": 1581252608,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/blood_1319508762.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 353593,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/cell_1319521240.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 563614,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/disease_1318519893.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 322311,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/human_anatomy_1293568406.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 170928,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/plant_1317009702.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 723605,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/taxonomy_1314869660.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 395430,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/biology/taxonomy_extraction_summary.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 1511,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/acid_1298836412.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 275951,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/atom_1319509621.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 556308,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/base_1297874383.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 223912,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/chemical_bond_1305343114.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 250118,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/chemistry/periodic_table_1317929863.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 1360541,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/environmental/environmental_science_1314325017.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 239382,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/general/biodiversity_1317660757.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 848024,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/general/scientific_instrument_1303677775.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 126209,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/general/si_units_1318235358.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 417342,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/GRAVITY_WIKIPEDIA_EXTRACTION_SUMMARY.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 3019,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/gravity_1312856522.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 509548,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/light_1319036238.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 20438,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/motion_1318299894.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 300737,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/newtons_laws_of_motion_1313918647.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 777173,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/sound_1314635102.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 265771,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/physics/work_1306675761.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 469920,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/capture_summary.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 2423,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/general_biology_2025-10-30_23-45-22.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 84106,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/general_biology_extraction_summary.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 2430,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/general_chemistry_20251030_234150.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 111189,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/physics_study_guide_20251030_233645.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 65183,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/content/rrb-ntpc/study-materials/wikimedia/science/wikibooks/physics_study_guide_summary.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 4221,
+        "integrity": "basic_check",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 226,
+      "pdf_files": 0,
+      "zip_files": 0,
+      "json_files": 65,
+      "html_files": 127,
+      "other_files": 34,
+      "dominant_format": "html"
+    },
+    "metadata_completeness": {
+      "metadata_files_found": 65,
+      "complete_metadata_files": 65,
+      "completeness_percentage": 100.0
+    },
+    "licensing_compliance": {
+      "licensing_files_found": 0,
+      "licensing_files": [],
+      "attribution_compliance": false,
+      "compliance_status": "needs_review"
+    },
+    "content_completeness": {
+      "total_files": 226,
+      "non_empty_files": 205,
+      "files_with_content": 205,
+      "completion_percentage": 90.7079646017699
+    },
+    "overall_quality_score": 75.2433628318584
+  },
+  "DIKSHA General Awareness": {
+    "category_name": "DIKSHA General Awareness",
+    "category_path": "/workspace/diksha-ga",
+    "assessment_timestamp": "2025-10-31T02:50:28.075544",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/diksha-ga/CONTINUATION_LOG.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 2104,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/DIKSHA_GA_FINAL_REPORT.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 9653,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/DIKSHA_PROJECT_SUMMARY.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 37064,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/FINAL_COMPLETION_REPORT.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 16215,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/PROJECT_COMPLETION_FINAL.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 13963,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/current-affairs/national/National_International_Current_Affairs_2025.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 374990,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/current-affairs/sports/National_Sports_Awards_2025.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 50437,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/economy/ncert-class10-economics.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1957206,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/economy/ncert-class11-indian-economic-development.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 3984283,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/economy/ncert-class12-macroeconomics.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 2808759,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/economy/ncert-class12-microeconomics.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 2491609,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/economy/ncert-class9-economics-complete.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 5008673,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/economy/ncert-class9-economics.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 5008673,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/indian/ncert-class10-geography.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 8476189,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/indian/ncert-class11-india-physical-environment.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 5656418,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/indian/ncert-class12-india-people-economy.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 4535849,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/indian/ncert-class9-geography-1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 5059481,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/physical/ncert-class11-geography-practical.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 8818297,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/physical/ncert-class11-physical-geography.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 6714677,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/physical/ncert-class6-geography.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 24231787,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/physical/ncert-class7-our-environment.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 27951478,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/physical/ncert-class8-resources-development.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 15380205,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/geography/world/ncert-class12-human-geography.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 9822539,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/indian-history/ancient/ncert-class12-themes-indian-history-1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174473,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/indian-history/ancient/ncert-class6-our-pasts-1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174557,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/indian-history/medieval/ncert-class12-themes-indian-history-2.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174473,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/indian-history/medieval/ncert-class7-our-pasts-2.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174571,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/indian-history/modern/ncert-class10-india-contemporary-world-2.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 7390788,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/indian-history/modern/ncert-class11-themes-world-history.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 3826129,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/indian-history/modern/ncert-class12-themes-indian-history-3.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174473,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/indian-history/modern/ncert-class8-our-pasts-3.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174557,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/indian-history/modern/ncert-class9-india-contemporary-world-1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174375,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/metadata/diksha_content_inventory.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 6185,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/metadata/final_comprehensive_inventory.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 15789,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/polity/constitution/ncert-class10-democratic-politics-2.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 5370551,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/polity/constitution/ncert-class11-indian-constitution.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 4012108,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/polity/constitution/ncert-class11-political-theory.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 6888966,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/polity/constitution/ncert-class6-social-political-life-1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 13099441,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/polity/constitution/ncert-class7-social-political-life-2.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 22950037,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/polity/constitution/ncert-class8-social-political-life-3.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 17209913,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/polity/constitution/ncert-class9-democratic-politics-1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 10916922,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/polity/governance/ncert-class12-contemporary-world-politics.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 3301124,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/polity/governance/ncert-class12-politics-india-independence.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 29731325,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/science-technology/ncert-class11-biology-hindi.zip",
+        "file_type": "zip",
+        "exists": true,
+        "size": 557056,
+        "integrity": "error: File is not a zip file",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/science-technology/ncert-class11-chemistry-part1-hindi.zip",
+        "file_type": "zip",
+        "exists": true,
+        "size": 294912,
+        "integrity": "error: File is not a zip file",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/science-technology/ncert-class11-physics-part1-english.zip",
+        "file_type": "zip",
+        "exists": true,
+        "size": 131072,
+        "integrity": "error: File is not a zip file",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/science-technology/ncert-class11-physics-part2-hindi.zip",
+        "file_type": "zip",
+        "exists": true,
+        "size": 114688,
+        "integrity": "error: File is not a zip file",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/science-technology/ncert-class9-science-complete.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 30822578,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/science-technology/ncert-class9-science.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 30822578,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/static-gk/organizations/ncert-class11-craft-traditions.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174557,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/static-gk/organizations/ncert-class11-indian-art-complete.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174585,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-ga/static-gk/organizations/ncert-class11-indian-art.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 174585,
+        "integrity": "corrupted",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 52,
+      "pdf_files": 41,
+      "zip_files": 4,
+      "json_files": 2,
+      "html_files": 0,
+      "other_files": 5,
+      "dominant_format": "pdf"
+    },
+    "metadata_completeness": {
+      "metadata_files_found": 2,
+      "complete_metadata_files": 2,
+      "completeness_percentage": 100.0
+    },
+    "licensing_compliance": {
+      "licensing_files_found": 0,
+      "licensing_files": [],
+      "attribution_compliance": false,
+      "compliance_status": "needs_review"
+    },
+    "content_completeness": {
+      "total_files": 52,
+      "non_empty_files": 48,
+      "files_with_content": 48,
+      "completion_percentage": 92.3076923076923
+    },
+    "overall_quality_score": 60.76923076923077
+  },
+  "DIKSHA Mathematics": {
+    "category_name": "DIKSHA Mathematics",
+    "category_path": "/workspace/diksha-math",
+    "assessment_timestamp": "2025-10-31T02:50:40.049080",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/diksha-math/COMPREHENSIVE_DOWNLOAD_REPORT.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 7898,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/DIKSHA_Mathematics_Collection_Report.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 35172,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/DOWNLOAD_COMPLETION_SUMMARY.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 5768,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/FINAL_STATUS_REPORT.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 33344,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/PRIORITY_DOWNLOADS_COMPLETION_REPORT.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 6565,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/diksha_search_plan.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 4531,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/download_additional_resources.sh",
+        "file_type": "other",
+        "exists": true,
+        "size": 3230,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/download_priority_resources.sh",
+        "file_type": "other",
+        "exists": true,
+        "size": 4875,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/manual_download_retry.sh",
+        "file_type": "other",
+        "exists": true,
+        "size": 4718,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/setup_directories.sh",
+        "file_type": "other",
+        "exists": true,
+        "size": 1187,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/logs/diksha-mathematics.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 4083,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/logs/download.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 6310,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/cbse_mathematics_collection.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 2103,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/collection_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 54074,
+        "integrity": "invalid_json: Expecting value: line 1 column 1 (char 0)",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/diksha_mathematics_resources.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 2826,
+        "integrity": "invalid_json: Extra data: line 1 column 2826 (char 2825)",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/ncert_class10_trigonometry_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 596,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/ncert_class8_algebra_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 618,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/ncert_class8_number_system_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 639,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/ncert_class8_statistics_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 631,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/ncert_class9_number_systems_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 599,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/ncert_class9_polynomials_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 582,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/metadata/practical_geometry_class8_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 599,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/cbse_class8_math.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 4832768,
+        "integrity": "error: Unexpected EOF",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/rational_numbers_chapter.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1792274,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/sample_content.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 73,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/test_connection.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 513,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/test_small_file.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 212992,
+        "integrity": "error: Unexpected EOF",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/algebra/ncert_class8_algebra.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 11672181,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/algebra/ncert_class9_polynomials.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1460255,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/geometry/diksha_practical_geometry_class8.txt",
+        "file_type": "other",
+        "exists": true,
+        "size": 73147,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/geometry/practical_geometry_class7.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1514431,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/geometry/practical_geometry_class8.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1514431,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/mensuration/introduction_to_graphs_ncert.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 126976,
+        "integrity": "error: Unexpected EOF",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/mensuration/practical_geometry_class8_complete.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 400133,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/mensuration/tripura_class8_workbook.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 207958,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/number-system/cbse_class8_math_textbook.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 207792,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/number-system/cbse_class8_mathematics.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 14272922,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class8_complete_textbook.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 207792,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class8_math.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 11672181,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class8_mathematics.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 11672181,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class8_number_system.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 11672181,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class9_number_systems.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1970372,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/number-system/rational_numbers_ncert_chapter.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 126976,
+        "integrity": "error: Unexpected EOF",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/ratio-proportion/direct_inverse_proportions_ncert.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 111104,
+        "integrity": "error: Unexpected EOF",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/statistics/ncert_class8_statistics.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 11672181,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-math/study-materials/oer/mathematics/english/trigonometry/ncert_class10_trigonometry.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 996975,
+        "integrity": "intact",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 46,
+      "pdf_files": 21,
+      "zip_files": 0,
+      "json_files": 10,
+      "html_files": 1,
+      "other_files": 14,
+      "dominant_format": "pdf"
+    },
+    "metadata_completeness": {
+      "metadata_files_found": 10,
+      "complete_metadata_files": 8,
+      "completeness_percentage": 80.0
+    },
+    "licensing_compliance": {
+      "licensing_files_found": 0,
+      "licensing_files": [],
+      "attribution_compliance": false,
+      "compliance_status": "needs_review"
+    },
+    "content_completeness": {
+      "total_files": 46,
+      "non_empty_files": 38,
+      "files_with_content": 38,
+      "completion_percentage": 82.6086956521739
+    },
+    "overall_quality_score": 50.565217391304344
+  },
+  "DIKSHA Reasoning": {
+    "category_name": "DIKSHA Reasoning",
+    "category_path": "/workspace/diksha-reasoning",
+    "assessment_timestamp": "2025-10-31T02:50:46.631327",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/diksha-reasoning/README.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 34789,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/documentation/navigation_guide.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 38800,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/downloaded_content/logical_reasoning/IMO_Class_4_Logical_Reasoning_Sample_Paper.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 477783,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/downloaded_content/logical_reasoning/Logical_Reasoning_and_Analytical_Ability_Book.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1726094,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/downloaded_content/mental_ability/CLASS_10_MENTAL_ABILITY_COMPETITIVE_EXAMS.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 16971292,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/downloaded_content/non_verbal_reasoning/Figural_Analogy_Non_Verbal_Reasoning.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 0,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/downloaded_content/non_verbal_reasoning/Non_Verbal_Reasoning_Key_Concepts.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 2772791,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/downloaded_content/non_verbal_reasoning/Non_Verbal_Reasoning_Practice_Test_1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1266236,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/downloaded_content/verbal_reasoning/analogies/Verbal_Reasoning_Tests.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 3309853,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/downloaded_content/verbal_reasoning/coding_decoding/SSC_CGL_Sample_Reasoning.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 4990092,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/downloaded_content/verbal_reasoning/coding_decoding/wget-log",
+        "file_type": "other",
+        "exists": true,
+        "size": 65319,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/logs/diksha-reasoning.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 10935,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/metadata/content_inventory.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 7233,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-reasoning/metadata/cross_reference_syllabus.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 13257,
+        "integrity": "basic_check",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 14,
+      "pdf_files": 8,
+      "zip_files": 0,
+      "json_files": 1,
+      "html_files": 0,
+      "other_files": 5,
+      "dominant_format": "pdf"
+    },
+    "metadata_completeness": {
+      "metadata_files_found": 1,
+      "complete_metadata_files": 1,
+      "completeness_percentage": 100.0
+    },
+    "licensing_compliance": {
+      "licensing_files_found": 2,
+      "licensing_files": [
+        "/workspace/diksha-reasoning/README.md",
+        "/workspace/diksha-reasoning/README.md"
+      ],
+      "attribution_compliance": true,
+      "compliance_status": "compliant"
+    },
+    "content_completeness": {
+      "total_files": 14,
+      "non_empty_files": 11,
+      "files_with_content": 11,
+      "completion_percentage": 78.57142857142857
+    },
+    "overall_quality_score": 68.92857142857143
+  },
+  "DIKSHA Science": {
+    "category_name": "DIKSHA Science",
+    "category_path": "/workspace/diksha-science",
+    "assessment_timestamp": "2025-10-31T02:50:48.944429",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/ncert-class-11-biology.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 55978,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch16-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 525298,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch16.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 525298,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch17-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 342701,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch18-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1667940,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch2.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1850437,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch8-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 4350388,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch8.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 4350388,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 395165,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/ncert-class-11-chemistry-part1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 113652,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/ncert-class-9-science.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 30822578,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/hindi/ncert-class-10-chemistry-ch1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1813787,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/hindi/ncert-class-11-chemistry-ch14-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 5306000,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/hindi/ncert-class-11-chemistry-ch2-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 5968192,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/hindi/ncert-class-11-chemistry-ch3-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 2702923,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/hindi/ncert-class-11-chemistry-ch4-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 8966963,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/hindi/ncert-class-9-chemistry-ch3.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 584542,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/physics/ncert-class-11-physics-part1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 113680,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/physics/ncert-class-12-physics-part1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 4655303,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/physics/hindi/ncert-class-12-physics-part1-ch3.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 842567,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/physics/hindi/ncert-class-12-physics-part1-ch4.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1246030,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/physics/hindi/ncert-class-12-physics-part1-ch6.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1109264,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/physics/hindi/ncert-class-12-physics-part1-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 2206185,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/physics/hindi/ncert-class-12-physics-part2-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 771560,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/ncert-class-10-science.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 16240856,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/ncert-class-9-science.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 30822578,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/hindi/ncert-class-10-science-hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 13471584,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/hindi/ncert-class-9-science-hindi-ch1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 7692876,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/hindi/ncert-class-9-science-hindi-ch11.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 257093,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/hindi/ncert-class-9-science-hindi-ch2.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1664078,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/hindi/ncert-class-9-science-hindi-ch3.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 584542,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/hindi/ncert-class-9-science-hindi-ch4.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 254078,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/hindi/ncert-class-9-science-hindi-ch8.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 601475,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/diksha-science/logs/diksha-science.log",
+        "file_type": "other",
+        "exists": true,
+        "size": 1116,
+        "integrity": "basic_check",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 34,
+      "pdf_files": 33,
+      "zip_files": 0,
+      "json_files": 0,
+      "html_files": 0,
+      "other_files": 1,
+      "dominant_format": "pdf"
+    },
+    "metadata_completeness": {},
+    "licensing_compliance": {
+      "licensing_files_found": 0,
+      "licensing_files": [],
+      "attribution_compliance": false,
+      "compliance_status": "needs_review"
+    },
+    "content_completeness": {
+      "total_files": 34,
+      "non_empty_files": 33,
+      "files_with_content": 33,
+      "completion_percentage": 97.05882352941177
+    },
+    "overall_quality_score": 56.029411764705884
+  },
+  "Practice General Awareness": {
+    "category_name": "Practice General Awareness",
+    "category_path": "/workspace/practice-ga",
+    "assessment_timestamp": "2025-10-31T02:52:09.741864",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/practice-ga/RRB_Materials_Download_Summary.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 3096,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/collection_completion_report.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 11268,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/current_affairs_01_august_2025.txt",
+        "file_type": "other",
+        "exists": true,
+        "size": 6414,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/final_downloaded_materials_inventory.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 46773,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/final_materials_summary.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 34478,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/final_project_completion_report.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 13608,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/quick_access_guide.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 2650,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/railway_capsule_research_summary.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 5824,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/view",
+        "file_type": "other",
+        "exists": true,
+        "size": 55117,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/compliance/licensing_and_redistribution_policy.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 7462,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/current-affairs/Formatted-ga-questions-asked-in-ntpc.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 629919,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/current-affairs/adda247_current_affairs_100_questions.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 308159,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/current-affairs/current_affairs_practice_set_01.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 9525,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/current-affairs/download_summary.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 3670,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/current-affairs/practiceMock_500_current_affairs.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 129767,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/current-affairs/practiceMock_500_current_affairs_2025.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 29922,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/economy/economy_practice_set_01.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 10371,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/economy/practice_sets_ntpc_stage2.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 89582,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/economy/railway_ntpc_economy_one_liners.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 42401,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/economy/rrb_group_d_economy_25_questions.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 88778,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/geography/geography_practice_set_01.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 6063,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/geography/rrb_guide_hindi.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 89499,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/geography/rrb_ntpc_geography_100_questions.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 88755,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/history/general_science_railways.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 88678,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/indian-history/indian_history_practice_set_01.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 5120,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/metadata/comprehensive_material_index.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 14399,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/metadata/download_guide_by_source.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 9961,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/metadata/source_catalog_and_coverage.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 6890,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/metadata/syllabus_mapping_compliance.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 12527,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/metadata/testbook_rrb_ntpc_syllabus_2024.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 2543375,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/polity/polity_practice_set_01.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 7080,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/polity/rrb_ntpc_book_solved_papers.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 128946,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/polity/rrb_ntpc_polity_governance_questions.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 88776,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/science-technology/researchgate_rrb_general_science.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 629919,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/science-technology/science_technology_practice_set_01.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 7969,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/static-gk/README.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 1697,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/static-gk/adda247_ga_questions_ntpc.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 629919,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/static-gk/static_gk_practice_set_01.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 7470,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-ga/static-gk/yctfastbook_rrb_gk.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 567682,
+        "integrity": "intact",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 39,
+      "pdf_files": 16,
+      "zip_files": 0,
+      "json_files": 0,
+      "html_files": 0,
+      "other_files": 23,
+      "dominant_format": "other"
+    },
+    "metadata_completeness": {},
+    "licensing_compliance": {
+      "licensing_files_found": 2,
+      "licensing_files": [
+        "/workspace/practice-ga/static-gk/README.md",
+        "/workspace/practice-ga/static-gk/README.md"
+      ],
+      "attribution_compliance": true,
+      "compliance_status": "compliant"
+    },
+    "content_completeness": {
+      "total_files": 39,
+      "non_empty_files": 38,
+      "files_with_content": 38,
+      "completion_percentage": 97.43589743589743
+    },
+    "overall_quality_score": 45.51282051282051
+  },
+  "Practice Licensing": {
+    "category_name": "Practice Licensing",
+    "category_path": "/workspace/practice-licensing",
+    "assessment_timestamp": "2025-10-31T02:52:13.177583",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/practice-licensing/practice_materials_licensing_compliance_report.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 35596,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-licensing/metadata/practice_materials_attribution_guide.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 10664,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-licensing/metadata/practice_materials_license_register.csv",
+        "file_type": "other",
+        "exists": true,
+        "size": 14043,
+        "integrity": "basic_check",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 3,
+      "pdf_files": 0,
+      "zip_files": 0,
+      "json_files": 0,
+      "html_files": 0,
+      "other_files": 3,
+      "dominant_format": "other"
+    },
+    "metadata_completeness": {},
+    "licensing_compliance": {
+      "licensing_files_found": 2,
+      "licensing_files": [
+        "/workspace/practice-licensing/metadata/practice_materials_license_register.csv",
+        "/workspace/practice-licensing/metadata/practice_materials_license_register.csv"
+      ],
+      "attribution_compliance": true,
+      "compliance_status": "compliant"
+    },
+    "content_completeness": {
+      "total_files": 3,
+      "non_empty_files": 2,
+      "files_with_content": 2,
+      "completion_percentage": 66.66666666666666
+    },
+    "overall_quality_score": 31.666666666666664
+  },
+  "Practice Mathematics": {
+    "category_name": "Practice Mathematics",
+    "category_path": "/workspace/practice-math",
+    "assessment_timestamp": "2025-10-31T02:52:13.184335",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/practice-math/important-mathematics-questions/Oliveboard_ImportantMathQuestions_RRBNTPC.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 448406,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-math/metadata/Cracku_Interest_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 1526,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-math/metadata/Cracku_NumberSystem_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 1312,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-math/metadata/Oliveboard_ImportantMathQuestions_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 2907,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-math/metadata/comprehensive_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 4344,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-math/number-system/Cracku_NumberSystemsQuestions_RRBNTPC.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 88783,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-math/previous-year-papers/JagranJosh_CBT1_2021_Jan4_Shift1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 0,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-math/previous-year-papers/JagranJosh_CBT2_2017_Jan17_Shift1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 72805,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-math/simple-compound-interest/Cracku_SimpleCompoundInterestQuestions_RRBNTPC.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 88880,
+        "integrity": "corrupted",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 9,
+      "pdf_files": 5,
+      "zip_files": 0,
+      "json_files": 4,
+      "html_files": 0,
+      "other_files": 0,
+      "dominant_format": "pdf"
+    },
+    "metadata_completeness": {
+      "metadata_files_found": 4,
+      "complete_metadata_files": 4,
+      "completeness_percentage": 100.0
+    },
+    "licensing_compliance": {
+      "licensing_files_found": 0,
+      "licensing_files": [],
+      "attribution_compliance": false,
+      "compliance_status": "needs_review"
+    },
+    "content_completeness": {
+      "total_files": 9,
+      "non_empty_files": 8,
+      "files_with_content": 8,
+      "completion_percentage": 88.88888888888889
+    },
+    "overall_quality_score": 64.44444444444444
+  },
+  "Practice Reasoning": {
+    "category_name": "Practice Reasoning",
+    "category_path": "/workspace/practice-reasoning",
+    "assessment_timestamp": "2025-10-31T02:52:13.436184",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/practice-reasoning/DOWNLOAD_COMPLETION_SUMMARY.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 22921,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/01_logical-reasoning/freshersnow_rrb_general_intelligence_questions.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 0,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/01_logical-reasoning/instamojo_rrb_ntpc_sample_papers.html",
+        "file_type": "html",
+        "exists": true,
+        "size": 30720,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/02_verbal-reasoning/ssc_study_shortcuts_in_reasoning.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 129595,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/03_non-verbal-reasoning/meritnotes_rrb_reasoning_questions_1.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 43465,
+        "integrity": "corrupted",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/comprehensive-shortcuts/shortcuts_in_reasoning_ssc_study.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 4891386,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/metadata/comprehensive_metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 28264,
+        "integrity": "invalid_json: Expecting value: line 1 column 1 (char 0)",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/metadata/sources_catalog.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 11231,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_01.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 330235,
+        "integrity": "error: Unexpected EOF",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_02.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 539639,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_03.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 492346,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_04.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 496190,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_05.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 463614,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_06.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 501715,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_07.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 501871,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_08.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 477753,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_09.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 457420,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_10.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 403314,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_11.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 435306,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_12.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 602636,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_13.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 602636,
+        "integrity": "incomplete",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 21,
+      "pdf_files": 17,
+      "zip_files": 0,
+      "json_files": 2,
+      "html_files": 1,
+      "other_files": 1,
+      "dominant_format": "pdf"
+    },
+    "metadata_completeness": {
+      "metadata_files_found": 2,
+      "complete_metadata_files": 1,
+      "completeness_percentage": 50.0
+    },
+    "licensing_compliance": {
+      "licensing_files_found": 0,
+      "licensing_files": [],
+      "attribution_compliance": false,
+      "compliance_status": "needs_review"
+    },
+    "content_completeness": {
+      "total_files": 21,
+      "non_empty_files": 19,
+      "files_with_content": 19,
+      "completion_percentage": 90.47619047619048
+    },
+    "overall_quality_score": 38.333333333333336
+  },
+  "Portal Downloads": {
+    "category_name": "Portal Downloads",
+    "category_path": "/workspace/portal-downloads",
+    "assessment_timestamp": "2025-10-31T02:52:13.823785",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/portal-downloads/CBT1/2020/RRB_NTPC_CBT1_2020_Dec28_Shift1_ExamCart.metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 1195,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/portal-downloads/CBT1/2020/RRB_NTPC_CBT1_2020_Dec28_Shift1_ExamCart.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 12248567,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/portal-downloads/CBT1/2021/RRB_NTPC_CBT1_2021_Jan04_Shift2_ExamCart.metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 1191,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/portal-downloads/CBT1/2021/RRB_NTPC_CBT1_2021_Jan04_Shift2_ExamCart.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 12328125,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/portal-downloads/CBT1/2024/RRB_NTPC_CBT1_2024_June06_Shift2_Prepp.metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 1208,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/portal-downloads/CBT1/2024/RRB_NTPC_CBT1_2024_June06_Shift2_Prepp.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 513122,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/portal-downloads/CBT2/2017/RRB_NTPC_CBT2_2017_Jan17_Shift1_ExamCart.metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 1202,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/portal-downloads/CBT2/2017/RRB_NTPC_CBT2_2017_Jan17_Shift1_ExamCart.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 2960852,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/portal-downloads/CBT2/2022/RRB_NTPC_CBT2_2022_May09_Shift1_Level6_ExamCart.metadata.json",
+        "file_type": "json",
+        "exists": true,
+        "size": 1252,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/portal-downloads/CBT2/2022/RRB_NTPC_CBT2_2022_May09_Shift1_Level6_ExamCart.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 4998213,
+        "integrity": "intact",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 10,
+      "pdf_files": 5,
+      "zip_files": 0,
+      "json_files": 5,
+      "html_files": 0,
+      "other_files": 0,
+      "dominant_format": "pdf"
+    },
+    "metadata_completeness": {
+      "metadata_files_found": 5,
+      "complete_metadata_files": 5,
+      "completeness_percentage": 100.0
+    },
+    "licensing_compliance": {
+      "licensing_files_found": 0,
+      "licensing_files": [],
+      "attribution_compliance": false,
+      "compliance_status": "needs_review"
+    },
+    "content_completeness": {
+      "total_files": 10,
+      "non_empty_files": 10,
+      "files_with_content": 10,
+      "completion_percentage": 100.0
+    },
+    "overall_quality_score": 85.0
+  },
+  "Current Affairs": {
+    "category_name": "Current Affairs",
+    "category_path": "/workspace/current-affairs",
+    "assessment_timestamp": "2025-10-31T02:52:16.231357",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/current-affairs/annual-reports/2023/Culture_Annual_Report_2022-23.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 5175346,
+        "integrity": "error: Unexpected EOF",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/annual-reports/2023/MEA_Annual_Report_2022-23.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 16628918,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/annual-reports/2023/NITI_Annual_Report_2023-24_English.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 73697536,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/annual-reports/2024/MHA_Annual_Report_2023-24.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 23583045,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/economic-surveys/2023/economic_survey_2023-24.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 15387751,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/economic-surveys/2024/economic_survey_2024-25.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 15387751,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/ministry-publications/2023/Education_Annual_Report_2023-24.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 13637580,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/ministry-publications/2024/ISRO_Annual_Report_2023-24.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 87958614,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/policy-documents/2020/NEP_2020.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 1453912,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/policy-documents/2023/Union_Budget_2023-24_Speech.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 472415,
+        "integrity": "intact",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/yearbooks/2023/India_Year_Book_2023.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 7214843,
+        "integrity": "incomplete",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/current-affairs/yearbooks/2024/India_Year_Book_2024.pdf",
+        "file_type": "pdf",
+        "exists": true,
+        "size": 17539821,
+        "integrity": "intact",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 12,
+      "pdf_files": 12,
+      "zip_files": 0,
+      "json_files": 0,
+      "html_files": 0,
+      "other_files": 0,
+      "dominant_format": "pdf"
+    },
+    "metadata_completeness": {},
+    "licensing_compliance": {
+      "licensing_files_found": 0,
+      "licensing_files": [],
+      "attribution_compliance": false,
+      "compliance_status": "needs_review"
+    },
+    "content_completeness": {
+      "total_files": 12,
+      "non_empty_files": 12,
+      "files_with_content": 12,
+      "completion_percentage": 100.0
+    },
+    "overall_quality_score": 55.0
+  },
+  "Government Repositories": {
+    "category_name": "Government Repositories",
+    "category_path": "/workspace/govt-repos",
+    "assessment_timestamp": "2025-10-31T02:53:03.651686",
+    "file_integrity": [
+      {
+        "file_path": "/workspace/govt-repos/RESEARCH_COMPLETION_SUMMARY.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 38659,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/govt-repos/RRB_NTPC_Government_Repositories_Research_Report.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 32089,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/govt-repos/archive_railway_exam_2016.txt",
+        "file_type": "other",
+        "exists": true,
+        "size": 923887,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/govt-repos/archive_rrb_ntpc_2021.txt",
+        "file_type": "other",
+        "exists": true,
+        "size": 195137,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/govt-repos/government_rrb_ntpc_sources_catalog.csv",
+        "file_type": "other",
+        "exists": true,
+        "size": 4322,
+        "integrity": "basic_check",
+        "issues": []
+      },
+      {
+        "file_path": "/workspace/govt-repos/research_plan_government_repositories.md",
+        "file_type": "other",
+        "exists": true,
+        "size": 3647,
+        "integrity": "basic_check",
+        "issues": []
+      }
+    ],
+    "format_consistency": {
+      "total_files": 6,
+      "pdf_files": 0,
+      "zip_files": 0,
+      "json_files": 0,
+      "html_files": 0,
+      "other_files": 6,
+      "dominant_format": "other"
+    },
+    "metadata_completeness": {},
+    "licensing_compliance": {
+      "licensing_files_found": 0,
+      "licensing_files": [],
+      "attribution_compliance": false,
+      "compliance_status": "needs_review"
+    },
+    "content_completeness": {
+      "total_files": 6,
+      "non_empty_files": 5,
+      "files_with_content": 5,
+      "completion_percentage": 83.33333333333334
+    },
+    "overall_quality_score": 20.833333333333336
+  }
+}

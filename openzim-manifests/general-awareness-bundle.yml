@@ -1,0 +1,205 @@
+# OpenZIM Build Manifest: general-awareness-bundle
+# General Awareness Bundle (Current Affairs, Static GK, History, Geography, Polity, Economy)
+bundle_id: general-awareness-v1.0
+version: "1.0"
+created_date: "2025-10-31"
+description: "Comprehensive general awareness content covering current affairs, static GK, history, geography, polity, and economy"
+target_audience: "Competitive exam aspirants and general knowledge seekers"
+
+# Bundle Configuration
+bundle_config:
+  language_support: ["en", "hi"]
+  total_content_size: "3.8 GB"
+  estimated_article_count: 4500
+  compression_level: "high"
+  indexing_strategy: "category-comprehensive"
+  
+# Content Sources and Paths
+content_sources:
+  diksha_general_awareness:
+    source_path: "/workspace/diksha-ga/"
+    includes:
+      - "current-affairs/"
+      - "economy/"
+      - "geography/"
+      - "indian-history/"
+      - "polity/"
+      - "science-technology/"
+      - "static-gk/"
+    content_types: ["PDF", "ZIP", "JSON", "MD"]
+    licensing: "cc-by-40"
+    attribution_required: true
+    priority: "primary"
+    
+  practice_ga_materials:
+    source_path: "/workspace/practice-ga/"
+    includes:
+      - "current-affairs/"
+      - "economy/"
+      - "geography/"
+      - "indian-history/"
+      - "polity/"
+      - "science-technology/"
+      - "static-gk/"
+    content_types: ["PDF", "DOC", "MD"]
+    licensing: "mixed"
+    attribution_required: true
+    priority: "secondary"
+    
+  rrb_specific:
+    source_path: "/workspace/content/rrb-ntpc/current-affairs/"
+    includes:
+      - "2024/"
+      - "2025/"
+    content_types: ["PDF", "MD"]
+    licensing: "government-work"
+    attribution_required: true
+    priority: "primary"
+    
+# Category Organization
+category_organization:
+  current_affairs:
+    coverage: ["national", "international", "sports", "awards", "appointments", "summits", "economy-events"]
+    sources: ["diksha_general_awareness", "practice_ga_materials", "rrb_specific"]
+    date_coverage: ["2024", "2025"]
+    update_frequency: "monthly"
+    
+  static_gk:
+    subcategories: ["books-authors", "important-dates", "organizations", "countries-capitals", "famous-personalities"]
+    sources: ["diksha_general_awareness", "practice_ga_materials"]
+    
+  indian_history:
+    periods: ["ancient", "medieval", "modern"]
+    sources: ["diksha_general_awareness", "practice_ga_materials"]
+    
+  geography:
+    regions: ["indian", "physical", "world"]
+    sources: ["diksha_general_awareness", "practice_ga_materials"]
+    
+  polity:
+    topics: ["constitution", "governance", "institutions", "fundamental-rights", "directive-principles"]
+    sources: ["diksha_general_awareness", "practice_ga_materials"]
+    
+  economy:
+    concepts: ["basic-economics", "monetary-policy", "budget", "banking", "international-trade"]
+    sources: ["diksha_general_awareness", "practice_ga_materials"]
+    
+  science_technology:
+    domains: ["current-developments", "discoveries", "inventions", "space-science", "health-science"]
+    sources: ["diksha_general_awareness", "practice_ga_materials"]
+    
+# Metadata Inclusion
+metadata_inclusion:
+  required_fields:
+    - "category"
+    - "subcategory"
+    - "topic"
+    - "date_relevance"
+    - "importance_level"
+    - "exam_relevance"
+    - "tags"
+    - "source_attribution"
+    
+  enrichment_sources:
+    - "/workspace/diksha-ga/metadata/"
+    - "/workspace/practice-ga/metadata/"
+    - "/workspace/bilingual-org/organization_map.csv"
+    
+# Compression Settings
+compression:
+  document_compression: "high"
+  image_compression: "optimized"
+  map_handling: "vector_preservation"
+  date_based_compression: true
+  
+# Indexing Requirements
+indexing:
+  search_fields:
+    - "title"
+    - "category"
+    - "subcategory"
+    - "topic"
+    - "date"
+    - "keywords"
+    - "importance_level"
+    - "tags"
+  chronological_indexing: true
+  importance_weighted_search: true
+  category_hierarchy_search: true
+  tag_based_indexing: ["Current-Affairs", "Static-GK", "History", "Geography", "Polity", "Economy", "Science-Tech", "2024", "2025", "High-Priority", "Medium-Priority", "Basic"]
+  
+# Licensing Compliance
+licensing_compliance:
+  diksha_content:
+    - source: "DIKSHA (NCERT)"
+    - license: "CC BY 4.0"
+    - attribution_template: "Title: {title}, Author: NCERT, Source: {source_url}, License: CC BY 4.0"
+    - commercial_use: true
+    - modifications_allowed: true
+    
+  rrb_official:
+    - source: "RRB (Railway Recruitment Board)"
+    - license: "Government Work"
+    - attribution_template: "Title: {title}, Author: Railway Recruitment Board, Source: {source_url}"
+    - commercial_use: true
+    
+  third_party_materials:
+    - source: "Various Educational Platforms"
+    - license: "Mixed/Restricted"
+    - redistribution: case_by_case
+    - educational_use_only: true
+    - verification_required: true
+    
+# Quality Assurance
+quality_checks:
+  factual_accuracy: true
+  date_verification: true
+  duplicate_removal: true
+  importance_scoring: true
+  relevance_validation: true
+  
+# PWA Integration Settings
+pwa_settings:
+  offline_capability: true
+  sync_strategy: "selective"
+  cache_size_limit: "2.2 GB"
+  update_frequency: "monthly"
+  prefetch_strategy: "current-affairs-priority"
+  bookmark_support: true
+  
+# Performance Optimization
+performance:
+  lazy_loading: true
+  progressive_download: true
+  search_caching: true
+  category_based_caching: true
+  
+# Security
+security:
+  content_sanitization: true
+  factual_content_protection: true
+  watermark_applicable: false
+  
+# Educational Features
+educational_features:
+  study_modes: true
+  quiz_integration: true
+  bookmarking: true
+  progress_tracking: false
+  flashcard_generation: true
+  timeline_view: true
+  
+# Build Configuration
+build_config:
+  output_format: "zim"
+  chunk_size: "180 MB"
+  parallel_processing: 6
+  build_timeout: "7 hours"
+  verification_level: "strict"
+  
+# Distribution
+distribution:
+  delivery_methods: ["offline", "streaming", "cache"]
+  regional_localization: true
+  size_optimization: true
+  category_based_packaging: true

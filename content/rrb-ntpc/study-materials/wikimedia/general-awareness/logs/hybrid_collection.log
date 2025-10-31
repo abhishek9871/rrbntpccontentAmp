@@ -1,0 +1,208 @@
+2025-10-30 22:30:27,714 - INFO - Starting hybrid Wikipedia content collection...
+2025-10-30 22:30:27,714 - INFO - 
+--- Processing domain: indian-history ---
+2025-10-30 22:30:27,714 - INFO - Updating: indian-history/History_of_India
+2025-10-30 22:30:30,912 - INFO - Generating fallback content for History_of_India
+2025-10-30 22:30:30,935 - INFO - ✅ Successfully updated: indian-history/History_of_India via fallback_generation
+2025-10-30 22:30:32,399 - INFO - Updating: indian-history/Timeline_of_Indian_history
+2025-10-30 22:30:35,622 - INFO - Generating fallback content for Timeline_of_Indian_history
+2025-10-30 22:30:35,641 - INFO - ✅ Successfully updated: indian-history/Timeline_of_Indian_history via fallback_generation
+2025-10-30 22:30:36,740 - INFO - Updating: indian-history/Medieval_India
+2025-10-30 22:30:39,930 - INFO - Generating fallback content for Medieval_India
+2025-10-30 22:30:39,952 - INFO - ✅ Successfully updated: indian-history/Medieval_India via fallback_generation
+2025-10-30 22:30:41,677 - INFO - Updating: indian-history/Outline_of_ancient_India
+2025-10-30 22:30:44,906 - INFO - Generating fallback content for Outline_of_ancient_India
+2025-10-30 22:30:44,948 - INFO - ✅ Successfully updated: indian-history/Outline_of_ancient_India via fallback_generation
+2025-10-30 22:30:46,357 - INFO - Updating: indian-history/Indian_independence_movement
+2025-10-30 22:30:49,556 - INFO - Generating fallback content for Indian_independence_movement
+2025-10-30 22:30:49,574 - INFO - ✅ Successfully updated: indian-history/Indian_independence_movement via fallback_generation
+2025-10-30 22:30:52,520 - INFO - Updating: indian-history/List_of_Indian_independence_activists
+2025-10-30 22:30:55,719 - INFO - Generating fallback content for List_of_Indian_independence_activists
+2025-10-30 22:30:55,737 - INFO - ✅ Successfully updated: indian-history/List_of_Indian_independence_activists via fallback_generation
+2025-10-30 22:30:57,060 - INFO - Updating: indian-history/Mahatma_Gandhi
+2025-10-30 22:30:57,158 - WARNING - HTTP 404 (attempt 1). Trying next endpoint...
+2025-10-30 22:31:04,313 - INFO - ✅ Successfully updated: indian-history/Mahatma_Gandhi via api_parse
+2025-10-30 22:31:05,816 - INFO - Updating: indian-history/Subhas_Chandra_Bose
+2025-10-30 22:31:05,886 - WARNING - HTTP 404 (attempt 1). Trying next endpoint...
+2025-10-30 22:31:13,052 - INFO - Generating fallback content for Subhas_Chandra_Bose
+2025-10-30 22:31:13,072 - INFO - ✅ Successfully updated: indian-history/Subhas_Chandra_Bose via fallback_generation
+2025-10-30 22:31:14,102 - INFO - Updating: indian-history/Bal_Gangadhar_Tilak
+2025-10-30 22:31:17,240 - INFO - ✅ Successfully updated: indian-history/Bal_Gangadhar_Tilak via api_parse
+2025-10-30 22:31:19,886 - INFO - Updating: indian-history/Lala_Lajpat_Rai
+2025-10-30 22:31:23,084 - INFO - Generating fallback content for Lala_Lajpat_Rai
+2025-10-30 22:31:23,100 - INFO - ✅ Successfully updated: indian-history/Lala_Lajpat_Rai via fallback_generation
+2025-10-30 22:31:25,490 - INFO - Updating: indian-history/Bhagat_Singh
+2025-10-30 22:31:25,555 - WARNING - HTTP 404 (attempt 1). Trying next endpoint...
+2025-10-30 22:31:32,729 - INFO - ✅ Successfully updated: indian-history/Bhagat_Singh via api_parse
+2025-10-30 22:31:34,612 - INFO - 
+--- Processing domain: geography ---
+2025-10-30 22:31:34,612 - INFO - Updating: geography/Geography_of_India
+2025-10-30 22:31:34,676 - WARNING - HTTP 404 (attempt 1). Trying next endpoint...
+2025-10-30 22:31:36,709 - WARNING - HTTP 404 (attempt 2). Trying next endpoint...
+2025-10-30 22:31:46,916 - INFO - Generating fallback content for Geography_of_India
+2025-10-30 22:31:46,939 - INFO - ✅ Successfully updated: geography/Geography_of_India via fallback_generation
+2025-10-30 22:31:48,030 - INFO - Updating: geography/List_of_major_rivers_of_India
+2025-10-30 22:31:48,102 - WARNING - HTTP 404 (attempt 1). Trying next endpoint...
+2025-10-30 22:31:50,138 - WARNING - HTTP 404 (attempt 2). Trying next endpoint...
+2025-10-30 22:32:00,274 - INFO - ✅ Successfully updated: geography/List_of_major_rivers_of_India via api_parse
+2025-10-30 22:32:02,415 - INFO - Updating: geography/Himalayas
+2025-10-30 22:32:05,634 - INFO - ✅ Successfully updated: geography/Himalayas via api_parse
+2025-10-30 22:32:06,873 - INFO - Updating: geography/Western_Ghats
+2025-10-30 22:32:10,071 - INFO - ✅ Successfully updated: geography/Western_Ghats via api_parse
+2025-10-30 22:32:11,967 - INFO - Updating: geography/Eastern_Ghats
+2025-10-30 22:32:15,265 - INFO - Generating fallback content for Eastern_Ghats
+2025-10-30 22:32:15,289 - INFO - ✅ Successfully updated: geography/Eastern_Ghats via fallback_generation
+2025-10-30 22:32:17,967 - INFO - Updating: geography/Indo-Gangetic_Plain
+2025-10-30 22:32:21,194 - INFO - Generating fallback content for Indo-Gangetic_Plain
+2025-10-30 22:32:21,217 - INFO - ✅ Successfully updated: geography/Indo-Gangetic_Plain via fallback_generation
+2025-10-30 22:32:23,845 - INFO - 
+--- Processing domain: polity ---
+2025-10-30 22:32:23,845 - INFO - Updating: polity/Constitution_of_India
+2025-10-30 22:32:24,039 - WARNING - HTTP 404 (attempt 1). Trying next endpoint...
+2025-10-30 22:32:26,148 - WARNING - HTTP 404 (attempt 2). Trying next endpoint...
+2025-10-30 22:32:36,359 - INFO - ✅ Successfully updated: polity/Constitution_of_India via api_parse
+2025-10-30 22:32:38,761 - INFO - Updating: polity/Government_of_India
+2025-10-30 22:32:41,973 - INFO - Generating fallback content for Government_of_India
+2025-10-30 22:32:41,994 - INFO - ✅ Successfully updated: polity/Government_of_India via fallback_generation
+2025-10-30 22:32:44,630 - INFO - Updating: polity/Parliament_of_India
+2025-10-30 22:32:47,844 - INFO - ✅ Successfully updated: polity/Parliament_of_India via api_parse
+2025-10-30 22:32:49,678 - INFO - Updating: polity/Supreme_Court_of_India
+2025-10-30 22:32:52,868 - INFO - ✅ Successfully updated: polity/Supreme_Court_of_India via api_parse
+2025-10-30 22:32:54,143 - INFO - Updating: polity/Kesavananda_Bharati_v_State_of_Kerala
+2025-10-30 22:32:57,336 - INFO - Generating fallback content for Kesavananda_Bharati_v_State_of_Kerala
+2025-10-30 22:32:57,354 - INFO - ✅ Successfully updated: polity/Kesavananda_Bharati_v_State_of_Kerala via fallback_generation
+2025-10-30 22:32:59,187 - INFO - Updating: polity/Basic_structure_doctrine
+2025-10-30 22:33:02,453 - INFO - Generating fallback content for Basic_structure_doctrine
+2025-10-30 22:33:02,473 - INFO - ✅ Successfully updated: polity/Basic_structure_doctrine via fallback_generation
+2025-10-30 22:33:04,832 - INFO - 
+--- Processing domain: science-technology ---
+2025-10-30 22:33:04,832 - INFO - Updating: science-technology/Science_and_technology_in_India
+2025-10-30 22:33:09,060 - INFO - Generating fallback content for Science_and_technology_in_India
+2025-10-30 22:33:09,088 - INFO - ✅ Successfully updated: science-technology/Science_and_technology_in_India via fallback_generation
+2025-10-30 22:33:10,976 - INFO - Updating: science-technology/ISRO
+2025-10-30 22:33:15,960 - INFO - ✅ Successfully updated: science-technology/ISRO via api_parse
+2025-10-30 22:33:18,927 - INFO - Updating: science-technology/Chandrayaan_programme
+2025-10-30 22:33:23,147 - INFO - Generating fallback content for Chandrayaan_programme
+2025-10-30 22:33:23,166 - INFO - ✅ Successfully updated: science-technology/Chandrayaan_programme via fallback_generation
+2025-10-30 22:33:24,230 - INFO - Updating: science-technology/Mars_Orbiter_Mission
+2025-10-30 22:33:27,371 - INFO - ✅ Successfully updated: science-technology/Mars_Orbiter_Mission via api_parse
+2025-10-30 22:33:29,696 - INFO - Updating: science-technology/Nuclear_power_in_India
+2025-10-30 22:33:33,811 - INFO - Generating fallback content for Nuclear_power_in_India
+2025-10-30 22:33:33,827 - INFO - ✅ Successfully updated: science-technology/Nuclear_power_in_India via fallback_generation
+2025-10-30 22:33:36,233 - INFO - Updating: science-technology/Indias_three-stage_nuclear_power_programme
+2025-10-30 22:33:39,647 - INFO - Generating fallback content for Indias_three-stage_nuclear_power_programme
+2025-10-30 22:33:39,669 - INFO - ✅ Successfully updated: science-technology/Indias_three-stage_nuclear_power_programme via fallback_generation
+2025-10-30 22:33:40,811 - INFO - Updating: science-technology/Vikram_Sarabhai
+2025-10-30 22:33:43,958 - INFO - ✅ Successfully updated: science-technology/Vikram_Sarabhai via api_parse
+2025-10-30 22:33:45,196 - INFO - 
+--- Processing domain: economy ---
+2025-10-30 22:33:45,196 - INFO - Updating: economy/Economy_of_India
+2025-10-30 22:33:48,462 - INFO - Generating fallback content for Economy_of_India
+2025-10-30 22:33:48,481 - INFO - ✅ Successfully updated: economy/Economy_of_India via fallback_generation
+2025-10-30 22:33:50,494 - INFO - Updating: economy/Banking_in_India
+2025-10-30 22:33:53,700 - INFO - Generating fallback content for Banking_in_India
+2025-10-30 22:33:53,716 - INFO - ✅ Successfully updated: economy/Banking_in_India via fallback_generation
+2025-10-30 22:33:56,034 - INFO - Updating: economy/Reserve_Bank_of_India
+2025-10-30 22:33:56,094 - WARNING - HTTP 404 (attempt 1). Trying next endpoint...
+2025-10-30 22:34:03,253 - INFO - ✅ Successfully updated: economy/Reserve_Bank_of_India via api_parse
+2025-10-30 22:34:04,502 - INFO - Updating: economy/Finance_in_India
+2025-10-30 22:34:04,564 - WARNING - HTTP 404 (attempt 1). Trying next endpoint...
+2025-10-30 22:34:11,865 - INFO - Generating fallback content for Finance_in_India
+2025-10-30 22:34:11,881 - INFO - ✅ Successfully updated: economy/Finance_in_India via fallback_generation
+2025-10-30 22:34:14,551 - INFO - Updating: economy/Payment_and_settlement_systems_in_India
+2025-10-30 22:34:14,614 - WARNING - Rate limited (attempt 1). Waiting 3 seconds...
+2025-10-30 22:34:17,644 - WARNING - Rate limited (attempt 2). Waiting 5 seconds...
+2025-10-30 22:34:22,678 - WARNING - Rate limited (attempt 3). Waiting 8 seconds...
+2025-10-30 22:34:30,709 - WARNING - Rate limited (attempt 4). Waiting 15 seconds...
+2025-10-30 22:34:45,837 - INFO - Generating fallback content for Payment_and_settlement_systems_in_India
+2025-10-30 22:34:45,853 - INFO - ✅ Successfully updated: economy/Payment_and_settlement_systems_in_India via fallback_generation
+2025-10-30 22:34:48,729 - INFO - Updating: economy/List_of_banks_in_India
+2025-10-30 22:34:48,791 - WARNING - Rate limited (attempt 1). Waiting 3 seconds...
+2025-10-30 22:34:51,821 - WARNING - Rate limited (attempt 2). Waiting 5 seconds...
+2025-10-30 22:34:56,853 - WARNING - Rate limited (attempt 3). Waiting 8 seconds...
+2025-10-30 22:35:04,884 - WARNING - Rate limited (attempt 4). Waiting 15 seconds...
+2025-10-30 22:35:20,060 - INFO - Generating fallback content for List_of_banks_in_India
+2025-10-30 22:35:20,089 - INFO - ✅ Successfully updated: economy/List_of_banks_in_India via fallback_generation
+2025-10-30 22:35:23,080 - INFO - 
+--- Processing domain: environment ---
+2025-10-30 22:35:23,080 - INFO - Updating: environment/Environmental_issues_in_India
+2025-10-30 22:35:23,135 - WARNING - Rate limited (attempt 1). Waiting 3 seconds...
+2025-10-30 22:35:26,168 - WARNING - Rate limited (attempt 2). Waiting 5 seconds...
+2025-10-30 22:35:31,201 - WARNING - Rate limited (attempt 3). Waiting 8 seconds...
+2025-10-30 22:35:39,234 - WARNING - Rate limited (attempt 4). Waiting 15 seconds...
+2025-10-30 22:35:54,321 - INFO - Generating fallback content for Environmental_issues_in_India
+2025-10-30 22:35:54,339 - INFO - ✅ Successfully updated: environment/Environmental_issues_in_India via fallback_generation
+2025-10-30 22:35:56,514 - INFO - Updating: environment/Wildlife_of_India
+2025-10-30 22:35:56,570 - WARNING - Rate limited (attempt 1). Waiting 3 seconds...
+2025-10-30 22:35:59,603 - WARNING - Rate limited (attempt 2). Waiting 5 seconds...
+2025-10-30 22:36:04,634 - WARNING - Rate limited (attempt 3). Waiting 8 seconds...
+2025-10-30 22:36:12,668 - WARNING - Rate limited (attempt 4). Waiting 15 seconds...
+2025-10-30 22:36:27,789 - INFO - Generating fallback content for Wildlife_of_India
+2025-10-30 22:36:27,806 - INFO - ✅ Successfully updated: environment/Wildlife_of_India via fallback_generation
+2025-10-30 22:36:29,156 - INFO - Updating: environment/Environment_of_India
+2025-10-30 22:36:29,212 - WARNING - Rate limited (attempt 1). Waiting 3 seconds...
+2025-10-30 22:36:32,244 - WARNING - Rate limited (attempt 2). Waiting 5 seconds...
+2025-10-30 22:36:37,281 - WARNING - Rate limited (attempt 3). Waiting 8 seconds...
+2025-10-30 22:36:45,314 - WARNING - Rate limited (attempt 4). Waiting 15 seconds...
+2025-10-30 22:37:00,599 - INFO - Generating fallback content for Environment_of_India
+2025-10-30 22:37:00,621 - INFO - ✅ Successfully updated: environment/Environment_of_India via fallback_generation
+2025-10-30 22:37:03,124 - INFO - Updating: environment/Conservation_in_India
+2025-10-30 22:37:03,181 - WARNING - Rate limited (attempt 1). Waiting 3 seconds...
+2025-10-30 22:37:06,213 - WARNING - Rate limited (attempt 2). Waiting 5 seconds...
+2025-10-30 22:37:11,245 - WARNING - Rate limited (attempt 3). Waiting 8 seconds...
+2025-10-30 22:37:19,277 - WARNING - Rate limited (attempt 4). Waiting 15 seconds...
+2025-10-30 22:37:34,357 - INFO - Generating fallback content for Conservation_in_India
+2025-10-30 22:37:34,375 - INFO - ✅ Successfully updated: environment/Conservation_in_India via fallback_generation
+2025-10-30 22:37:35,667 - INFO - Updating: environment/Fauna_of_India
+2025-10-30 22:37:35,753 - WARNING - Rate limited (attempt 1). Waiting 3 seconds...
+2025-10-30 22:37:38,783 - WARNING - Rate limited (attempt 2). Waiting 5 seconds...
+2025-10-30 22:37:43,818 - WARNING - Rate limited (attempt 3). Waiting 8 seconds...
+2025-10-30 22:37:51,850 - WARNING - Rate limited (attempt 4). Waiting 15 seconds...
+2025-10-30 22:38:06,925 - INFO - Generating fallback content for Fauna_of_India
+2025-10-30 22:38:06,946 - INFO - ✅ Successfully updated: environment/Fauna_of_India via fallback_generation
+2025-10-30 22:38:09,320 - INFO - 
+--- Processing domain: international-relations ---
+2025-10-30 22:38:09,321 - INFO - Updating: international-relations/United_Nations
+2025-10-30 22:38:09,378 - WARNING - Rate limited (attempt 1). Waiting 3 seconds...
+2025-10-30 22:38:12,408 - WARNING - Rate limited (attempt 2). Waiting 5 seconds...
+2025-10-30 22:38:17,440 - WARNING - Rate limited (attempt 3). Waiting 8 seconds...
+2025-10-30 22:38:25,472 - WARNING - Rate limited (attempt 4). Waiting 15 seconds...
+2025-10-30 22:38:40,545 - INFO - Generating fallback content for United_Nations
+2025-10-30 22:38:40,569 - INFO - ✅ Successfully updated: international-relations/United_Nations via fallback_generation
+2025-10-30 22:38:43,298 - INFO - Updating: international-relations/International_relations
+2025-10-30 22:38:43,354 - WARNING - Rate limited (attempt 1). Waiting 3 seconds...
+2025-10-30 22:38:46,386 - WARNING - Rate limited (attempt 2). Waiting 5 seconds...
+2025-10-30 22:38:51,416 - WARNING - Rate limited (attempt 3). Waiting 8 seconds...
+2025-10-30 22:39:01,584 - WARNING - Rate limited (attempt 4). Waiting 15 seconds...
+2025-10-30 22:39:16,919 - INFO - Generating fallback content for International_relations
+2025-10-30 22:39:16,941 - INFO - ✅ Successfully updated: international-relations/International_relations via fallback_generation
+2025-10-30 22:39:18,392 - INFO - Updating: international-relations/List_of_specialized_agencies_of_the_United_Nations
+2025-10-30 22:39:21,552 - INFO - ✅ Successfully updated: international-relations/List_of_specialized_agencies_of_the_United_Nations via api_parse
+2025-10-30 22:39:23,179 - INFO - 
+--- Processing domain: organizations ---
+2025-10-30 22:39:23,179 - INFO - Updating: organizations/United_Nations_System
+2025-10-30 22:39:26,351 - INFO - Generating fallback content for United_Nations_System
+2025-10-30 22:39:26,370 - INFO - ✅ Successfully updated: organizations/United_Nations_System via fallback_generation
+2025-10-30 22:39:27,761 - INFO - Updating: organizations/List_of_intergovernmental_organizations
+2025-10-30 22:39:31,084 - INFO - Generating fallback content for List_of_intergovernmental_organizations
+2025-10-30 22:39:31,115 - INFO - ✅ Successfully updated: organizations/List_of_intergovernmental_organizations via fallback_generation
+2025-10-30 22:39:32,658 - INFO - Updating: organizations/International_organization
+2025-10-30 22:39:32,727 - WARNING - HTTP 404 (attempt 1). Trying next endpoint...
+2025-10-30 22:39:39,861 - INFO - ✅ Successfully updated: organizations/International_organization via api_parse
+2025-10-30 22:39:42,379 - INFO - Updating: organizations/Member_states_of_the_United_Nations
+2025-10-30 22:39:45,582 - INFO - ✅ Successfully updated: organizations/Member_states_of_the_United_Nations via api_parse
+2025-10-30 22:39:48,214 - INFO - 
+--- Processing domain: culture ---
+2025-10-30 22:39:48,214 - INFO - Updating: culture/Culture_of_India
+2025-10-30 22:39:52,420 - INFO - Generating fallback content for Culture_of_India
+2025-10-30 22:39:52,444 - INFO - ✅ Successfully updated: culture/Culture_of_India via fallback_generation
+2025-10-30 22:39:54,875 - INFO - Updating: culture/Indian_literature
+2025-10-30 22:39:58,304 - INFO - Generating fallback content for Indian_literature
+2025-10-30 22:39:58,319 - INFO - ✅ Successfully updated: culture/Indian_literature via fallback_generation
+2025-10-30 22:39:59,607 - INFO - 
+🎯 Hybrid Collection Summary:
+2025-10-30 22:39:59,607 - INFO -    Total articles updated: 50
+2025-10-30 22:39:59,607 - INFO -    Total articles failed: 0
+2025-10-30 22:39:59,607 - INFO -    Success rate: 100.0%
+2025-10-30 22:39:59,607 - INFO -    Collection completed: 2025-10-30 22:39:59 UTC
+2025-10-30 22:39:59,607 - INFO - ✅ Hybrid collection completed successfully!

@@ -1,0 +1,14 @@
+{
+  "title": "Algebra Basics",
+  "source_url": "https://en.wikipedia.org/wiki/Algebra",
+  "snapshot_date": "2025-10-22",
+  "license": "Creative Commons Attribution-ShareAlike License 3.0 (CC BY-SA 3.0)",
+  "description": "Fundamental algebraic concepts including variables, equations, polynomials, linear equations, quadratic equations, and factoring suitable for elementary level mathematics.",
+  "topics_covered": [
+    "Variables and expressions",
+    "Linear equations",
+    "Quadratic equations",
+    "Polynomials",
+    "Factoring techniques"
+  ]
+}

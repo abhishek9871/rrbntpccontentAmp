@@ -1,0 +1,178 @@
+# OpenZIM Build Manifest: mathematics-foundations-bundle
+# Mathematics Foundations Bundle (DIKSHA + Wikimedia Math)
+bundle_id: mathematics-foundations-v1.0
+version: "1.0"
+created_date: "2025-10-31"
+description: "Comprehensive mathematics foundations covering algebra, geometry, trigonometry, and statistics from DIKSHA and Wikimedia"
+target_audience: "Students preparing for competitive exams and seeking mathematical foundations"
+
+# Bundle Configuration
+bundle_config:
+  language_support: ["en", "hi"]
+  total_content_size: "3.2 GB"
+  estimated_article_count: 2800
+  compression_level: "high"
+  indexing_strategy: "comprehensive"
+  
+# Content Sources and Paths
+content_sources:
+  diksha_mathematics:
+    source_path: "/workspace/diksha-math/study-materials/"
+    includes:
+      - "oer/"
+    content_types: ["PDF", "ZIP", "JSON"]
+    licensing: "cc-by-40"
+    attribution_required: true
+    priority: "primary"
+    
+  wikimedia_mathematics:
+    source_path: "/workspace/wikimedia/mathematics/"
+    content_types: ["HTML", "PDF", "SVG"]
+    licensing: "cc-by-sa-30"
+    attribution_required: true
+    share_alike: true
+    priority: "secondary"
+    
+  ncert_mathematics:
+    source_path: "/workspace/diksha-math/metadata/"
+    content_types: ["JSON", "PDF"]
+    licensing: "cc-by-40"
+    attribution_required: true
+    priority: "primary"
+    
+# Subject Organization
+subject_organization:
+  algebra:
+    sources: ["diksha_mathematics", "wikimedia_mathematics"]
+    difficulty_levels: ["basic", "intermediate", "advanced"]
+    coverage: ["class-8-algebra", "class-9-algebra", "class-10-algebra"]
+    
+  geometry:
+    sources: ["diksha_mathematics", "wikimedia_mathematics"]
+    coverage: ["coordinate-geometry", "euclidean-geometry", "solid-geometry"]
+    
+  trigonometry:
+    sources: ["diksha_mathematics"]
+    coverage: ["class-10-trigonometry", "class-11-trigonometry"]
+    
+  statistics:
+    sources: ["diksha_mathematics"]
+    coverage: ["class-8-statistics", "class-9-statistics", "data-interpretation"]
+    
+# Metadata Inclusion
+metadata_inclusion:
+  required_fields:
+    - "subject"
+    - "topic"
+    - "subtopic"
+    - "grade_level"
+    - "difficulty"
+    - "learning_objectives"
+    - "prerequisites"
+    - "estimated_completion_time"
+    
+  enrichment_sources:
+    - "/workspace/diksha-math/metadata/"
+    - "/workspace/license-registry/metadata/license_register.csv"
+    - "/workspace/bilingual-org/organization_map.csv"
+    
+# Compression Settings
+compression:
+  mathematical_formula_handling: "preserve_original_format"
+  image_compression: "lossless"
+  document_compression: "moderate"
+  latex_rendering: true
+  svg_optimization: true
+  
+# Indexing Requirements
+indexing:
+  search_fields:
+    - "title"
+    - "subject"
+    - "topic"
+    - "grade_level"
+    - "difficulty"
+    - "formula_keywords"
+    - "concept_names"
+  mathematical_search: true
+  formula_search: true
+  concept_map_search: true
+  tag_based_indexing: ["Algebra", "Geometry", "Trigonometry", "Statistics", "Class-8", "Class-9", "Class-10", "Basic", "Intermediate", "Advanced"]
+  
+# Licensing Compliance
+licensing_compliance:
+  diksha_content:
+    - source: "DIKSHA (NCERT)"
+    - license: "CC BY 4.0"
+    - attribution_template: "Title: {title}, Author: NCERT, Source: {source_url}, License: CC BY 4.0"
+    - commercial_use: true
+    - modifications_allowed: true
+    
+  wikimedia_content:
+    - source: "Wikimedia Foundation"
+    - license: "CC BY-SA 3.0"
+    - attribution_template: "Title: {title}, Author: Wikimedia Contributors, Source: {source_url}, License: CC BY-SA 3.0"
+    - commercial_use: true
+    - share_alike_required: true
+    - modifications_allowed: true
+    
+  ncert_content:
+    - source: "NCERT"
+    - license: "CC BY 4.0"
+    - attribution_template: "Title: {title}, Author: NCERT, Source: {source_url}, License: CC BY 4.0"
+    - commercial_use: true
+    - modifications_allowed: true
+    
+# Quality Assurance
+quality_checks:
+  mathematical_accuracy: true
+  formula_validation: true
+  duplicate_content_removal: true
+  bilingual_consistency: true
+  
+# PWA Integration Settings
+pwa_settings:
+  offline_capability: true
+  sync_strategy: "selective"
+  cache_size_limit: "2.0 GB"
+  update_frequency: "monthly"
+  prefetch_strategy: "curriculum-based"
+  mathematical_notation_rendering: true
+  
+# Performance Optimization
+performance:
+  lazy_loading: true
+  progressive_loading: true
+  thumbnail_generation: true
+  mathematical_search_optimization: true
+  mathematical_rendering_cache: true
+  
+# Security
+security:
+  content_sanitization: true
+  mathematical_attack_prevention: true
+  watermark_applicable: false
+  
+# Educational Features
+educational_features:
+  interactive_problems: true
+  solution_steps: true
+  practice_questions: true
+  concept_mapping: true
+  progress_tracking: false
+  
+# Build Configuration
+build_config:
+  output_format: "zim"
+  chunk_size: "150 MB"
+  parallel_processing: 6
+  build_timeout: "6 hours"
+  mathematical_rendering: true
+  verification_level: "comprehensive"
+  
+# Distribution
+distribution:
+  delivery_methods: ["offline", "streaming", "cache"]
+  regional_localization: true
+  size_optimization: true
+  bandwidth_optimization: true

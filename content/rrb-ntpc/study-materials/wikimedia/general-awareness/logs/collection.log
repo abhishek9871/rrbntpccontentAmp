@@ -1,0 +1,176 @@
+2025-10-30 21:59:52,571 - INFO - Starting batch collection: 4 articles from test_improved_collection
+2025-10-30 21:59:52,572 - INFO - [1/4] Processing: Bal Gangadhar Tilak
+2025-10-30 21:59:52,572 - INFO - Starting collection: Bal Gangadhar Tilak -> test_improved_collection
+2025-10-30 21:59:52,575 - INFO - Rate limiting: sleeping for 3.00 seconds
+2025-10-30 21:59:55,575 - INFO - Getting info for: Bal Gangadhar Tilak
+2025-10-30 21:59:55,646 - INFO - Fetching content for: Bal Gangadhar Tilak
+2025-10-30 21:59:55,831 - INFO - Processing 20 images for Bal Gangadhar Tilak
+2025-10-30 21:59:55,831 - INFO - Rate limiting: sleeping for 2.74 seconds
+2025-10-30 21:59:58,621 - WARNING - Could not get URL for image: Semi-protection-shackle.svg
+2025-10-30 21:59:59,622 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:00:01,722 - WARNING - Could not get URL for image: Ma-LokmanyaTilak.ogg
+2025-10-30 22:00:02,723 - INFO - Rate limiting: sleeping for 1.90 seconds
+2025-10-30 22:00:04,664 - WARNING - Could not get URL for image: Bal_Gangadhar_Tilak_(1856-1920).webp
+2025-10-30 22:00:05,664 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:07,665 - WARNING - Could not get URL for image: Signature_of_Bal_Gangadhar_Tilak.jpg
+2025-10-30 22:00:08,665 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:10,663 - WARNING - Could not get URL for image: House_exterior_view.JPG
+2025-10-30 22:00:11,664 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:13,658 - WARNING - Could not get URL for image: Statue_of_Lokmanya_Bal_Gangadhar_Tilak.jpg
+2025-10-30 22:00:14,659 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:16,660 - WARNING - Could not get URL for image: The_three_pillars_of_Swarajya_-_Lala_Lajpat_Rai,_Bal_Gangadhar_Tilak_&_Bipin_Chandra_Pal_or_Lal-Bal-Pal.jpg
+2025-10-30 22:00:17,660 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:19,666 - WARNING - Could not get URL for image: Question_book-new.svg
+2025-10-30 22:00:20,666 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:22,658 - WARNING - Could not get URL for image: Bal_Gangadhar_Tilak.jpg
+2025-10-30 22:00:23,660 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:25,664 - WARNING - Could not get URL for image: Statue_of_Tilak.jpg
+2025-10-30 22:00:26,664 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:28,661 - WARNING - Could not get URL for image: Bal_Gangadhar_Tilak_1856-1920.jpg
+2025-10-30 22:00:29,661 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:31,658 - WARNING - Could not get URL for image: Lokmanya_Tilak_in_his_study_at_Kesari_Wada._Photograph_undated,_but_most_probably_was_clicked_between_1900-1905.jpg
+2025-10-30 22:00:32,659 - INFO - Rate limiting: sleeping for 1.97 seconds
+2025-10-30 22:00:34,659 - WARNING - Could not get URL for image: Commons-logo.svg
+2025-10-30 22:00:35,659 - INFO - Rate limiting: sleeping for 1.97 seconds
+2025-10-30 22:00:37,659 - WARNING - Could not get URL for image: Wikiquote-logo.svg
+2025-10-30 22:00:38,660 - INFO - Rate limiting: sleeping for 1.97 seconds
+2025-10-30 22:00:40,662 - WARNING - Could not get URL for image: Wikisource-logo.svg
+2025-10-30 22:00:41,662 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:43,673 - WARNING - Could not get URL for image: Wikidata-logo.svg
+2025-10-30 22:00:44,673 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:00:46,668 - WARNING - Could not get URL for image: Symbol_category_class.svg
+2025-10-30 22:00:47,668 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:00:49,681 - WARNING - Could not get URL for image: Aum_Om_red.svg
+2025-10-30 22:00:50,681 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:00:52,665 - WARNING - Could not get URL for image: Flag_of_India.svg
+2025-10-30 22:00:53,665 - INFO - Rate limiting: sleeping for 1.97 seconds
+2025-10-30 22:00:55,676 - WARNING - Could not get URL for image: OOjs_UI_icon_edit-ltr-progressive.svg
+2025-10-30 22:00:56,694 - INFO - ✓ Collected Bal Gangadhar Tilak - 0 images
+2025-10-30 22:00:59,695 - INFO - [2/4] Processing: Lala Lajpat Rai
+2025-10-30 22:00:59,695 - INFO - Starting collection: Lala Lajpat Rai -> test_improved_collection
+2025-10-30 22:00:59,695 - INFO - Rate limiting: sleeping for 3.00 seconds
+2025-10-30 22:01:02,695 - INFO - Getting info for: Lala Lajpat Rai
+2025-10-30 22:01:02,741 - INFO - Fetching content for: Lala Lajpat Rai
+2025-10-30 22:01:02,861 - INFO - Processing 16 images for Lala Lajpat Rai
+2025-10-30 22:01:02,861 - INFO - Rate limiting: sleeping for 2.83 seconds
+2025-10-30 22:01:05,745 - WARNING - Could not get URL for image: Mahatma_Lala_Lajpat_Rai.jpg
+2025-10-30 22:01:06,745 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:01:08,735 - WARNING - Could not get URL for image: Munshi_Radha_Krishan_Aggarwal_Family_Tree.png
+2025-10-30 22:01:09,736 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:01:11,752 - WARNING - Could not get URL for image: Lala_Lajpat_Rai_1965_stamp_of_India.jpg
+2025-10-30 22:01:12,752 - INFO - Rate limiting: sleeping for 1.94 seconds
+2025-10-30 22:01:14,741 - WARNING - Could not get URL for image: Lal_Bal_Pal.jpg
+2025-10-30 22:01:15,741 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:01:17,733 - WARNING - Could not get URL for image: Banquet_in_honor_of_Lala_Lajpat_Rai_in_California_in_1916.jpg
+2025-10-30 22:01:18,733 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:01:20,752 - WARNING - Could not get URL for image: Lala_Lajpat_Rai_photo_in_Young_India.jpg
+2025-10-30 22:01:21,753 - INFO - Rate limiting: sleeping for 1.94 seconds
+2025-10-30 22:01:23,733 - WARNING - Could not get URL for image: Lala_Lajpat_Rai_-_Scandal_Point_-_Shimla_2014-05-07_1194.JPG
+2025-10-30 22:01:24,733 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:01:26,735 - WARNING - Could not get URL for image: Lala_Lajpat_Rai_DAV_College,_Jagraon.jpg
+2025-10-30 22:01:27,735 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:01:29,737 - WARNING - Could not get URL for image: Lala_Dhanpat_Rai.jpg
+2025-10-30 22:01:30,737 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:01:32,734 - WARNING - Could not get URL for image: Lala_Lajpat_Rai_Jagraon.jpg
+2025-10-30 22:01:33,734 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:01:35,746 - WARNING - Could not get URL for image: Lala_Lajpat_Rai_Statue,_Bus_Stand,_Jagraon.jpg
+2025-10-30 22:01:36,746 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:01:38,733 - WARNING - Could not get URL for image: Wikiquote-logo.svg
+2025-10-30 22:01:39,733 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:01:41,742 - WARNING - Could not get URL for image: Indian_National_Congress_Flag.svg
+2025-10-30 22:01:42,742 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:01:44,743 - WARNING - Could not get URL for image: Symbol_category_class.svg
+2025-10-30 22:01:45,744 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:01:47,734 - WARNING - Could not get URL for image: Aum_red.svg
+2025-10-30 22:01:48,734 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:01:50,743 - WARNING - Could not get URL for image: OOjs_UI_icon_edit-ltr-progressive.svg
+2025-10-30 22:01:51,756 - INFO - ✓ Collected Lala Lajpat Rai - 0 images
+2025-10-30 22:01:54,756 - INFO - [3/4] Processing: Bhagat Singh
+2025-10-30 22:01:54,756 - INFO - Starting collection: Bhagat Singh -> test_improved_collection
+2025-10-30 22:01:54,757 - INFO - Rate limiting: sleeping for 3.00 seconds
+2025-10-30 22:01:57,757 - INFO - Getting info for: Bhagat Singh
+2025-10-30 22:01:57,799 - INFO - Fetching content for: Bhagat Singh
+2025-10-30 22:02:00,029 - INFO - Processing 18 images for Bhagat Singh
+2025-10-30 22:02:00,030 - INFO - Rate limiting: sleeping for 0.73 seconds
+2025-10-30 22:02:00,799 - WARNING - Could not get URL for image: Semi-protection-shackle.svg
+2025-10-30 22:02:01,799 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:04,015 - WARNING - Could not get URL for image: Bhagat_Singh_1929.jpg
+2025-10-30 22:02:05,015 - INFO - Rate limiting: sleeping for 1.74 seconds
+2025-10-30 22:02:06,796 - WARNING - Could not get URL for image: Bhagat_Singh_signature.svg
+2025-10-30 22:02:07,796 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:09,791 - WARNING - Could not get URL for image: Bhagat-singh-dramatics-club.jpg
+2025-10-30 22:02:10,791 - INFO - Rate limiting: sleeping for 1.97 seconds
+2025-10-30 22:02:13,007 - WARNING - Could not get URL for image: Bhagat_Singh_in_jail,1927.jpg
+2025-10-30 22:02:14,007 - INFO - Rate limiting: sleeping for 1.75 seconds
+2025-10-30 22:02:15,797 - WARNING - Could not get URL for image: Hunger_strike_poster_of_Bhagat_Singh_and_Batukeshswar_Dutt.jpg
+2025-10-30 22:02:16,797 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:18,801 - WARNING - Could not get URL for image: Lahore_conspiracy_case_poster_9th_Oct_193o_jindal_sunam_12x9_copy.jpg
+2025-10-30 22:02:19,801 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:21,793 - WARNING - Could not get URL for image: BhagatSingh_DeathCertificate.jpg
+2025-10-30 22:02:22,794 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:24,803 - WARNING - Could not get URL for image: The_Tribune_news_report_of_Sardar_Bhagat_Singh's_execution,1931.jpg
+2025-10-30 22:02:25,803 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:27,794 - WARNING - Could not get URL for image: Shaheed_Bhagat_Singh._Rewalsar,_Himachal_Pradesh.jpg
+2025-10-30 22:02:28,794 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:30,801 - WARNING - Could not get URL for image: The_President,_Smt._Pratibha_Patil_honoring_the_renowned_Sculptor,_Shri_Ram_V._Sutar_who_prepared_the_statue_of_Shaheed_Bhagat_Singh,_which_is_unveiled_at_Parliament_House,_in_New_Delhi_on_August_15,_2008.jpg
+2025-10-30 22:02:31,801 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:33,809 - WARNING - Could not get URL for image: National_Martyrs_Memorial_Hussainiwala_closeup.jpg
+2025-10-30 22:02:34,809 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:02:36,801 - WARNING - Could not get URL for image: Statues_of_Bhagat_Singh,_Rajguru_and_Sukhdev.jpg
+2025-10-30 22:02:37,801 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:39,798 - WARNING - Could not get URL for image: Commons-logo.svg
+2025-10-30 22:02:40,798 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:42,804 - WARNING - Could not get URL for image: Wikiquote-logo.svg
+2025-10-30 22:02:43,804 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:45,793 - WARNING - Could not get URL for image: Wikisource-logo.svg
+2025-10-30 22:02:46,794 - INFO - Rate limiting: sleeping for 1.97 seconds
+2025-10-30 22:02:48,799 - WARNING - Could not get URL for image: Wikidata-logo.svg
+2025-10-30 22:02:49,799 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:02:51,803 - WARNING - Could not get URL for image: OOjs_UI_icon_edit-ltr-progressive.svg
+2025-10-30 22:02:52,813 - INFO - ✓ Collected Bhagat Singh - 0 images
+2025-10-30 22:02:55,813 - INFO - [4/4] Processing: List of major rivers of India
+2025-10-30 22:02:55,813 - INFO - Starting collection: List of major rivers of India -> test_improved_collection
+2025-10-30 22:02:55,814 - INFO - Rate limiting: sleeping for 3.00 seconds
+2025-10-30 22:02:58,814 - INFO - Getting info for: List of major rivers of India
+2025-10-30 22:02:58,862 - INFO - Fetching content for: List of major rivers of India
+2025-10-30 22:02:58,952 - INFO - Processing 19 images for List of major rivers of India
+2025-10-30 22:02:58,952 - INFO - Rate limiting: sleeping for 2.86 seconds
+2025-10-30 22:03:01,855 - WARNING - Could not get URL for image: Indiarivers.png
+2025-10-30 22:03:02,856 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:04,856 - WARNING - Could not get URL for image: Plan_of_River_Systems_of_India.png
+2025-10-30 22:03:05,856 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:07,859 - WARNING - Could not get URL for image: Nanga_Parbat_Indus_Gorge.jpg
+2025-10-30 22:03:08,859 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:10,851 - WARNING - Could not get URL for image: Brahmaputra_River_Homeward_bound.jpg
+2025-10-30 22:03:11,851 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:13,851 - WARNING - Could not get URL for image: Varanasiganga.jpg
+2025-10-30 22:03:14,851 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:16,855 - WARNING - Could not get URL for image: Early_morning_in_Godavari_02.jpg
+2025-10-30 22:03:17,855 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:19,867 - WARNING - Could not get URL for image: A_view_of_Sutlej_river_Himachal_Pradesh_India_2014.jpg
+2025-10-30 22:03:20,867 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:03:22,853 - WARNING - Could not get URL for image: Krishna_River.jpg
+2025-10-30 22:03:23,853 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:25,858 - WARNING - Could not get URL for image: Yamuna_river_near_the_Himalayas.jpg
+2025-10-30 22:03:26,858 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:28,863 - WARNING - Could not get URL for image: Omkareshwar1.JPG
+2025-10-30 22:03:29,863 - INFO - Rate limiting: sleeping for 1.95 seconds
+2025-10-30 22:03:31,855 - WARNING - Could not get URL for image: Ghaghara_River_Bahraich.jpg
+2025-10-30 22:03:32,855 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:36,335 - WARNING - Could not get URL for image: Chambal-river-gorge.jpg
+2025-10-30 22:03:37,335 - INFO - Rate limiting: sleeping for 0.48 seconds
+2025-10-30 22:03:38,632 - WARNING - Could not get URL for image: Mahanadi_from_Banki.jpg
+2025-10-30 22:03:39,632 - INFO - Rate limiting: sleeping for 1.19 seconds
+2025-10-30 22:03:40,860 - WARNING - Could not get URL for image: River_Chenab_Ramban.jpg
+2025-10-30 22:03:41,860 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:43,861 - WARNING - Could not get URL for image: Cauvery_at_Erode.JPG
+2025-10-30 22:03:44,861 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:46,863 - WARNING - Could not get URL for image: Son_River,_Umaria_district,_MP,_India.jpg
+2025-10-30 22:03:47,863 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:49,854 - WARNING - Could not get URL for image: Srinagar_(Kashmir),_1969,_bridge_over_the_Jelhum_river..jpg
+2025-10-30 22:03:50,855 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:52,859 - WARNING - Could not get URL for image: Ravi_River.jpg
+2025-10-30 22:03:53,859 - INFO - Rate limiting: sleeping for 1.96 seconds
+2025-10-30 22:03:55,855 - WARNING - Could not get URL for image: Kosi_River,_Jim_Corbett_National_Park,_Ramnagar,_Uttarakhand.jpeg
+2025-10-30 22:03:56,867 - INFO - ✓ Collected List of major rivers of India - 0 images
+2025-10-30 22:03:59,867 - INFO - \nBatch Complete: 4/4 successful, 0 failed

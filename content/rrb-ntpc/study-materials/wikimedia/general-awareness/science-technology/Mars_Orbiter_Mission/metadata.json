@@ -1,0 +1,19 @@
+{
+  "title": "Mars_Orbiter_Mission",
+  "source_url": "https://en.wikipedia.org/wiki/Mars_Orbiter_Mission",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Mars_Orbiter_Mission",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:33:27.353256",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "2073db2ff0586aa8d658cb0b068c390f",
+  "checksum_sha256": "9802bddff86a6bba4ed696beab644b40ea9c0fb979a6421e19c083ac7c4bc3b7"
+}

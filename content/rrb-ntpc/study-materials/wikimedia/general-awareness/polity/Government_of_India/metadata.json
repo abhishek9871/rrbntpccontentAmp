@@ -1,0 +1,19 @@
+{
+  "title": "Government_of_India",
+  "source_url": "https://en.wikipedia.org/wiki/Government_of_India",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Government_of_India",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:32:41.974928",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "d8c7cde0a93aaa60c0fd846fbf070007",
+  "checksum_sha256": "2666c4cd92fd5a767ed0460308fac968153d4b7a0c32a8021ebd9e5aed1f3e8d"
+}

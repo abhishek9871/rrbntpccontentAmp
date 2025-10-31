@@ -1,0 +1,34 @@
+{
+  "total_files": 292,
+  "by_language": {
+    "en": 179,
+    "unknown": 95,
+    "hi": 18
+  },
+  "by_category": {
+    "study-materials": 178,
+    "practice-sets": 67,
+    "current-affairs": 12,
+    "previous-papers": 14,
+    "mixed": 21
+  },
+  "by_source": {
+    "/workspace/diksha-math/study-materials/oer/mathematics": 22,
+    "/workspace/diksha-reasoning": 12,
+    "/workspace/diksha-science": 33,
+    "/workspace/diksha-ga": 52,
+    "/workspace/wikimedia-math": 59,
+    "/workspace/practice-math": 8,
+    "/workspace/practice-reasoning": 20,
+    "/workspace/practice-ga": 39,
+    "/workspace/current-affairs": 12,
+    "/workspace/portal-downloads": 10,
+    "/workspace/downloads/rrb-ntpc": 4,
+    "/workspace/downloads": 21
+  },
+  "by_confidence": {
+    "low": 179,
+    "high": 19,
+    "medium": 94
+  }
+}

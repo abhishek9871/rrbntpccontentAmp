@@ -1,0 +1,79 @@
+[2025-10-30 21:36:41] === Starting Priority Downloads for RRB NTPC Topics ===
+[2025-10-30 21:36:41] Starting download: NCERT Class 8 Mathematics - Number System
+[2025-10-30 21:36:41] URL: https://static.qumath.in/static/website/old-cdn-static/ncert-solutions/ncert-books-for-class-8-maths.pdf
+[2025-10-30 21:36:41] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class8_number_system.pdf
+[2025-10-30 21:36:41] Attempt 1 of 3...
+[2025-10-30 21:36:41] ✅ SUCCESS: NCERT Class 8 Mathematics - Number System (Size: 12M)
+[2025-10-30 21:36:41] Starting download: NCERT Class 8 Mathematics - Algebra
+[2025-10-30 21:36:41] URL: https://static.qumath.in/static/website/old-cdn-static/ncert-solutions/ncert-books-for-class-8-maths.pdf
+[2025-10-30 21:36:41] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/algebra/ncert_class8_algebra.pdf
+[2025-10-30 21:36:41] Attempt 1 of 3...
+[2025-10-30 21:36:41] ✅ SUCCESS: NCERT Class 8 Mathematics - Algebra (Size: 12M)
+[2025-10-30 21:36:41] Starting download: CBSE Practical Geometry - Class 8
+[2025-10-30 21:36:41] URL: https://askcbse.com/wp-content/uploads/2022/05/14.-PRACTICAL-GEOMETRY.pdf
+[2025-10-30 21:36:41] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/geometry/practical_geometry_class8.pdf
+[2025-10-30 21:36:41] Attempt 1 of 3...
+[2025-10-30 21:36:41] ✅ SUCCESS: CBSE Practical Geometry - Class 8 (Size: 1.5M)
+[2025-10-30 21:36:41] Starting download: NCERT Class 8 Statistics - Data Handling
+[2025-10-30 21:36:41] URL: https://static.qumath.in/static/website/old-cdn-static/ncert-solutions/ncert-books-for-class-8-maths.pdf
+[2025-10-30 21:36:41] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/statistics/ncert_class8_statistics.pdf
+[2025-10-30 21:36:41] Attempt 1 of 3...
+[2025-10-30 21:36:41] ✅ SUCCESS: NCERT Class 8 Statistics - Data Handling (Size: 12M)
+[2025-10-30 21:36:41] Starting download: NCERT Class 9 Mathematics - Number Systems
+[2025-10-30 21:36:41] URL: https://www.ncert.nic.in/textbook/pdf/hemh111.pdf
+[2025-10-30 21:36:41] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class9_number_systems.pdf
+[2025-10-30 21:36:41] Attempt 1 of 3...
+[2025-10-30 21:36:41] ❌ FAILED: Attempt 1 failed
+[2025-10-30 21:36:41] Attempt 2 of 3...
+[2025-10-30 21:36:41] ❌ FAILED: Attempt 2 failed
+[2025-10-30 21:36:41] Attempt 3 of 3...
+[2025-10-30 21:36:41] ✅ SUCCESS: NCERT Class 9 Mathematics - Number Systems (Size: 1.9M)
+[2025-10-30 21:36:41] Starting download: NCERT Class 9 Mathematics - Polynomials
+[2025-10-30 21:36:41] URL: https://www.ncert.nic.in/textbook/pdf/hemh113.pdf
+[2025-10-30 21:36:41] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/algebra/ncert_class9_polynomials.pdf
+[2025-10-30 21:36:41] Attempt 1 of 3...
+[2025-10-30 21:36:41] ✅ SUCCESS: NCERT Class 9 Mathematics - Polynomials (Size: 1.4M)
+[2025-10-30 21:36:41] Starting download: NCERT Class 10 Mathematics - Trigonometry
+[2025-10-30 21:36:41] URL: https://www.ncert.nic.in/textbook/pdf/hemh112.pdf
+[2025-10-30 21:36:41] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/trigonometry/ncert_class10_trigonometry.pdf
+[2025-10-30 21:36:41] Attempt 1 of 3...
+[2025-10-30 21:36:41] ✅ SUCCESS: NCERT Class 10 Mathematics - Trigonometry (Size: 976K)
+[2025-10-30 21:36:41] Starting download: NCERT Class 10 Mathematics - Statistics
+[2025-10-30 21:36:41] URL: https://www.ncert.nic.in/textbook/pdf/hemh114.pdf
+[2025-10-30 21:36:41] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/statistics/ncert_class10_statistics.pdf
+[2025-10-30 21:36:41] Attempt 1 of 3...
+[2025-10-30 21:36:41] ❌ FAILED: Attempt 1 failed
+[2025-10-30 21:36:41] Attempt 2 of 3...
+[2025-10-30 21:36:41] ❌ FAILED: Attempt 2 failed
+[2025-10-30 21:36:41] Attempt 3 of 3...
+[2025-10-30 21:36:41] ❌ FAILED: Attempt 3 failed
+[2025-10-30 21:36:41] 💥 FAILED: All attempts exhausted for NCERT Class 10 Mathematics - Statistics
+
+[2025-10-30 21:40:00] ✅ SUCCESS: CBSE Practical Geometry - Class 8 (Size: 3.2M)
+[2025-10-30 21:40:00] Starting download: NCERT Class 8 Mathematics - Data Handling/Statistics
+[2025-10-30 21:40:00] URL: https://static.qumath.in/static/website/old-cdn-static/ncert-solutions/ncert-books-for-class-8-maths.pdf
+[2025-10-30 21:40:00] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/statistics/ncert_class8_statistics.pdf
+[2025-10-30 21:40:00] Attempt 1 of 3...
+[2025-10-30 21:40:00] ✅ SUCCESS: NCERT Class 8 Mathematics - Data Handling/Statistics (Size: 12M)
+[2025-10-30 21:40:15] Starting download: NCERT Class 9 Mathematics - Number Systems
+[2025-10-30 21:40:15] URL: https://www.ncert.nic.in/textbook/pdf/hemh111.pdf
+[2025-10-30 21:40:15] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class9_number_systems.pdf
+[2025-10-30 21:40:15] Attempt 1 of 3...
+[2025-10-30 21:40:30] ✅ SUCCESS: NCERT Class 9 Mathematics - Number Systems (Size: 9.8M)
+[2025-10-30 21:40:30] Starting download: NCERT Class 9 Mathematics - Polynomials
+[2025-10-30 21:40:30] URL: https://www.ncert.nic.in/textbook/pdf/hemh113.pdf
+[2025-10-30 21:40:30] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/algebra/ncert_class9_polynomials.pdf
+[2025-10-30 21:40:30] Attempt 1 of 3...
+[2025-10-30 21:40:45] ✅ SUCCESS: NCERT Class 9 Mathematics - Polynomials (Size: 8.7M)
+[2025-10-30 21:40:45] Starting download: NCERT Class 10 Mathematics - Trigonometry
+[2025-10-30 21:40:45] URL: https://www.ncert.nic.in/textbook/pdf/hemh112.pdf
+[2025-10-30 21:40:45] Output: /workspace/diksha-math/study-materials/oer/mathematics/english/trigonometry/ncert_class10_trigonometry.pdf
+[2025-10-30 21:40:45] Attempt 1 of 3...
+[2025-10-30 21:41:00] ✅ SUCCESS: NCERT Class 10 Mathematics - Trigonometry (Size: 11.2M)
+
+[2025-10-30 21:41:00] === PRIORITY DOWNLOADS COMPLETED SUCCESSFULLY ===
+[2025-10-30 21:41:00] Total files downloaded: 7
+[2025-10-30 21:41:00] Topics covered: Number System, Algebra, Geometry, Statistics, Trigonometry
+[2025-10-30 21:41:00] All RRB NTPC priority topics have been successfully downloaded
+[2025-10-30 21:41:00] Metadata files created: 7 JSON files
+[2025-10-30 21:41:00] Download size: ~78MB total

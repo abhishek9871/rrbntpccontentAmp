@@ -1,0 +1,55 @@
+2025-10-30 22:39:59,736 - INFO - Starting comprehensive content collection...
+2025-10-30 22:39:59,736 - INFO - Processing: Outline_of_ancient_India
+2025-10-30 22:39:59,844 - INFO - Using fallback content for Outline_of_ancient_India
+2025-10-30 22:39:59,845 - ERROR - ❌ Error updating Outline_of_ancient_India: 'method'
+2025-10-30 22:40:01,002 - INFO - Processing: Medieval_India
+2025-10-30 22:40:01,114 - INFO - Using fallback content for Medieval_India
+2025-10-30 22:40:01,114 - ERROR - ❌ Error updating Medieval_India: 'method'
+2025-10-30 22:40:02,535 - INFO - Processing: Indian_independence_movement
+2025-10-30 22:40:02,653 - INFO - Using fallback content for Indian_independence_movement
+2025-10-30 22:40:02,654 - ERROR - ❌ Error updating Indian_independence_movement: 'method'
+2025-10-30 22:40:04,035 - INFO - Processing: List_of_Indian_independence_activists
+2025-10-30 22:40:04,144 - INFO - Using fallback content for List_of_Indian_independence_activists
+2025-10-30 22:40:04,144 - ERROR - ❌ Error updating List_of_Indian_independence_activists: 'method'
+2025-10-30 22:40:05,384 - INFO - Processing: Subhas_Chandra_Bose
+2025-10-30 22:40:05,483 - INFO - Using fallback content for Subhas_Chandra_Bose
+2025-10-30 22:40:05,483 - ERROR - ❌ Error updating Subhas_Chandra_Bose: 'method'
+2025-10-30 22:40:07,058 - INFO - Processing: Indian_subcontinent
+2025-10-30 22:40:07,206 - INFO - Using fallback content for Indian_subcontinent
+2025-10-30 22:40:07,206 - ERROR - ❌ Error updating Indian_subcontinent: 'method'
+2025-10-30 22:40:09,094 - INFO - Processing: Geography_of_South_India
+2025-10-30 22:40:09,202 - INFO - Using fallback content for Geography_of_South_India
+2025-10-30 22:40:09,203 - ERROR - ❌ Error updating Geography_of_South_India: 'method'
+2025-10-30 22:40:10,651 - INFO - Processing: Judicial_review_in_India
+2025-10-30 22:40:10,751 - INFO - Using fallback content for Judicial_review_in_India
+2025-10-30 22:40:10,751 - ERROR - ❌ Error updating Judicial_review_in_India: 'method'
+2025-10-30 22:40:11,878 - INFO - Processing: Payment_and_settlement_systems_in_India
+2025-10-30 22:40:12,073 - INFO - Using fallback content for Payment_and_settlement_systems_in_India
+2025-10-30 22:40:12,073 - ERROR - ❌ Error updating Payment_and_settlement_systems_in_India: 'method'
+2025-10-30 22:40:13,534 - INFO - Processing: List_of_banks_in_India
+2025-10-30 22:40:13,645 - INFO - Using fallback content for List_of_banks_in_India
+2025-10-30 22:40:13,646 - ERROR - ❌ Error updating List_of_banks_in_India: 'method'
+2025-10-30 22:40:14,899 - INFO - Processing: Fauna_of_India
+2025-10-30 22:40:15,010 - INFO - Using fallback content for Fauna_of_India
+2025-10-30 22:40:15,010 - ERROR - ❌ Error updating Fauna_of_India: 'method'
+2025-10-30 22:40:16,907 - INFO - Processing: Culture_of_India
+2025-10-30 22:40:17,016 - INFO - Using fallback content for Culture_of_India
+2025-10-30 22:40:17,016 - ERROR - ❌ Error updating Culture_of_India: 'method'
+2025-10-30 22:40:18,858 - INFO - Processing: Indian_literature
+2025-10-30 22:40:18,961 - INFO - Using fallback content for Indian_literature
+2025-10-30 22:40:18,962 - ERROR - ❌ Error updating Indian_literature: 'method'
+2025-10-30 22:40:20,723 - INFO - Processing: International_organization
+2025-10-30 22:40:20,837 - INFO - Using fallback content for International_organization
+2025-10-30 22:40:20,838 - ERROR - ❌ Error updating International_organization: 'method'
+2025-10-30 22:40:22,288 - INFO - Processing: Member_states_of_the_United_Nations
+2025-10-30 22:40:22,391 - INFO - Using fallback content for Member_states_of_the_United_Nations
+2025-10-30 22:40:22,391 - ERROR - ❌ Error updating Member_states_of_the_United_Nations: 'method'
+2025-10-30 22:40:23,510 - INFO - Processing: Vikram_Sarabhai
+2025-10-30 22:40:23,604 - INFO - Using fallback content for Vikram_Sarabhai
+2025-10-30 22:40:23,604 - ERROR - ❌ Error updating Vikram_Sarabhai: 'method'
+2025-10-30 22:40:25,097 - INFO - 
+🎯 Comprehensive Collection Summary:
+2025-10-30 22:40:25,097 - INFO -    Articles updated: 0
+2025-10-30 22:40:25,097 - INFO -    Articles failed: 16
+2025-10-30 22:40:25,097 - INFO -    Success rate: 0.0%
+2025-10-30 22:40:25,097 - ERROR - ❌ Collection failed

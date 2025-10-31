@@ -1,0 +1,1003 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="https://pdf.exampundit.in/assets/sweetalert/css/sweetalert.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://pdf.exampundit.in/assets/sweetalert/js/sweetalert.min.js"></script>
+    <link rel="stylesheet" href="https://pdf.exampundit.in/assets/custom.css?v=1.21">
+    
+        <title>Indian Economy One liner Questions for Railway NTPC CBT 2 and Group D Exams</title>
+        <meta name="description" content="Get Indian Economy One liner Questions for Railway NTPC CBT 2 and Group D Exams. Check Indian Economy One liner Questions for Railway NTPC CBT 2 and Group D Exams.">
+    <meta name="keyword" content="Indian Economy One liner Questions for Railway NTPC CBT 2 and Group D Exams">
+    <meta property="og:image" content="https://admin.exampundit.in/uploads/pro_1650519065094.jpg">
+        
+    
+    <meta name="google-signin-scope" content="profile email">
+<meta name="google-signin-client_id" content="14835178144-sq4gg91mf2m7v7f46em6nmvl70b6sh69.apps.googleusercontent.com">
+<meta name="ahrefs-site-verification" content="ef6147be3b28b5a253159c04ac3e6cc363ac0ad8cb649f7e0a4396fadba64f0e">
+<meta property="og:image" content="https://pdf.exampundit.in/assets/img/ep6-min.jpg" />
+<!-- Exampundit PDF  - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-53476521-5"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-53476521-5');
+
+</script>
+<!-- Exampundit PDF  - Google Analytics End-->
+
+<!--True Push Code Starts-->
+<script type="application/javascript" src="https://sdki.truepush.com/sdk/v2.0.4/app.js" async></script>
+<script>
+    var truepush = window.truepush || [];
+
+    truepush.push(function() {
+        truepush.Init({
+            id: "6324680c27987ff29b40e348"
+        }, function(error) {
+            if (error) console.error(error);
+        })
+    })
+
+</script>
+<!--True Push Code End-->
+
+
+<!-- Facebook Pixel Code -->
+<script>
+    ! function(f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function() {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1124643037995860');
+    fbq('track', 'PageView');
+
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1124643037995860&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script src="https://apis.google.com/js/api:client.js"></script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script>
+    var googleUser = {};
+    var startApp = function() {
+        gapi.load('auth2', function() {
+            // Retrieve the singleton for the GoogleAuth library and set up the client.
+            auth2 = gapi.auth2.init({
+                client_id: '14835178144-sq4gg91mf2m7v7f46em6nmvl70b6sh69.apps.googleusercontent.com',
+                cookiepolicy: 'single_host_origin',
+                // Request scopes in addition to 'profile' and 'email'
+                //scope: 'additional_scope'
+            });
+            attachSignin(document.getElementById('gsignin_cusbtn'));
+            attachSignin(document.getElementById('gsignin_cusbtn_Mob'));
+            attachSignin(document.getElementById('gsignin_cusbtn_Preview'));
+            attachSignin(document.getElementById('gsignin_cusbtn_Download'));
+            attachSignin(document.getElementById('gsignin_cusbtn_Sample'));
+            attachSignin(document.getElementById('gsignin_cusbtn_Reqpdf'));
+            attachSignin(document.getElementById('gsignin_cusbtn_Uppdf'));
+            attachSignin(document.getElementById('gsignin_cusbtn_Reqpdf2'));
+        });
+    };
+
+    function attachSignin(element) {
+        auth2.attachClickHandler(element, {},
+            function(googleUser) {
+                onSignIn(googleUser);
+            },
+            function(error) {
+                console.log(JSON.stringify(error, undefined, 2));
+            });
+    }
+
+</script>
+
+<script>
+    function onSignIn(googleUser) {
+        // Useful data for your client-side scripts:
+        var profile = googleUser.getBasicProfile();
+        var googleid = profile.getId();
+        var fullname = profile.getName();
+        var givenname = profile.getGivenName();
+        var image = profile.getImageUrl();
+        var email = profile.getEmail();
+        var lastname = profile.getFamilyName();
+
+        var id_token = googleUser.getAuthResponse().id_token;
+
+        console.log(googleUser);
+
+        $.ajax({
+            url: 'https://pdf.exampundit.in/google-login',
+            type: 'POST',
+            data: 'googleid=' + googleid + '&fullname=' + fullname + '&givenname=' + givenname + '&image=' + image + '&email=' + email + '&lastname=' + lastname,
+            error: function() {
+                alert('An error has occurred.Please Try Again');
+            },
+            success: function(res) {
+                console.log(res)
+                if (res != '') {
+                    window.location.reload();
+                }
+            }
+        });
+
+    }
+    $(document).ready(function() {
+        startApp();
+    });
+
+</script>
+    <style>
+        .file-left .imgcard {
+            position: absolute;
+            border-radius: 5px;
+            width: 100%;
+            height: 110%;
+            transition: transform .2s;
+            Animation left: 10px;
+            top: -18px;
+            border-radius: 0.25rem;
+            box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+        }
+
+        .file-left .imgcard img {
+            width: 40px;
+            height: 40px;
+            margin-top: 3px;
+        }
+
+        .file-left .imgcard .title {
+            font-size: 14px;
+            color: #fff;
+            line-height: 15px;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .file-left .imgcard .subtitle {
+            font-size: 11px;
+            color: #fff;
+            line-height: 14px;
+            display: block;
+        }
+
+        .file-left .imgcard:hover {
+            transform: scale(1.3);
+            z-index: 9999;
+        }
+
+    </style>
+</head>
+<!--class="night_mode"-->
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <a class="navbar-brand" href="https://pdf.exampundit.in/"><img src="https://pdf.exampundit.in/assets/image/logo.png" width="130px" /></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContentXL" aria-controls="navbarSupportedContentXL" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContentXL">
+
+            <div class="sidebar-header mobile-view">
+                <div class="user-pic">
+                    <img class="img-responsive img-rounded" src="https://pdf.exampundit.in/assets/image/user.jpg" alt="User picture">
+                </div>
+                <div class="user-info">
+                                        <span class="user-name">
+                        <a id="gsignin_cusbtn_Mob" class="nav-link btn btn-sm btn-danger px-2 py-1 mt-1" href="javascript:void(0)">Sign In</a>
+                    </span>
+                                    </div>
+                <button class="btns btn" type="button" data-toggle="collapse" data-target="#navbarSupportedContentXL" aria-controls="navbarSupportedContentXL" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa fa-times-circle"></i>
+                </button>
+            </div>
+            <form id="searchbox" class="searchdiv form-inline my-2 mx-4 my-lg-0 w-50">
+                <div class="input-group shadowbox-input ui-widget">
+                    <input type="text" class="form-control input-round" maxlength="200" name="q" #ctrl="ngModel" id="searchval" placeholder="Search for books, tutorials, manuals and authors" value="" required="">
+                    <div class="input-group-append">
+                        <button type="submit" class="btn btn-danger" style="border-radius: 0 10px 10px 0;" type="button">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </form>
+            <ul class="navbar-nav m-auto">
+                <li class="nav-item vb">
+                    <a class="nav-link" href="https://guidely.in/login?utm_source=exampundit&ref=EP&redirect_url=https://guidely.in/pdf-course-subscription" target="_blank"> <i class="fa fa-angle-right"></i>PDF Course Subscription</a>
+                </li>
+                <li class="nav-item vb">
+                    <a class="nav-link" href="https://pdf.exampundit.in/buy-a-pdf"><i class="fa fa-angle-right"></i> Buy PDF</a>
+                </li>
+<!--
+                <li class="nav-item vb">
+                    <a class="nav-link" id="gsignin_cusbtn_Reqpdf" href="#" ><i class="fa fa-angle-right"></i> Request Pdf</a>
+                </li>
+-->
+                
+                                
+                                <li class="nav-item loginbtnmob web-view ml-2">
+                    <a id="gsignin_cusbtn" class="nav-link btn btn-sm btn-danger px-2 py-1 mt-1" href="javascript:void(0)">Sign In</a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</nav>
+<script>
+    $("#searchbox").submit(function(event) {
+        event.preventDefault();
+        var getval = $('#searchval').val();
+        window.location.href = "https://pdf.exampundit.in/search/" + getval;
+    });
+
+</script>
+<style>
+    .mainimg {
+        z-index: 10;
+        border-radius: 3px 0px 0px 3px;
+        width: 90%;
+        height: auto;
+        margin-left: 0px;
+        margin-top: 0px;
+        position: absolute;
+        transition: transform .2s;
+        left: 15px;
+        top: -40px;
+        border-radius: 0.25rem;
+        box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+    }
+
+    .ebook-title {
+        font-size: 25px;
+    }
+
+    .descp p {
+        font-size: 14px;
+    }
+
+    .mainimg:hover {
+        transform: scale(1.3);
+        z-index: 9999;
+    }
+
+    .divprice {
+        margin-bottom: 0px;
+        position: relative;
+        top: 8px;
+        font-weight: 600;
+    }
+
+    .pricespan {
+        font-size: 25px;
+        color: #042b5e;
+        padding: 15px;
+        font-weight: 600;
+    }
+
+    .disspan {
+        font-size: 25px;
+        color: #ccc;
+        font-weight: 600;
+    }
+
+    @media only screen and (max-width: 769px) {
+        .ebook-title {
+            font-size: 18px;
+        }
+
+        .mainimg {
+            top: -5px;
+        }
+
+        .maincard {
+            margin-top: 10px !important;
+        }
+
+        .file-info {
+            font-size: 10px;
+        }
+
+        .descp p {
+            font-size: 12px;
+        }
+
+        .descp {
+            height: 40px;
+            overflow: hidden;
+        }
+    }
+
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-md-7 py-3">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="card maincard cus-shadow mt-5 mb-4">
+                        <div class="card-body pds10">
+                            <div class="row">
+                                <div class="col-3 text-center" style="min-height: 180px;">
+                                    <img class="mainimg" src="https://admin.exampundit.in/uploads/pro_1650519065094.jpg" alt="indian-economy-one-liner-questions-for-railway-ntpc-cbt-2-and-group-d-exams" title="indian-economy-one-liner-questions-for-railway-ntpc-cbt-2-and-group-d-exams">
+                                </div>
+                                <div class="col-8">
+                                    <h1 class="ebook-title" itemprop="name">Indian Economy One liner Questions for Railway NTPC CBT 2 and Group D Exams</h1>
+                                    <div class="file-info">
+                                        <span class="fi-pagecount ">13 Pages</span>
+                                        <span class="ml-1 mr-1">·</span><span class="fi-year ">21-04-2022</span>
+                                        <span class="ml-1 mr-1">·</span><span class="fi-size hidemobile">717.13 KB</span>
+                                        <span class="ml-1 mr-1 hidemobile"></span><span class="fi-hit">3786 Downloads</span>
+                                        <br>
+                                    </div>
+                                    <div class="row mt-2">
+                                        <div class="col-md-12 descp">
+                                            <p>Get&nbsp;Indian Economy One liner Questions for Railway NTPC CBT 2 and Group D Exams.&nbsp;Check&nbsp;Indian Economy One liner Questions for Railway NTPC CBT 2 and Group D Exams.</p>                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                        <div class="row">
+                                <div class="col-md-5 mb-2 text-center">
+                                    <a style="background-color:#ee7843;border-color:#ee7843" href="https://pdf.exampundit.in/buy-a-pdf" class="btn-block btn btn-danger">Get your Special PDFs</a>
+                                </div>
+                                <div class="col-md-7 text-center">
+                                    <a id="gsignin_cusbtn_Preview" class="btn btn-warning mr-2 mb-2">Preview</a>
+                                    
+                                    <a id="gsignin_cusbtn_Download" class="btn btn-success mr-2 mb-2">Download</a>
+                                    
+                                                                        
+                                    <a class="d-lg-none d-xl-none d-inline-block mr-2" href="whatsapp://send?text=https://pdf.exampundit.in/indian-economy-one-liner-questions-for-railway-ntpc-cbt-2-and-group-d-exams" data-action="share/whatsapp/share"><img src="https://pdf.exampundit.in/uploads/icons8-whatsapp-48.png"></a>&nbsp;&nbsp;
+                                    <a class="d-lg-none d-xl-none d-inline-block mr-2" href="tg://msg_url?url=https://pdf.exampundit.in/indian-economy-one-liner-questions-for-railway-ntpc-cbt-2-and-group-d-exams"><img src="https://pdf.exampundit.in/uploads/icons8-telegram-app-48.png"></a>
+                                </div>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+<div class="row">
+                <div class="col-12">
+                    <h3>Related Posts</h3>
+                </div>
+            </div>
+            <div class="row" id="get_response">
+
+            </div>
+                        <div class="row">
+                <div class="col-12 text-center py-3">
+                    <button onclick="loadmore()" class="btn btn-primary">Load More</button>
+                </div>
+            </div>
+                    </div>
+        <div class="col-md-5">
+            
+<!--
+<div class="mt-2 mb-2 text-left">
+	<h2>Insurance Awareness PDF</h2>
+    <a href="https://guidely.in/bundle-course/insurance-and-financial-awareness-bundle-pdf-course?utm_sourse=EPIns" target="_blank">
+        <img style="width:400px; border-radius:10px;" src="https://cdn.guidely.in/images/sliders/168120489123.png" alt="downloadapp" title="Insurance Awareness">
+    </a>
+</div>
+-->
+<div class="mt-2 mb-2 text-left">
+	<h2>Mobile App</h2>
+    <a href="https://play.google.com/store/apps/details?id=in.app.exampundit" target="_blank">
+        <img src="https://pdf.exampundit.in/assets/epApp.png" alt="downloadapp" title="Download APP">
+    </a>
+</div>
+<div class="mt-2 mb-2 text-left">
+    <a href="https://guidely.in/login?utm_source=exampundit&ref=EP&redirect_url=https://guidely.in/pdf-course-subscription" target="_blank">
+        <img src="https://pdf.exampundit.in/assets/image/sidebarbanner1.png" alt="Bundlepdf" title="Paid PDF">
+    </a>
+</div>
+
+<div class="sidebar">
+    <div class="categories-list">
+        <h1>Sectors</h1>
+        <ul>
+            <li>
+                <a href="https://pdf.exampundit.in/bank-exam-pdf">
+                    <img class="img-polaroid" src="https://admin.exampundit.in/uploads/pro_1628308688953.png" alt="bank" title="Banking">
+                    <p> Banking</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://pdf.exampundit.in/railway-pdf">
+                    <img class="img-polaroid" src="https://admin.exampundit.in/uploads/pro_1628308712043.png" alt="Railway" title="Railway">
+                    <p> Railway</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://pdf.exampundit.in/ssc">
+                    <img class="img-polaroid" src="https://admin.exampundit.in/uploads/pro_1628308738028.png" alt="SSC" title="SSC">
+                    <p> SSC</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://pdf.exampundit.in/insurance-pdf">
+                    <img class="img-polaroid" src="https://admin.exampundit.in/uploads/pro_1628308775351.png" alt="Insurance" title="Insurance PDFs">
+                    <p> Insurance</p>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="categories-list">
+        <h1>Sections</h1>
+        <ul>
+                        <li>
+                <a href="https://pdf.exampundit.in/static-gk">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595959220863.png" alt="Static GK" title="Static GK">
+                    <p>Static GK</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/guidely-pdf-free-download">
+                    <img src="https://admin.exampundit.in/uploads/pro_1628755060130.png" alt="Guidely Free PDFs" title="Guidely Free PDFs">
+                    <p>Guidely Free PDFs</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/score-booster">
+                    <img src="https://admin.exampundit.in/uploads/pro_1619074905896.png" alt="Score Booster" title="Score Booster">
+                    <p>Score Booster</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/bundle-pdf">
+                    <img src="https://admin.exampundit.in/uploads/pro_1628313653025.png" alt="Bundle PDF" title="Bundle PDF">
+                    <p>Bundle PDF</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/interview-preparation-tips-and-materials">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595960098052.png" alt="Interview Materials" title="Interview Materials">
+                    <p>Interview Materials</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/professional-knowledge">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595960073774.png" alt="Professional Knowledge" title="Professional Knowledge">
+                    <p>Professional Knowledge</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/descriptive-writing">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595959948947.png" alt="Descriptive Writing" title="Descriptive Writing">
+                    <p>Descriptive Writing</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/financial-awareness">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595959272138.png" alt="Financial Awareness" title="Financial Awareness">
+                    <p>Financial Awareness</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/syllabus">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595959246501.png" alt="Syllabus" title="Syllabus">
+                    <p>Syllabus</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/reasoning-ability">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595956318912.png" alt="Reasoning Ability" title="Reasoning Ability">
+                    <p>Reasoning Ability</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/computer-awareness">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595959192612.png" alt="Computer Awareness PDF" title="Computer Awareness PDF">
+                    <p>Computer Awareness PDF</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/memory-based-questions">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595959060185.png" alt="Memory Based Papers" title="Memory Based Papers">
+                    <p>Memory Based Papers</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/free-mock-test-pdf">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595959312482.png" alt="Free Mock Test PDF" title="Free Mock Test PDF">
+                    <p>Free Mock Test PDF</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/general-awarenss">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595956609089.png" alt="General Awareness " title="General Awareness ">
+                    <p>General Awareness </p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/quantitative-aptitude">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595956438502.png" alt="Quantitative Aptitude" title="Quantitative Aptitude">
+                    <p>Quantitative Aptitude</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/english-language">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595956505531.png" alt="English Language" title="English Language">
+                    <p>English Language</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/current-affairs-pdf">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595956573311.png" alt="Current Affairs" title="Current Affairs">
+                    <p>Current Affairs</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/banking-awareness">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595958887141.png" alt="Banking Awareness" title="Banking Awareness">
+                    <p>Banking Awareness</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/insurance-awareness-pdf">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595958930707.png" alt="Insurance Awareness" title="Insurance Awareness">
+                    <p>Insurance Awareness</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/previous-year-paper-pdf">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595958958736.png" alt="Previous Year Paper" title="Previous Year Paper">
+                    <p>Previous Year Paper</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/notifications">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595958992030.png" alt="Notifications" title="Notifications">
+                    <p>Notifications</p>
+                </a>
+            </li>
+                    </ul>
+    </div>
+
+    <div class="categories-list">
+        <h1>Exams</h1>
+        <ul>
+                        <li>
+                <a href="https://pdf.exampundit.in/lic-aao-ado">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595960220438.png" alt="LIC Exams" title="LIC Exams">
+                    <p>LIC Exams</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/sbi-clerk">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595960131841.png" alt="SBI Clerk" title="SBI Clerk">
+                    <p>SBI Clerk</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/sbi-po">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595960154355.png" alt="SBI PO" title="SBI PO">
+                    <p>SBI PO</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/ssc">
+                    <img src="https://admin.exampundit.in/uploads/pro_1695203712256.png" alt="SSC" title="SSC">
+                    <p>SSC</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/ibps-rrb-pdfs">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595964659184.png" alt="IBPS RRB PO/Clerk" title="IBPS RRB PO/Clerk">
+                    <p>IBPS RRB PO/Clerk</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/rbi-assistant">
+                    <img src="https://admin.exampundit.in/uploads/pro_1595965822524.png" alt="RBI Asst." title="RBI Asst.">
+                    <p>RBI Asst.</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/railway-pdf">
+                    <img src="https://admin.exampundit.in/uploads/pro_1695204741049.png" alt="Railway" title="Railway">
+                    <p>Railway</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/insurance-pdf">
+                    <img src="https://admin.exampundit.in/uploads/pro_1695205919961.png" alt="Insurance" title="Insurance">
+                    <p>Insurance</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/bank-exam-pdf">
+                    <img src="https://admin.exampundit.in/uploads/pro_1695204072771.png" alt="Banking" title="Banking">
+                    <p>Banking</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/ibps-po-pdfs">
+                    <img src="https://admin.exampundit.in/uploads/pro_1599245822609.png" alt="IBPS PO" title="IBPS PO">
+                    <p>IBPS PO</p>
+                </a>
+            </li>
+                        <li>
+                <a href="https://pdf.exampundit.in/ibps-clerk-pdfs">
+                    <img src="https://admin.exampundit.in/uploads/pro_1599245855596.png" alt="IBPS Clerk" title="IBPS Clerk">
+                    <p>IBPS Clerk</p>
+                </a>
+            </li>
+                    </ul>
+
+    </div>
+	
+</div>
+        </div>
+    </div>
+</div>
+<div class="site-footer mt-2 pb-3 pt-5 bg-primary-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h2 class="footer-heading mb-4">About</h2>
+                <p class="f-13">Exampundit is one of the leading Ed-Tech Comapny with more than 1 Crore students around the world. We are with one vision in mind: To help all levels of students to clear their exams and make their dreams come true! With the focused feedback on successful candidates, we are stepping forward to serve more practice questions with an affordable price. No compromise on quality at anymore</p>
+                <p class="f-13">Our Moto: Learning should not stop lack of money</p>
+                <p class="f-13"><b>“ Discover the Comprehensive study materials to Ace your Competitive exam “</b></p>
+                <p class="f-13 text-right"><b>- With Exampundit</b></p>
+
+                <div class="my-4">
+                    <a href="https://www.youtube.com/#" class="pl-0 f-35 pr-3 color-primary"><i class="fa fa-youtube"></i></a>
+                    <a href="https://www.instagram.com/#" class="pl-3 f-35 pr-3 color-primary"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/#" class="pl-3 f-35 pr-3 color-primary"><i class="fa fa-facebook"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-4">
+                        <h2 class="footer-heading mb-3">Current Affairs</h2>
+                        <ul class="list-unstyled">
+                            <li><a href="https://pdf.exampundit.in/current-affairs-pdf">Daily Current Affairs PDFs</a></li>
+                            <li><a href="https://pdf.exampundit.in/current-affairs-quiz">Daily Current Affairs Quiz</a></li>
+                            <li><a href="https://pdf.exampundit.in/weekly-current-affairs-pdf">Weekly Current Affairs PDFs</a></li>
+                            <li><a href="https://pdf.exampundit.in/weekly-current-affairs-quiz">Weekly Current Affairs Quiz</a></li>
+                            <li><a href="https://pdf.exampundit.in/monthly-current-affairs-pdf">Monthly Current Affairs PDFs</a></li>
+                            <li><a href="https://pdf.exampundit.in/monthly-current-affairs-quiz">Monthly current Affairs Quiz</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-4">
+                        <h2 class="footer-heading mb-3">Helpful Link</h2>
+                        <ul class="list-unstyled">
+                            <li><a href="https://pdf.exampundit.in/refund-policy">Refund Policy</a></li>
+                            
+                        </ul>
+                    </div>
+                    <!--<div class="col-lg-3 col-md-3 col-6">
+                        <h2 class="footer-heading mb-3">CBSE</h2>
+                        <ul class="list-unstyled">
+                            <li><a href="https://pdf.exampundit.in/cbse-10th-standard">Maths</a></li>
+                            <li><a href="https://pdf.exampundit.in/cbse-10th-standard">English</a></li>
+                            <li><a href="https://pdf.exampundit.in/cbse-10th-standard">Science</a></li>
+                            <li><a href="https://pdf.exampundit.in/cbse-10th-standard">Social Science</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-6">
+                        <h2 class="footer-heading mb-3">Popular Exams</h2>
+                        <ul class="list-unstyled">
+                            <li><a href="https://pdf.exampundit.in/ibps-po-mock-test">IBPS PO</a></li>
+                            <li><a href="https://pdf.exampundit.in/sbi-po-mock-test">SBI PO</a></li>
+                            <li><a href="https://pdf.exampundit.in/ssc-cgl-mock-test">SSC CGL</a></li>
+                            <li><a href="https://pdf.exampundit.in/rrb-ntpc-online-mock-test">RRB NTPC</a></li>
+                        </ul>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-md-12">
+                <div class="border-top pt-3 pb-3">
+                    <div class="row">
+                        <div class="col-lg-8 col-md-4">
+                            <p class="copyright"><small>
+                                    Copyright © 2025. All rights reserved | Made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a class="color-primary" href="https://pdf.exampundit.in" target="_blank">Exampundit</a>
+                                </small>
+                            </p>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <p>contact at : <a href="/cdn-cgi/l/email-protection#dcbdb8b1b5b29cb9a4bdb1aca9b2b8b5a8f2b5b2" class="color-primary"><span class="__cf_email__" data-cfemail="4b2a2f2622250b2e332a263b3e252f223f652225">[email&#160;protected]</span></a> </p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- popupmaker -->
+<style type="text/css" media="screen">
+    .overlay {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(0, 0, 0, .7);
+        transition: opacity 500ms;
+        visibility: hidden;
+        opacity: 0;
+        z-index: 9999
+    }
+
+    .overlay:target {
+        visibility: visible;
+        opacity: 1
+    }
+
+    .popup {
+        margin: 70px auto;
+        background: #fff;
+        border-radius: 5px;
+        width: 45%;
+        position: relative;
+        transition: all 5s ease-in-out
+    }
+
+    .popup .close {
+        position: absolute;
+        top: -12px;
+        right: -12px;
+        transition: all 200ms;
+        font-size: 23px;
+        font-weight: 700;
+        text-decoration: none;
+        color: #333;
+        background: #fff;
+        padding: 4px 8px;
+        border-radius: 50%
+    }
+
+    .popup .close:hover {
+        color: red
+    }
+
+    .popup .content {
+        max-height: 90%;
+        overflow: auto
+    }
+
+    #footer1 {
+        position: fixed;
+        right: 30;
+        bottom: 0;
+        margin: 0;
+        width: 11%;
+        z-index: 999999999;
+        margin-left: -393px;
+        display: none
+    }
+
+    .top-free-test a:hover {
+        background: #cc1407
+    }
+
+    @media (max-width:767px) {
+        .resmob a {
+            margin-left: 25px !important;
+            margin-bottom: 40px !important
+        }
+
+        .resmob a img {
+            left: -5px !important
+        }
+
+        .resmobsmal a img {
+            left: 5px !important
+        }
+
+        .popup {
+            width: 85%
+        }
+    }
+
+</style>
+
+<div id="popup_ig" class="overlay">
+    <div class="popup">
+        <button id="closepopupadsadd" class="close">×</button>
+        <div class="content">
+            <a href="https://guidely.in/login?utm_source=exampundit&ref=EP&redirect_url=https://guidely.in/goat-bank-exams" target="_blank">
+                <img src="https://admin.exampundit.in/uploads/popup_image449008orange brown and white modern real estate banner landscape (900 x 400 px).png" width="100%" class="lazyloaded" data-was-processed="true" />
+            </a>
+        </div>
+    </div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    $('#closepopupadsadd').click(function() {
+        $('#popup_ig').fadeOut();
+    });
+
+    if (document.cookie.indexOf('adspopupsetvalue') == -1) {
+        setTimeout(function(){
+            $('#popup_ig').css({"visibility": "visible", "opacity": "1"});
+        }, 4000);
+        var values = 'yes'
+        var now = new Date();
+        var time = now.getTime();
+        time += 3600 * 1000;
+        now.setTime(time);
+        document.cookie = 'adspopupsetvalue=' + values + '; expires=' + now.toUTCString() + '; path=/';
+    }else{
+      $('#popup_ig').css({"visibility": "hidden", "opacity": "1"});
+    }
+</script>
+</body>
+
+</html>
+<script>
+    var pages = 0;
+    var lockpage = 0;
+
+    function loadmore() {
+        if (lockpage == 0) {
+            pages++;
+            addData();
+        }
+    }
+
+    var loaderdiv = '<div class="col-lg-12 removelistitems" id="postget_2695">\
+                    <div class="card cus-shadow mt-4 mb-2">\
+                    <div class="card-body p-0 clearfix">\
+                    <div class="file-left text-center">\
+                    <div class="sketchdiv imgsmsk"></div></div>\
+                    <div class="file-right pr-3">\
+                        <span class="sketchdiv mt-3 mb-2 text-left"></span>\
+                        <span class="sketchdiv d-inline-block text-left widsk20"></span>\
+                        <span class="sketchdiv d-inline-block text-left widsk20"></span>\
+                        <span class="sketchdiv d-inline-block text-left widsk20"></span>\
+                        <span class="sketchdiv text-left widsk90"></span>\
+                    </div></div></div></div>';
+
+    function beforeload() {
+        for (var i = 0; i < 10; i++) {
+            $('#get_response').append(loaderdiv);
+        }
+    }
+    $(window).scroll(function() {
+        if ($(window).scrollTop() == $(document).height() - $(window).height()) {
+            loadmore();
+        }
+    });
+
+    function addData() {
+        beforeload();
+        $.ajax({
+            method: "POST",
+            url: "https://pdf.exampundit.in/post-list",
+            data: {
+                page: pages,
+                                                paid: '0'
+                            },
+            success: function(res) {
+                if (res == '') {
+                    lockpage = 1;
+                }
+                $('.removelistitems').remove();
+                $('#get_response').append(res);
+            }
+        });
+    }
+    $(document).ready(function() {
+        addData();
+    });
+
+    function saveDrive(id) {
+        $.ajax({
+            url: 'https://pdf.exampundit.in/load-section',
+            data: {
+                saveid: id,
+                remove: '0'
+            },
+            success: function(d) {
+                if (d == '1') {
+                    $('#postremovebtn').show();
+                    $('#postsavebtn').hide();
+                    swal({
+                        title: "Success !!",
+                        text: "Successfully added on your drive !!",
+                        type: "success",
+                        timer: 1000,
+                        showConfirmButton: false
+                    });
+                } else {
+                    swal({
+                        title: "Login Please !!",
+                        text: "Login and try again..",
+                        type: "error",
+                        timer: 1000,
+                        showConfirmButton: false
+                    });
+                }
+            }
+        });
+    }
+
+    function removeDrive(id) {
+        swal({
+            title: "Are you sure to Removed ?",
+            text: "You will be able to recover to save again !!",
+            type: "warning",
+            showCancelButton: !0,
+            confirmButtonColor: "#DD6B55",
+            confirmButtonText: "Yes, Removed it !!",
+            closeOnConfirm: !1,
+            showLoaderOnConfirm: true
+        }, function() {
+            $.ajax({
+                url: 'https://pdf.exampundit.in/load-section',
+                data: {
+                    saveid: id,
+                    remove: '1'
+                },
+                success: function(d) {
+                    if (d == '1') {
+                        swal({
+                            title: "Removed !!",
+                            text: "Hey, your saved PDF has been Removed !!",
+                            type: "success",
+                            timer: 1000,
+                            showConfirmButton: false
+                        });
+                        $('#postremovebtn').hide();
+                        $('#postsavebtn').show();
+                    } else {
+                        swal({
+                            title: "Please try again !!",
+                            text: "Something went wrong try again..",
+                            type: "error",
+                            timer: 1000,
+                            showConfirmButton: false
+                        });
+                    }
+                }
+            });
+        });
+    }
+
+
+    function buynowget(id, linkcode) {
+        window.location.href = "https://pdf.exampundit.in/pay/pdf/" + linkcode;
+    }
+    
+    
+    
+    function savecount(id) {
+        console.log('Login and try again..');
+    }
+    
+</script>

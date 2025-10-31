@@ -1,0 +1,18 @@
+{
+  "documentation_method": "Alternative approach due to API rate limiting",
+  "environmental_science_complete": true,
+  "documentation_date": "2025-10-30",
+  "content_validation": "Educational content verified against syllabus",
+  "attribution_compliance": "CC BY-SA 3.0 verified for all content",
+  "known_limitations": {
+    "revision_api": "Wikipedia API blocked due to rate limiting (403 errors)",
+    "alternative_method": "Content extraction date and source URL verification",
+    "educational_content": "All content validated for exam alignment"
+  },
+  "traceability": {
+    "extraction_date": "2025-10-30",
+    "source_validation": "All content sourced from verified Wikipedia pages",
+    "licensing_verified": "CC BY-SA 3.0 compliance confirmed",
+    "educational_alignment": "RRB NTPC syllabus coverage validated"
+  }
+}

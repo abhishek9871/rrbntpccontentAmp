@@ -1,0 +1,19 @@
+{
+  "title": "Eastern_Ghats",
+  "source_url": "https://en.wikipedia.org/wiki/Eastern_Ghats",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Eastern_Ghats",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:32:15.266930",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "e9276456d1a33ba131b152e82c48e2a9",
+  "checksum_sha256": "80427332533001edc159a819a323e5362717fc84c14fc7ea4a5a934f6858069a"
+}

@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Offline Railway Recruitment NTPC Study Guide - Complete preparation materials">
+    <meta name="theme-color" content="#3182ce">
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/pwa-guide/manifest.json">
+    
+    <!-- Icons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+    
+    <title>RRB NTPC - Offline Study Guide</title>
+    
+    <style>
+        :root {
+            --primary-color: #3182ce;
+            --secondary-color: #2d3748;
+            --accent-color: #38b2ac;
+            --background-color: #f7fafc;
+            --text-color: #2d3748;
+            --border-color: #e2e8f0;
+            --shadow: 0 1px 3px rgba(0,0,0,0.1);
+            --border-radius: 8px;
+            --transition: all 0.3s ease;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--background-color);
+        }
+
+        /* Header Styles */
+        .header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: var(--shadow);
+        }
+
+        .header-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .offline-indicator {
+            background: var(--accent-color);
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            display: none;
+        }
+
+        .offline-indicator.show {
+            display: inline-block;
+        }
+
+        /* Navigation */
+        .nav {
+            background: white;
+            border-bottom: 1px solid var(--border-color);
+            padding: 0.5rem 0;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: var(--text-color);
+            font-weight: 500;
+            padding: 0.5rem 0;
+            border-bottom: 2px solid transparent;
+            transition: var(--transition);
+        }
+
+        .nav-links a:hover,
+        .nav-links a.active {
+            color: var(--primary-color);
+            border-bottom-color: var(--primary-color);
+        }
+
+        /* Main Content */
+        .main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: white;
+            padding: 2rem;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--primary-color);
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+            color: #666;
+        }
+
+        .cta-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: var(--border-radius);
+            font-weight: 600;
+            text-decoration: none;
+            cursor: pointer;
+            transition: var(--transition);
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-primary {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2c5282;
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background: white;
+            color: var(--primary-color);
+            border: 2px solid var(--primary-color);
+        }
+
+        .btn-secondary:hover {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        /* Content Grid */
+        .content-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .content-card {
+            background: white;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+            transition: var(--transition);
+        }
+
+        .content-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+
+        .card-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .card-meta {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-size: 0.875rem;
+            color: #666;
+        }
+
+        .license-badge {
+            background: var(--accent-color);
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+        }
+
+        .card-body {
+            padding: 1.5rem;
+        }
+
+        .card-description {
+            color: #666;
+            margin-bottom: 1rem;
+        }
+
+        .card-actions {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        /* Search Section */
+        .search-section {
+            background: white;
+            padding: 2rem;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+            margin-bottom: 2rem;
+        }
+
+        .search-form {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .search-input {
+            flex: 1;
+            padding: 0.75rem;
+            border: 2px solid var(--border-color);
+            border-radius: var(--border-radius);
+            font-size: 1rem;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+
+        .search-filters {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .filter-label {
+            font-weight: 600;
+            font-size: 0.875rem;
+        }
+
+        .filter-select {
+            padding: 0.5rem;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            background: white;
+        }
+
+        /* Stats Section */
+        .stats {
+            background: white;
+            padding: 2rem;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--primary-color);
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 0.5rem;
+        }
+
+        /* Footer */
+        .footer {
+            background: var(--secondary-color);
+            color: white;
+            padding: 2rem 0;
+            margin-top: 4rem;
+        }
+
+        .footer-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+            text-align: center;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .footer-links a {
+            color: white;
+            text-decoration: none;
+            opacity: 0.8;
+            transition: opacity 0.3s;
+        }
+
+        .footer-links a:hover {
+            opacity: 1;
+        }
+
+        /* Loading and Error States */
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .loading.show {
+            display: block;
+        }
+
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid var(--primary-color);
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error {
+            background: #fed7d7;
+            color: #c53030;
+            padding: 1rem;
+            border-radius: var(--border-radius);
+            margin: 1rem 0;
+            display: none;
+        }
+
+        .error.show {
+            display: block;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .nav-links {
+                flex-wrap: wrap;
+                gap: 1rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .cta-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .search-form {
+                flex-direction: column;
+            }
+
+            .search-filters {
+                flex-direction: column;
+            }
+
+            .content-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Offline Styles */
+        .offline .online-only {
+            display: none;
+        }
+
+        .offline .offline-only {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-container">
+            <div class="logo">
+                <span>🚂</span>
+                <span>RRB NTPC Study Guide</span>
+                <span class="offline-indicator" id="offlineIndicator">
+                    📱 Offline Mode
+                </span>
+            </div>
+            <div>
+                <button class="btn btn-secondary" onclick="installApp()" id="installBtn" style="display: none;">
+                    📱 Install App
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-container">
+            <ul class="nav-links">
+                <li><a href="#home" class="active">Home</a></li>
+                <li><a href="#study-materials">Study Materials</a></li>
+                <li><a href="#practice-tests">Practice Tests</a></li>
+                <li><a href="#previous-papers">Previous Papers</a></li>
+                <li><a href="#current-affairs">Current Affairs</a></li>
+                <li><a href="#search">Search</a></li>
+                <li><a href="#downloads">Downloads</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main">
+        <!-- Hero Section -->
+        <section class="hero">
+            <h1>Complete RRB NTPC Preparation</h1>
+            <p>Access thousands of study materials, practice tests, and previous papers offline</p>
+            <div class="cta-buttons">
+                <a href="#study-materials" class="btn btn-primary">
+                    📚 Start Studying
+                </a>
+                <a href="#practice-tests" class="btn btn-secondary">
+                    📝 Take Practice Test
+                </a>
+            </div>
+        </section>
+
+        <!-- Search Section -->
+        <section class="search-section" id="search">
+            <h2>🔍 Search Content</h2>
+            <form class="search-form" onsubmit="performSearch(event)">
+                <input 
+                    type="text" 
+                    class="search-input" 
+                    placeholder="Search for topics, subjects, or keywords..."
+                    id="searchInput"
+                >
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+            <div class="search-filters">
+                <div class="filter-group">
+                    <label class="filter-label">Subject</label>
+                    <select class="filter-select" id="subjectFilter">
+                        <option value="">All Subjects</option>
+                        <option value="general-awareness">General Awareness</option>
+                        <option value="mathematics">Mathematics</option>
+                        <option value="reasoning">Reasoning</option>
+                        <option value="science">Science</option>
+                        <option value="current-affairs">Current Affairs</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label class="filter-label">Language</label>
+                    <select class="filter-select" id="languageFilter">
+                        <option value="">All Languages</option>
+                        <option value="english">English</option>
+                        <option value="hindi">Hindi</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label class="filter-label">Source</label>
+                    <select class="filter-select" id="sourceFilter">
+                        <option value="">All Sources</option>
+                        <option value="diksha">DIKSHA</option>
+                        <option value="government">Government</option>
+                        <option value="practice">Practice Materials</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Content Categories -->
+        <section class="content-grid">
+            <!-- DIKSHA Study Materials -->
+            <div class="content-card">
+                <div class="card-header">
+                    <h3 class="card-title">DIKSHA Study Materials</h3>
+                    <div class="card-meta">
+                        <span>📚 150+ Resources</span>
+                        <span class="license-badge">CC BY 4.0</span>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <p class="card-description">
+                        Comprehensive study materials from DIKSHA platform including textbooks, 
+                        teacher resources, and interactive content for all subjects.
+                    </p>
+                    <div class="card-actions">
+                        <button class="btn btn-primary" onclick="openZIMPackage('diksha-ga')">
+                            📖 Browse GA
+                        </button>
+                        <button class="btn btn-primary" onclick="openZIMPackage('diksha-math')">
+                            🔢 Mathematics
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Practice Tests -->
+            <div class="content-card">
+                <div class="card-header">
+                    <h3 class="card-title">Practice Tests</h3>
+                    <div class="card-meta">
+                        <span>📝 500+ Questions</span>
+                        <span class="license-badge">Mixed</span>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <p class="card-description">
+                        Mock tests and practice sets for CBT-1 and CBT-2 examinations with 
+                        detailed explanations and performance analytics.
+                    </p>
+                    <div class="card-actions">
+                        <button class="btn btn-primary" onclick="startPracticeTest()">
+                            🎯 Start Test
+                        </button>
+                        <button class="btn btn-secondary" onclick="openZIMPackage('practice-materials')">
+                            📚 Browse Tests
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Previous Papers -->
+            <div class="content-card">
+                <div class="card-header">
+                    <h3 class="card-title">Previous Papers</h3>
+                    <div class="card-meta">
+                        <span>📄 50+ Papers</span>
+                        <span class="license-badge">Government</span>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <p class="card-description">
+                        Official previous year question papers from various RRB zones with 
+                        answer keys and detailed solutions.
+                    </p>
+                    <div class="card-actions">
+                        <button class="btn btn-primary" onclick="openZIMPackage('previous-papers')">
+                            📑 View Papers
+                        </button>
+                        <button class="btn btn-secondary" onclick="downloadPapers()">
+                            💾 Download
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Current Affairs -->
+            <div class="content-card">
+                <div class="card-header">
+                    <h3 class="card-title">Current Affairs</h3>
+                    <div class="card-meta">
+                        <span>📰 200+ Updates</span>
+                        <span class="license-badge">CC BY 4.0</span>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <p class="card-description">
+                        Latest current affairs, national and international news, sports updates, 
+                        and important dates for competitive exams.
+                    </p>
+                    <div class="card-actions">
+                        <button class="btn btn-primary" onclick="openZIMPackage('current-affairs')">
+                            📰 Read Updates
+                        </button>
+                        <button class="btn btn-secondary" onclick="subscribeCurrentAffairs()">
+                            🔔 Subscribe
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Government Publications -->
+            <div class="content-card">
+                <div class="card-header">
+                    <h3 class="card-title">Government Publications</h3>
+                    <div class="card-meta">
+                        <span>📋 100+ Documents</span>
+                        <span class="license-badge">Government</span>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <p class="card-description">
+                        Official government documents including yearbooks, policy papers, 
+                        economic surveys, and ministry publications.
+                    </p>
+                    <div class="card-actions">
+                        <button class="btn btn-primary" onclick="openZIMPackage('government-docs')">
+                            📚 Browse Documents
+                        </button>
+                        <button class="btn btn-secondary" onclick="viewPublications()">
+                            📖 Publications
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Study Planner -->
+            <div class="content-card">
+                <div class="card-header">
+                    <h3 class="card-title">Study Planner</h3>
+                    <div class="card-meta">
+                        <span>📅 Smart Planning</span>
+                        <span class="license-badge">Custom</span>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <p class="card-description">
+                        Intelligent study planner with syllabus coverage tracking, 
+                        progress monitoring, and personalized recommendations.
+                    </p>
+                    <div class="card-actions">
+                        <button class="btn btn-primary" onclick="openStudyPlanner()">
+                            📋 Create Plan
+                        </button>
+                        <button class="btn btn-secondary" onclick="viewProgress()">
+                            📊 Progress
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Statistics -->
+        <section class="stats">
+            <div class="stat-item">
+                <div class="stat-number">2.5GB</div>
+                <div class="stat-label">Total Content</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">850+</div>
+                <div class="stat-label">Study Materials</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">50+</div>
+                <div class="stat-label">Mock Tests</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">100%</div>
+                <div class="stat-label">Offline Ready</div>
+            </div>
+        </section>
+
+        <!-- Loading Indicator -->
+        <div class="loading" id="loadingIndicator">
+            <div class="spinner"></div>
+            <p>Loading content...</p>
+        </div>
+
+        <!-- Error Message -->
+        <div class="error" id="errorMessage">
+            <p>⚠️ Unable to load content. Please check your connection or try again later.</p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-links">
+                <a href="/about">About</a>
+                <a href="/privacy">Privacy Policy</a>
+                <a href="/terms">Terms of Use</a>
+                <a href="/contact">Contact</a>
+                <a href="/licensing">Licensing</a>
+                <a href="/credits">Credits</a>
+            </div>
+            <p>&copy; 2025 Railway Recruitment NTPC Offline Study Guide. 
+            Content compiled from DIKSHA, RRB Official Sources, and Educational Materials.</p>
+            <p>Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)</p>
+        </div>
+    </footer>
+
+    <!-- Service Worker Registration -->
+    <script>
+        // Register Service Worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(registration => {
+                        console.log('Service Worker registered:', registration);
+                    })
+                    .catch(error => {
+                        console.log('Service Worker registration failed:', error);
+                    });
+            });
+        }
+
+        // Check online/offline status
+        function updateOnlineStatus() {
+            const indicator = document.getElementById('offlineIndicator');
+            if (navigator.onLine) {
+                indicator.classList.remove('show');
+                document.body.classList.remove('offline');
+            } else {
+                indicator.classList.add('show');
+                document.body.classList.add('offline');
+            }
+        }
+
+        window.addEventListener('online', updateOnlineStatus);
+        window.addEventListener('offline', updateOnlineStatus);
+        updateOnlineStatus();
+
+        // Install prompt
+        let deferredPrompt;
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            document.getElementById('installBtn').style.display = 'inline-flex';
+        });
+
+        function installApp() {
+            if (deferredPrompt) {
+                deferredPrompt.prompt();
+                deferredPrompt.userChoice.then((choiceResult) => {
+                    if (choiceResult.outcome === 'accepted') {
+                        console.log('User accepted the install prompt');
+                    }
+                    deferredPrompt = null;
+                });
+            }
+        }
+
+        // ZIM Package Management
+        function openZIMPackage(packageId) {
+            document.getElementById('loadingIndicator').classList.add('show');
+            
+            // Initialize Kiwix-JS reader
+            if (typeof initKiwixReader === 'function') {
+                initKiwixReader(packageId)
+                    .then(() => {
+                        document.getElementById('loadingIndicator').classList.remove('show');
+                        window.location.href = `/reader?package=${packageId}`;
+                    })
+                    .catch(error => {
+                        console.error('Error loading ZIM package:', error);
+                        document.getElementById('loadingIndicator').classList.remove('show');
+                        document.getElementById('errorMessage').classList.add('show');
+                    });
+            } else {
+                // Fallback - show package info
+                setTimeout(() => {
+                    document.getElementById('loadingIndicator').classList.remove('show');
+                    alert(`Opening ${packageId} package. ZIM reader will be initialized.`);
+                }, 1000);
+            }
+        }
+
+        function startPracticeTest() {
+            window.location.href = '/practice';
+        }
+
+        function downloadPapers() {
+            // Trigger download of selected papers
+            alert('Download feature will be available after content packages are built.');
+        }
+
+        function performSearch(event) {
+            event.preventDefault();
+            const query = document.getElementById('searchInput').value;
+            const filters = {
+                subject: document.getElementById('subjectFilter').value,
+                language: document.getElementById('languageFilter').value,
+                source: document.getElementById('sourceFilter').value
+            };
+            
+            window.location.href = `/search?q=${encodeURIComponent(query)}&filters=${encodeURIComponent(JSON.stringify(filters))}`;
+        }
+
+        function openStudyPlanner() {
+            window.location.href = '/study-planner';
+        }
+
+        function viewProgress() {
+            window.location.href = '/progress';
+        }
+
+        function subscribeCurrentAffairs() {
+            alert('Current affairs subscription feature will be available in the full version.');
+        }
+
+        function viewPublications() {
+            window.location.href = '/publications';
+        }
+
+        // Navigation highlighting
+        function updateActiveNav() {
+            const currentPath = window.location.hash || '#home';
+            document.querySelectorAll('.nav-links a').forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === currentPath) {
+                    link.classList.add('active');
+                }
+            });
+        }
+
+        window.addEventListener('hashchange', updateActiveNav);
+        updateActiveNav();
+
+        // Initialize app
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('RRB NTPC PWA initialized');
+            updateActiveNav();
+        });
+    </script>
+</body>
+</html>

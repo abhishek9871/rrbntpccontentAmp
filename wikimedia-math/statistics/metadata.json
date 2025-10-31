@@ -1,0 +1,14 @@
+{
+  "title": "Statistics",
+  "source_url": "https://en.wikipedia.org/wiki/Statistics",
+  "snapshot_date": "2025-10-22",
+  "license": "Creative Commons Attribution-ShareAlike License 3.0 (CC BY-SA 3.0)",
+  "description": "Fundamental statistics concepts including descriptive and inferential statistics, measures of central tendency, dispersion, probability, and data distribution.",
+  "topics_covered": [
+    "Descriptive statistics",
+    "Measures of central tendency",
+    "Measures of dispersion",
+    "Probability theory",
+    "Data distribution"
+  ]
+}

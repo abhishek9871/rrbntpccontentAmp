@@ -1,0 +1,19 @@
+{
+  "title": "Lala_Lajpat_Rai",
+  "source_url": "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Lala_Lajpat_Rai",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:31:23.085899",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "1ef9a94f456ca278fc70b5e5145c6a57",
+  "checksum_sha256": "dadb7132f93bc0442e6853ff3f9c625b62d793ce3b89027a1fb26c5ad31963b0"
+}

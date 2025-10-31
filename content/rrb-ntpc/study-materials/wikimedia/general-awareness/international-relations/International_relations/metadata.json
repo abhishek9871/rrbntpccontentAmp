@@ -1,0 +1,19 @@
+{
+  "title": "International_relations",
+  "source_url": "https://en.wikipedia.org/wiki/International_relations",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for International_relations",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:39:16.920416",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "aef5e78198f651e6b8d5b60f57cf4b90",
+  "checksum_sha256": "0b3de3a33fba9d4718b2dc370e5f8a5d0c8f8c258a7c121f227796afcd22f6ac"
+}

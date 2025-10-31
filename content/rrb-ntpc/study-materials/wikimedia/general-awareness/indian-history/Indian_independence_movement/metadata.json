@@ -1,0 +1,19 @@
+{
+  "title": "Indian_independence_movement",
+  "source_url": "https://en.wikipedia.org/wiki/Indian_independence_movement",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Indian_independence_movement",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:30:49.558098",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "c92d3dfdc872ad63358082a835808ac4",
+  "checksum_sha256": "e367cc1bfbd9b5c846727c737b2fefd7a6de65556fd04ec76261cde5dcfaf169"
+}

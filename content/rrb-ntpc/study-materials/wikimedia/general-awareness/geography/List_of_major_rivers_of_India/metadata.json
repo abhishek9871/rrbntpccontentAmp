@@ -1,0 +1,19 @@
+{
+  "title": "List_of_major_rivers_of_India",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_major_rivers_of_India",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for List_of_major_rivers_of_India",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:32:00.256358",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "20d60113f342d58e46c8933a6cf4c7c4",
+  "checksum_sha256": "47a7d31f27ac59a2397fd42ef0e1286bb498a9432f7b0bbc83e5d85a6164a15b"
+}

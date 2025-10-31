@@ -1,0 +1,19 @@
+{
+  "title": "Bhagat_Singh",
+  "source_url": "https://en.wikipedia.org/wiki/Bhagat_Singh",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Bhagat_Singh",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:31:32.701515",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "5b0e7d883efbb1a8c87905a85f45e200",
+  "checksum_sha256": "9558f4f1f1ca897444d535b09d58ca52495f0896d39d3f3edcb0acb8829d025a"
+}

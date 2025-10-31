@@ -1,0 +1,19 @@
+{
+  "title": "Indo-Gangetic_Plain",
+  "source_url": "https://en.wikipedia.org/wiki/Indo-Gangetic_Plain",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Indo-Gangetic_Plain",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:32:21.195700",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "928592937325223103a4d4e10d8985a8",
+  "checksum_sha256": "e920cb9d8e79623404b0b19096ee96db2a3f7a93efb6939a076ba145069b9a90"
+}

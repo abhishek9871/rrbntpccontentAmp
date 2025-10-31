@@ -1,0 +1,19 @@
+{
+  "title": "International_organization",
+  "source_url": "https://en.wikipedia.org/wiki/International_organization",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for International_organization",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:39:39.842409",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "cd9207baa3d6c8fa7db3910f8f328a50",
+  "checksum_sha256": "0c82319056ea9d7d51e29380dd1da3b7ce376ea73a9708faf8f969a89e37a87b"
+}

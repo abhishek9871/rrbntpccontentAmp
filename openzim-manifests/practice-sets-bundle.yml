@@ -1,0 +1,217 @@
+# OpenZIM Build Manifest: practice-sets-bundle
+# Practice Sets Bundle (Question Banks, Mock Tests, Practice Papers)
+bundle_id: practice-sets-v1.0
+version: "1.0"
+created_date: "2025-10-31"
+description: "Comprehensive practice sets and mock tests for RRB NTPC exam preparation across all subjects"
+target_audience: "RRB NTPC exam aspirants seeking extensive practice materials"
+
+# Bundle Configuration
+bundle_config:
+  language_support: ["en", "hi"]
+  total_content_size: "2.2 GB"
+  estimated_article_count: 800
+  compression_level: "standard"
+  indexing_strategy: "practice-oriented"
+  
+# Content Sources and Paths
+content_sources:
+  rrb_practice_sets:
+    source_path: "/workspace/content/rrb-ntpc/practice-sets/"
+    content_types: ["PDF", "DOC"]
+    licensing: "government-work"
+    attribution_required: true
+    priority: "primary"
+    
+  download_practice_materials:
+    source_path: "/workspace/downloads/"
+    includes:
+      - "ibps_guide_gi_reasoning_*.pdf"
+      - "ssc_study_rrb_practice_set_*.pdf"
+    content_types: ["PDF"]
+    licensing: "restricted"
+    attribution_required: true
+    priority: "secondary"
+    
+  practice_ga_practice_sets:
+    source_path: "/workspace/practice-ga/"
+    includes:
+      - "current-affairs/"
+      - "economy/"
+      - "geography/"
+      - "history/"
+      - "indian-history/"
+      - "polity/"
+      - "science-technology/"
+      - "static-gk/"
+    content_types: ["PDF", "MD"]
+    licensing: "mixed"
+    attribution_required: true
+    priority: "secondary"
+    
+# Practice Set Organization
+practice_organization:
+  mock_tests:
+    subjects: ["Mathematics", "Reasoning", "General Awareness", "General Science"]
+    difficulty_levels: ["Easy", "Medium", "Hard", "Expert"]
+    question_counts: [100, 120, 150, 200]
+    time_limits: ["90min", "120min", "150min", "180min"]
+    sources: ["rrb_practice_sets", "practice_ga_practice_sets"]
+    
+  practice_sets:
+    subject_wise: true
+    topic_wise: true
+    difficulty_progressive: true
+    sources: ["download_practice_materials", "practice_ga_practice_sets"]
+    
+  previous_year_papers:
+    exam_years: ["2019", "2020", "2021", "2022", "2023", "2024"]
+    stages: ["CBT1", "CBT2"]
+    sources: ["rrb_practice_sets"]
+    
+  sample_papers:
+    comprehensive: true
+    subject_breakdown: true
+    practice_recommendations: true
+    sources: ["practice_ga_practice_sets"]
+    
+# Subject Coverage
+subject_coverage:
+  mathematics:
+    topics: ["Arithmetic", "Algebra", "Geometry", "Trigonometry", "Data Interpretation"]
+    question_types: ["MCQ", "Numerical"]
+    sources: ["practice_ga_practice_sets", "download_practice_materials"]
+    
+  reasoning:
+    topics: ["Verbal", "Non-Verbal", "Logical", "Analytical"]
+    question_types: ["Pattern Recognition", "Logic", "Sequences"]
+    sources: ["download_practice_materials", "practice_ga_practice_sets"]
+    
+  general_awareness:
+    topics: ["Current Affairs", "Static GK", "History", "Geography", "Polity", "Economy"]
+    question_types: ["Facts", "Current Events", "Concepts"]
+    sources: ["practice_ga_practice_sets"]
+    
+  general_science:
+    topics: ["Physics", "Chemistry", "Biology", "Earth Science"]
+    question_types: ["Concepts", "Applications", "Facts"]
+    sources: ["practice_ga_practice_sets"]
+    
+# Metadata Inclusion
+metadata_inclusion:
+  required_fields:
+    - "set_type"
+    - "subject"
+    - "difficulty_level"
+    - "question_count"
+    - "time_limit"
+    - "exam_stage"
+    - "source_year"
+    - "solution_availability"
+    - "answer_key"
+    
+  enrichment_sources:
+    - "/workspace/practice-ga/metadata/"
+    - "/workspace/memory/metadata_rrb_ntpc_collection.md"
+    - "/workspace/license-registry/metadata/license_register.csv"
+    
+# Compression Settings
+compression:
+  document_compression: "standard"
+  solution_handling: "separate_compression"
+  answer_key_protection: true
+  image_compression: "standard"
+  
+# Indexing Requirements
+indexing:
+  search_fields:
+    - "title"
+    - "set_type"
+    - "subject"
+    - "difficulty"
+    - "question_count"
+    - "time_limit"
+    - "source"
+    - "tags"
+  practice_modes_search: true
+  difficulty_progressive_search: true
+  timer_based_search: true
+  tag_based_indexing: ["Mock-Test", "Practice-Set", "Previous-Year", "Sample-Paper", "Mathematics", "Reasoning", "General-Awareness", "General-Science", "Easy", "Medium", "Hard", "Expert", "CBT1", "CBT2"]
+  
+# Licensing Compliance
+licensing_compliance:
+  rrb_official:
+    - source: "Railway Recruitment Board"
+    - license: "Government Work"
+    - attribution_template: "Title: {title}, Author: Railway Recruitment Board, Source: {source_url}"
+    - commercial_use: true
+    
+  ibps_materials:
+    - source: "IBPS Guide"
+    - license: "All Rights Reserved"
+    - redistribution: false
+    - personal_use_only: true
+    - educational_use_only: true
+    
+  third_party_practice:
+    - source: "Various Educational Platforms"
+    - license: "Restricted/Mixed"
+    - redistribution: false
+    - personal_use_only: true
+    - verification_required: true
+    
+# Quality Assurance
+quality_checks:
+  question_quality_validation: true
+  answer_accuracy_check: true
+  duplicate_practice_sets: true
+  difficulty_assessment: true
+  timer_verification: true
+  
+# PWA Integration Settings
+pwa_settings:
+  offline_capability: true
+  sync_strategy: "selective"
+  cache_size_limit: "1.5 GB"
+  update_frequency: "monthly"
+  prefetch_strategy: "frequently-used-priority"
+  practice_timer_integration: true
+  
+# Performance Optimization
+performance:
+  lazy_loading: true
+  progressive_download: true
+  practice_session_caching: true
+  solution_caching: true
+  
+# Security
+security:
+  content_sanitization: true
+  answer_protection: true
+  practice_session_security: true
+  watermark_applicable: false
+  
+# Educational Features
+educational_features:
+  timed_practice: true
+  result_analysis: true
+  progress_tracking: true
+  weak_area_identification: true
+  performance_analytics: true
+  practice_modes: true
+  difficulty_adaptation: true
+  
+# Build Configuration
+build_config:
+  output_format: "zim"
+  chunk_size: "100 MB"
+  parallel_processing: 4
+  build_timeout: "5 hours"
+  verification_level: "strict"
+  
+# Distribution
+distribution:
+  delivery_methods: ["offline", "streaming", "cache"]
+  regional_localization: true
+  size_optimization: true
+  practice_based_packaging: true

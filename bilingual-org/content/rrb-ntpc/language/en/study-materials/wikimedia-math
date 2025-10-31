@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time and Work - Mathematics</title>
+</head>
+<body>
+    <article>
+        <h1>Time and Work</h1>
+        
+        <div class="infobox">
+            <h2>Overview</h2>
+            <p>Time and work problems deal with calculating how long it takes to complete a task when working individually or in groups. These problems involve understanding work rates and how different workers affect completion time.</p>
+        </div>
+
+        <section>
+            <h2>Basic Concepts</h2>
+            
+            <h3>Work Rate</h3>
+            <p>The amount of work done per unit of time. It is usually expressed as fraction of work done per day or per hour.</p>
+            
+            <p><strong>Formula:</strong> Work Rate = 1 / Time Taken</p>
+            
+            <p><strong>Example:</strong> If a worker can complete a job in 8 days, then his work rate = 1/8 of the job per day.</p>
+
+            <h3>Total Work</h3>
+            <p>In time and work problems, total work is usually considered as 1 unit (or 100%).</p>
+            
+            <p><strong>Example:</strong> If a worker completes a job in 't' days, then work done by him in 1 day = 1/t units.</p>
+        </section>
+
+        <section>
+            <h2>Individual Work</h2>
+            <p>When one person works alone to complete a task.</p>
+            
+            <h3>Formula</h3>
+            <p>If a person can complete a work in 't' days, then his efficiency (work rate) is 1/t.</p>
+            
+            <h3>Example</h3>
+            <p><strong>Problem:</strong> A can complete a work in 6 days. How much work does A complete in 1 day?</p>
+            
+            <p><strong>Solution:</strong> Work rate of A = 1/6 of the work per day.</p>
+        </section>
+
+        <section>
+            <h2>Combined Work (Multiple Workers)</h2>
+            <p>When two or more people work together to complete a task.</p>
+            
+            <h3>Formula</h3>
+            <p>If person A can complete a work in 'a' days and person B can complete the same work in 'b' days, then:</p>
+            <ul>
+                <li>Work rate of A = 1/a per day</li>
+                <li>Work rate of B = 1/b per day</li>
+                <li>Combined work rate = (1/a + 1/b) per day</li>
+                <li>Time taken when working together = 1 / (1/a + 1/b) = (a × b) / (a + b) days</li>
+            </ul>
+            
+            <h3>Example 1: Two Workers</h3>
+            <p><strong>Problem:</strong> A can complete a work in 8 days and B can complete the same work in 12 days. How many days will they take if they work together?</p>
+            
+            <p><strong>Solution:</strong></p>
+            <ul>
+                <li>Work rate of A = 1/8 per day</li>
+                <li>Work rate of B = 1/12 per day</li>
+                <li>Combined work rate = 1/8 + 1/12 = 3/24 + 2/24 = 5/24 per day</li>
+                <li>Time taken together = 1 / (5/24) = 24/5 = 4.8 days</li>
+            </ul>
+
+            <h3>Example 2: Three Workers</h3>
+            <p><strong>Problem:</strong> A, B, and C can complete a work in 10, 15, and 30 days respectively. How many days will they take if they work together?</p>
+            
+            <p><strong>Solution:</strong></p>
+            <ul>
+                <li>Work rate of A = 1/10 per day</li>
+                <li>Work rate of B = 1/15 per day</li>
+                <li>Work rate of C = 1/30 per day</li>
+                <li>Combined work rate = 1/10 + 1/15 + 1/30 = 3/30 + 2/30 + 1/30 = 6/30 = 1/5 per day</li>
+                <li>Time taken together = 1 / (1/5) = 5 days</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Work with Different Efficiencies</h2>
+            <p>When workers have different work rates or efficiencies.</p>
+            
+            <h3>Example</h3>
+            <p><strong>Problem:</strong> A is twice as efficient as B. If B takes 20 days to complete a work, how many days will they take working together?</p>
+            
+            <p><strong>Solution:</strong></p>
+            <ul>
+                <li>Since B takes 20 days, B's work rate = 1/20 per day</li>
+                <li>A is twice as efficient, so A's work rate = 2 × (1/20) = 1/10 per day</li>
+                <li>Combined work rate = 1/10 + 1/20 = 2/20 + 1/20 = 3/20 per day</li>
+                <li>Time taken together = 1 / (3/20) = 20/3 = 6.67 days</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Work Done in Given Time</h2>
+            <p>Calculating how much work can be completed in a specified time period.</p>
+            
+            <h3>Formula</h3>
+            <p>Work done = Work rate × Time</p>
+            
+            <h3>Example</h3>
+            <p><strong>Problem:</strong> A can complete a work in 15 days. How much work will he complete in 5 days?</p>
+            
+            <p><strong>Solution:</strong></p>
+            <ul>
+                <li>Work rate of A = 1/15 per day</li>
+                <li>Work done in 5 days = (1/15) × 5 = 5/15 = 1/3 of the work</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Time to Complete Remaining Work</h2>
+            <p>Finding how long it will take to finish the remaining work.</p>
+            
+            <h3>Example</h3>
+            <p><strong>Problem:</strong> A and B can complete a work in 12 days working together. A works alone for 3 days and B works alone for 5 days. What fraction of the work is still left?</p>
+            
+            <p><strong>Solution:</strong></p>
+            <ul>
+                <li>Combined work rate of A and B = 1/12 per day</li>
+                <li>Work done by A in 3 days = 3 × A's work rate</li>
+                <li>Work done by B in 5 days = 5 × B's work rate</li>
+                <li>Let A's work rate = a, B's work rate = b</li>
+                <li>a + b = 1/12</li>
+                <li>Work done = 3a + 5b</li>
+                <li>Work remaining = 1 - (3a + 5b)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Key Formulas Summary</h2>
+            
+            <h3>Basic Formulas</h3>
+            <ul>
+                <li><strong>Work Rate:</strong> Work Rate = 1 / Time Taken</li>
+                <li><strong>Time to Complete Together (2 people):</strong> T = (a × b) / (a + b)</li>
+                <li><strong>Work Done:</strong> Work Done = Work Rate × Time</li>
+                <li><strong>Combined Work Rate:</strong> Sum of individual work rates</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Important Points to Remember</h2>
+            <ul>
+                <li>Total work is always considered as 1 unit (or 100%)</li>
+                <li>Work rates are additive when workers work together</li>
+                <li>If A is k times as efficient as B, then A's work rate = k × B's work rate</li>
+                <li>The combined work rate is always greater than any individual work rate</li>
+                <li>Always express work rates in terms of work done per unit time</li>
+            </ul>
+        </section>
+
+        <footer>
+            <p><strong>Source:</strong> Mathematical concepts for elementary level | <strong>License:</strong> Creative Commons Attribution-ShareAlike License 3.0</p>
+            <p><strong>Snapshot Date: 2025-10-22 (Latest Stable Dump) | <strong>Target:</strong> RRB NTPC Mathematics</p>
+        </footer>
+    </article>
+</body>
+</html>

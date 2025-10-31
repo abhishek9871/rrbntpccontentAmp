@@ -1,0 +1,169 @@
+{
+  "RRB NTPC": {
+    "category": "RRB NTPC",
+    "path": "/workspace/content/rrb-ntpc",
+    "timestamp": "2025-10-31T02:53:05.619049",
+    "total_files": 226,
+    "files_by_type": {
+      ".md": 5,
+      ".py": 13,
+      ".pyc": 1,
+      ".html": 19,
+      ".json": 12
+    },
+    "integrity_issues": [],
+    "compliance_status": "passed_basic_checks"
+  },
+  "DIKSHA GA": {
+    "category": "DIKSHA GA",
+    "path": "/workspace/diksha-ga",
+    "timestamp": "2025-10-31T02:53:05.966023",
+    "total_files": 52,
+    "files_by_type": {
+      ".md": 5,
+      ".pdf": 39,
+      ".json": 2,
+      ".zip": 4
+    },
+    "integrity_issues": [
+      "PDF: /workspace/diksha-ga/current-affairs/national/National_International_Current_Affairs_2025.pdf - corrupted_header",
+      "PDF: /workspace/diksha-ga/current-affairs/sports/National_Sports_Awards_2025.pdf - corrupted_header"
+    ],
+    "compliance_status": "has_issues"
+  },
+  "DIKSHA Math": {
+    "category": "DIKSHA Math",
+    "path": "/workspace/diksha-math",
+    "timestamp": "2025-10-31T02:53:06.034640",
+    "total_files": 46,
+    "files_by_type": {
+      ".md": 7,
+      ".sh": 4,
+      ".log": 2,
+      ".json": 10,
+      ".pdf": 21,
+      ".html": 1,
+      ".txt": 1
+    },
+    "integrity_issues": [
+      "JSON: /workspace/diksha-math/metadata/collection_metadata.json - error: Expecting value: line 1 column 1 (char 0)",
+      "JSON: /workspace/diksha-math/metadata/diksha_mathematics_resources.json - error: Extra data: line 1 column 2826 (char 2825)"
+    ],
+    "compliance_status": "has_issues"
+  },
+  "DIKSHA Reasoning": {
+    "category": "DIKSHA Reasoning",
+    "path": "/workspace/diksha-reasoning",
+    "timestamp": "2025-10-31T02:53:06.124926",
+    "total_files": 14,
+    "files_by_type": {
+      ".md": 3,
+      ".pdf": 8,
+      "": 1,
+      ".log": 1,
+      ".json": 1
+    },
+    "integrity_issues": [
+      "PDF: /workspace/diksha-reasoning/downloaded_content/non_verbal_reasoning/Figural_Analogy_Non_Verbal_Reasoning.pdf - corrupted_too_small"
+    ],
+    "compliance_status": "has_issues"
+  },
+  "DIKSHA Science": {
+    "category": "DIKSHA Science",
+    "path": "/workspace/diksha-science",
+    "timestamp": "2025-10-31T02:53:06.160255",
+    "total_files": 34,
+    "files_by_type": {
+      ".pdf": 33,
+      ".log": 1
+    },
+    "integrity_issues": [
+      "PDF: /workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/ncert-class-11-biology.pdf - corrupted_header",
+      "PDF: /workspace/diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/ncert-class-11-chemistry-part1.pdf - corrupted_header"
+    ],
+    "compliance_status": "has_issues"
+  },
+  "Practice GA": {
+    "category": "Practice GA",
+    "path": "/workspace/practice-ga",
+    "timestamp": "2025-10-31T02:53:06.227294",
+    "total_files": 39,
+    "files_by_type": {
+      ".md": 21,
+      ".txt": 1,
+      "": 1,
+      ".pdf": 16
+    },
+    "integrity_issues": [
+      "PDF: /workspace/practice-ga/current-affairs/practiceMock_500_current_affairs.pdf - corrupted_header",
+      "PDF: /workspace/practice-ga/current-affairs/practiceMock_500_current_affairs_2025.pdf - corrupted_header",
+      "PDF: /workspace/practice-ga/economy/practice_sets_ntpc_stage2.pdf - corrupted_header",
+      "PDF: /workspace/practice-ga/economy/railway_ntpc_economy_one_liners.pdf - corrupted_header",
+      "PDF: /workspace/practice-ga/economy/rrb_group_d_economy_25_questions.pdf - corrupted_header",
+      "PDF: /workspace/practice-ga/geography/rrb_guide_hindi.pdf - corrupted_header",
+      "PDF: /workspace/practice-ga/geography/rrb_ntpc_geography_100_questions.pdf - corrupted_header",
+      "PDF: /workspace/practice-ga/history/general_science_railways.pdf - corrupted_header"
+    ],
+    "compliance_status": "has_issues"
+  },
+  "Practice Licensing": {
+    "category": "Practice Licensing",
+    "path": "/workspace/practice-licensing",
+    "timestamp": "2025-10-31T02:53:06.246263",
+    "total_files": 3,
+    "files_by_type": {
+      ".md": 2,
+      ".csv": 1
+    },
+    "integrity_issues": [],
+    "compliance_status": "passed_basic_checks"
+  },
+  "Practice Math": {
+    "category": "Practice Math",
+    "path": "/workspace/practice-math",
+    "timestamp": "2025-10-31T02:53:06.247121",
+    "total_files": 9,
+    "files_by_type": {
+      ".pdf": 5,
+      ".json": 4
+    },
+    "integrity_issues": [
+      "PDF: /workspace/practice-math/number-system/Cracku_NumberSystemsQuestions_RRBNTPC.pdf - corrupted_header",
+      "PDF: /workspace/practice-math/previous-year-papers/JagranJosh_CBT1_2021_Jan4_Shift1.pdf - corrupted_too_small",
+      "PDF: /workspace/practice-math/previous-year-papers/JagranJosh_CBT2_2017_Jan17_Shift1.pdf - corrupted_header",
+      "PDF: /workspace/practice-math/simple-compound-interest/Cracku_SimpleCompoundInterestQuestions_RRBNTPC.pdf - corrupted_header"
+    ],
+    "compliance_status": "has_issues"
+  },
+  "Practice Reasoning": {
+    "category": "Practice Reasoning",
+    "path": "/workspace/practice-reasoning",
+    "timestamp": "2025-10-31T02:53:06.261976",
+    "total_files": 21,
+    "files_by_type": {
+      ".md": 1,
+      ".pdf": 17,
+      ".html": 1,
+      ".json": 2
+    },
+    "integrity_issues": [
+      "PDF: /workspace/practice-reasoning/01_logical-reasoning/freshersnow_rrb_general_intelligence_questions.pdf - corrupted_too_small",
+      "PDF: /workspace/practice-reasoning/02_verbal-reasoning/ssc_study_shortcuts_in_reasoning.pdf - corrupted_header",
+      "PDF: /workspace/practice-reasoning/03_non-verbal-reasoning/meritnotes_rrb_reasoning_questions_1.pdf - corrupted_header",
+      "JSON: /workspace/practice-reasoning/metadata/comprehensive_metadata.json - error: Expecting value: line 1 column 1 (char 0)"
+    ],
+    "compliance_status": "has_issues"
+  },
+  "Portal Downloads": {
+    "category": "Portal Downloads",
+    "path": "/workspace/portal-downloads",
+    "timestamp": "2025-10-31T02:53:06.278980",
+    "total_files": 10,
+    "files_by_type": {
+      ".json": 5,
+      ".pdf": 5
+    },
+    "integrity_issues": [],
+    "compliance_status": "passed_basic_checks"
+  }
+}

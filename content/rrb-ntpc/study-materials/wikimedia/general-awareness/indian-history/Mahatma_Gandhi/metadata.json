@@ -1,0 +1,19 @@
+{
+  "title": "Mahatma_Gandhi",
+  "source_url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Mahatma_Gandhi",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:31:04.289318",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "594912368834d2a99f92ea8c6f783583",
+  "checksum_sha256": "a4d36cb569b2c736f8cd02f34ac83418a669e15f180990535575eb737ed2954b"
+}

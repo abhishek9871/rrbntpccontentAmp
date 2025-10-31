@@ -1,0 +1,212 @@
+# Acquisition and Organization of RRB NTPC General Intelligence & Reasoning Practice Materials — Completion Blueprint
+
+## Executive Summary
+
+This completion blueprint consolidates the current state of acquisition for RRB NTPC General Intelligence & Reasoning practice materials and sets out the decisive actions needed to close the remaining gaps. It synthesizes what has been downloaded, identifies missing elements, aligns content to the official exam pattern and syllabus, and defines the licensing and metadata standards required to make the collection audit-ready and fully operational for content ops, research, and QA teams.
+
+What has been accomplished:
+- Downloaded the Shortcuts in Reasoning PDF (SSC Study) from the shared Google Drive link and stored it under practice-reasoning/comprehensive-shortcuts.[^14]
+- Downloaded nine IBPS Guide PDFs to practice-reasoning/topic-wise/logical-reasoning (files 01, 03, 04, 07, 08, 09, 10, 11, 12).[^9]
+- Initiated organization under the canonical directory structure and started populating metadata structures.
+
+What remains:
+- Complete the IBPS Guide set by downloading the missing PDFs: 02, 05, 06, 13 (from the authoritative archive pages).[^9][^10]
+- Download the Ultra Practice Reasoning Bundle (Exampundit) and capture its provenance and licensing details.[^11]
+- Finalize licensing verification and attribution for all sources with auditable evidence.
+- Complete topic tagging against the official taxonomy, ensure CBT 1/CBT 2 applicability is recorded, and compute file integrity checksums.
+
+Table 1 summarizes acquisition status by source, file counts, storage paths, licensing posture, and next actions.
+
+Table 1: Acquisition Status Summary
+
+| Source                                   | Files Downloaded | Expected Total | Storage Path                                      | Language | License Category            | Next Actions                                                                                  |
+|------------------------------------------|------------------|----------------|---------------------------------------------------|----------|-----------------------------|-----------------------------------------------------------------------------------------------|
+| IBPS Guide (English archive)             | 9                | 13             | practice-reasoning/topic-wise/logical-reasoning   | English  | Educational use (to verify) | Download 02, 05, 06, 13; verify license terms; tag topics; checksum; CBT alignment notes.[^9] |
+| IBPS Guide (Hindi archive)               | 0                | 13             | practice-reasoning/topic-wise/...                 | Hindi    | Educational use (to verify) | Optional Hindi set; verify license; tag topics; checksum; bilingual pairing where feasible.[^10] |
+| SSC Study — Shortcuts in Reasoning       | 1                | 1              | practice-reasoning/comprehensive-shortcuts        | English  | Educational use (to verify) | Verify license; extract topic coverage; tag; checksum; CBT notes.[^14]                        |
+| Exampundit — Ultra Practice Reasoning    | 0                | 1              | practice-reasoning/...                            | English  | Free-to-Use (claimed)       | Download bundle; capture provenance; verify redistribution terms; tag; checksum.[^11]         |
+| Jagran Josh (previous year papers)       | TBC              | Multiple       | practice-reasoning/... (by topic)                 | English  | Personal Use Only           | Confirm target files; retain only with attribution; do not redistribute publicly.[^12][^13]   |
+
+The exam architecture and syllabus references used throughout this report are anchored to official sources and widely used portals for cross-validation.[^1][^2][^3][^4][^5][^7]
+
+## Context and Requirements Recap
+
+The target collection covers Logical Reasoning, Verbal Reasoning (series, analogies, coding-decoding, direction sense, blood relations), Non-Verbal Reasoning (figure series, analogies, classification), and Mental Ability. Materials must be organized under practice-reasoning/ with bilingual options where available, accompanied by metadata that includes topic tags and licensing terms.
+
+Compliance requirements are explicit:
+- Only download and redistribute where terms allow; for personal-use-only sources, maintain attribution, restrict public redistribution, and record provenance.
+- For free-access claims, capture the licensing text and confirm redistribution permissions before public release.
+- Maintain an audit trail of evidence (terms pages or publisher statements).
+
+Table 2 restates the metadata schema fields and constraints used to standardize documentation and support auditability.
+
+Table 2: Metadata Fields and Constraints
+
+| Field                   | Description                                                   | Format/Allowed Values                      | Example                                                                 |
+|-------------------------|---------------------------------------------------------------|--------------------------------------------|-------------------------------------------------------------------------|
+| file_path               | Relative path within practice-reasoning                       | String                                     | practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_03.pdf |
+| source_name             | Publisher/platform name                                      | String                                     | IBPS Guide                                                              |
+| source_url              | URL where asset was obtained                                  | String (URL)                               | (recorded; see References)                                              |
+| license_type            | License category                                              | Personal Use Only; Free-to-Use; Restricted; Unknown | Free-to-Use (claimed)                                                   |
+| license_statement       | Exact terms as stated by source                               | String                                     | “Free download; redistribution terms to be confirmed”                   |
+| redistribution_allowed  | Whether redistribution is permitted                           | Yes; No; Unknown                           | Unknown                                                                 |
+| topic_tags              | Canonical tags aligned to taxonomy                            | Comma-separated strings                    | Series, Coding-Decoding, Analogies                                      |
+| cbt_applicability       | CBT 1, CBT 2, or Both                                         | CBT1; CBT2; Both                           | Both                                                                    |
+| language                | Language of the asset                                         | English; Hindi; Bilingual                  | English                                                                 |
+| file_format             | File type                                                     | PDF; EPUB; HTML                            | PDF                                                                     |
+| quality_score           | Coverage and clarity rating                                   | 1–5                                        | 4                                                                      |
+| completeness_score      | Topic coverage rating                                         | 1–5                                        | 5                                                                      |
+| bilingual_variant       | Paired language variant exists                                | Yes; No                                    | No                                                                      |
+| rights_notes            | Rights/constraints or pending verification notes              | String                                     | “License verification pending”                                          |
+| acquisition_date        | Date asset was acquired                                       | YYYY-MM-DD                                 | 2025-10-30                                                              |
+| checksum                | Hash for integrity                                            | SHA-256                                    | (recorded)                                                              |
+| version                 | Version label                                                 | String                                     | v1.0                                                                    |
+| tags                    | Additional keywords                                           | Comma-separated strings                    | Practice Set, Question Bank                                             |
+
+## Current Inventory Snapshot
+
+The inventory is organized to enable traceability from source to topic tagging and to accelerate final QA. The SSC Study Shortcuts PDF has been placed under comprehensive-shortcuts to distinguish it from topic-wise sets. IBPS Guide files are segregated by topic (logical-reasoning at this stage), with the intent to sub-tag at the question-bank level once content sampling is completed.
+
+Table 3 presents an inventory matrix summarizing paths, topics, languages, and file counts, with gaps highlighted.
+
+Table 3: Inventory Matrix by Directory
+
+| Directory Path                                 | Files Present                                         | Expected                     | Topics Covered (Indicative)                                                      | Language | Notes                                                                                 |
+|------------------------------------------------|-------------------------------------------------------|------------------------------|----------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------|
+| practice-reasoning/comprehensive-shortcuts/    | shortcuts_in_reasoning_ssc_study.pdf                  | 1                            | Shortcuts across Verbal/Non-Verbal/Analytical Reasoning                          | English  | License verification pending; sample for topic tags and CBT alignment.[^14]          |
+| practice-reasoning/topic-wise/logical-reasoning/| ibps_guide_gi_reasoning_01,03,04,07,08,09,10,11,12   | 13 (English set)             | Verbal, Non-Verbal, Numerical, Logical Reasoning (question banks)                | English  | Missing 02, 05, 06, 13; sampling needed to assign sub-topic tags.[^9]               |
+| practice-reasoning/topic-wise/...              | —                                                     | 13 (Hindi set, optional)     | Hindi variants of GI & Reasoning sets                                            | Hindi    | Optional; download if bilingual pairing is required; verify licensing.[^10]          |
+| practice-reasoning/...                         | —                                                     | 1 (bundle)                   | Ultra practice across reasoning topics                                           | English  | Exampundit bundle not yet downloaded; capture provenance and terms.[^11]            |
+| practice-reasoning/... (previous papers)       | TBC                                                   | Multiple                     | Prior year papers with GI & Reasoning sections                                   | English  | Jagran Josh assets are personal-use-only; keep with attribution; do not redistribute.[^12][^13] |
+
+A detailed IBPS Guide status table (Table 4) tracks completeness of the English set and indicates the archival references for each.
+
+Table 4: IBPS Guide Detailed Status (English Set)
+
+| File ID | Status      | Source Archive Reference | Notes                                   |
+|---------|-------------|--------------------------|-----------------------------------------|
+| 01      | Present     | See [^9]                 |                                          |
+| 02      | Missing     | See [^9]                 | Download from English archive page       |
+| 03      | Present     | See [^9]                 |                                          |
+| 04      | Present     | See [^9]                 |                                          |
+| 05      | Missing     | See [^9]                 | Download from English archive page       |
+| 06      | Missing     | See [^9]                 | Download from English archive page       |
+| 07      | Present     | See [^9]                 |                                          |
+| 08      | Present     | See [^9]                 |                                          |
+| 09      | Present     | See [^9]                 |                                          |
+| 10      | Present     | See [^9]                 |                                          |
+| 11      | Present     | See [^9]                 |                                          |
+| 12      | Present     | See [^9]                 |                                          |
+| 13      | Missing     | See [^9]                 | Download from English archive page       |
+
+## Gaps and Targeted Remediation
+
+Remediation is straightforward and sequence-dependent: complete the IBPS Guide set, download the Exampundit bundle, and verify licensing for Jagran Josh assets with attribution. The Hindi IBPS Guide set remains optional unless bilingual pairing is a strict requirement.
+
+Table 5: Gap Remediation Tracker
+
+| Item                                   | Source         | Action                          | Owner        | Due Date    | Status   | Evidence Reference |
+|----------------------------------------|----------------|---------------------------------|--------------|-------------|----------|--------------------|
+| IBPS Guide 02, 05, 06, 13 (English)    | IBPS Guide     | Download missing PDFs           | Research     | 2025-11-07  | Pending  | See [^9]          |
+| IBPS Guide Hindi set (1–13, optional)  | IBPS Guide     | Evaluate need; download if needed | Research   | 2025-11-14  | Pending  | See [^10]         |
+| Exampundit Ultra Practice Bundle       | Exampundit     | Download and capture provenance | Research     | 2025-11-07  | Pending  | See [^11]         |
+| Jagran Josh licensing verification     | Jagran Josh    | Record terms; restrict redistribution | Compliance | 2025-11-07  | Pending  | See [^12][^13]    |
+
+## Licensing and Compliance Validation
+
+Licensing must be verified before any public redistribution. The status is heterogeneous: personal-use-only assets require strict attribution and internal-only use; free-access claims require explicit terms confirmation; educational-use assertions must be corroborated. Evidence capture is mandatory for audit readiness.
+
+Table 6: License Compliance Checklist
+
+| Source          | License Type            | Allowed Uses                               | Evidence Status     | Risk Level | Action Required                                                          |
+|-----------------|-------------------------|--------------------------------------------|---------------------|------------|---------------------------------------------------------------------------|
+| IBPS Guide      | Educational use (claimed) | Internal practice; redistribution to verify | Pending verification | Medium     | Confirm terms from archive pages; hold as restricted until verified.[^9][^10] |
+| SSC Study       | Educational use (claimed) | Internal practice; redistribution to verify | Pending verification | Medium     | Verify terms; store with restricted flag; add attribution if required.[^14]   |
+| Exampundit      | Free-to-Use (claimed)     | Public release if terms allow               | Pending capture     | Medium     | Capture licensing statement; confirm redistribution permissions.[^11]         |
+| Jagran Josh     | Personal Use Only         | Internal use with attribution               | Confirmed (policy)  | Low        | Keep attribution; do not redistribute publicly; log provenance.[^12][^13]     |
+
+Compliance controls:
+- Restricted flags and internal-only storage for assets with unclear redistribution terms.
+- Attribution placed in licensing/ folder; snapshots of terms pages stored for audit.
+- Public release delayed until redistribution permissions are explicitly confirmed.
+
+## Metadata Creation and Population Plan
+
+Metadata will be populated file-by-file using the standardized schema. Each record will include topic tags aligned to the official taxonomy, CBT applicability notes, language, and license details. Checksums (SHA-256) will be computed for integrity. A consolidated JSON registry and CSV export will be maintained for reporting and audits.
+
+Table 7: Sample Metadata Records (Illustrative)
+
+| file_path                                                           | source_name  | license_type           | topic_tags                                                                                         | language | CBT        | acquisition_date | rights_notes                                |
+|---------------------------------------------------------------------|--------------|------------------------|-----------------------------------------------------------------------------------------------------|----------|------------|------------------|----------------------------------------------|
+| practice-reasoning/comprehensive-shortcuts/shortcuts_in_reasoning_ssc_study.pdf | SSC Study    | Unknown (to verify)    | Verbal Reasoning, Non-Verbal Reasoning, Analytical Reasoning                                       | English  | Both       | 2025-10-30       | License verification pending                 |
+| practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_01.pdf | IBPS Guide   | Educational use (to verify) | Series, Analogies, Coding-Decoding, Logical Reasoning                                              | English  | Both       | 2025-10-30       | Hold as restricted until terms confirmed     |
+| practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_03.pdf | IBPS Guide   | Educational use (to verify) | Non-Verbal Reasoning, Logical Reasoning                                                            | English  | Both       | 2025-10-30       | Hold as restricted until terms confirmed     |
+| practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_04.pdf | IBPS Guide   | Educational use (to verify) | Relationships, Analytical Reasoning, Data Sufficiency                                              | English  | Both       | 2025-10-30       | Hold as restricted until terms confirmed     |
+| practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_07.pdf | IBPS Guide   | Educational use (to verify) | Coding-Decoding, Series, Mathematical Operations                                                   | English  | Both       | 2025-10-30       | Hold as restricted until terms confirmed     |
+| practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_08.pdf | IBPS Guide   | Educational use (to verify) | Verbal Reasoning, Logical Reasoning                                                                | English  | Both       | 2025-10-30       | Hold as restricted until terms confirmed     |
+| practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_09.pdf | IBPS Guide   | Educational use (to verify) | Non-Verbal Reasoning, Figure Series, Analogies                                                     | English  | Both       | 2025-10-30       | Hold as restricted until terms confirmed     |
+| practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_10.pdf | IBPS Guide   | Educational use (to verify) | Analytical Reasoning, Puzzle, Statement-Conclusion                                                 | English  | Both       | 2025-10-30       | Hold as restricted until terms confirmed     |
+| practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_11.pdf | IBPS Guide   | Educational use (to verify) | Syllogism, Logical Reasoning                                                                      | English  | Both       | 2025-10-30       | Hold as restricted until terms confirmed     |
+| practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_12.pdf | IBPS Guide   | Educational use (to verify) | Relationships, Direction Sense, Blood Relations (indicative; verify via sampling)                 | English  | Both       | 2025-10-30       | Hold as restricted until terms confirmed     |
+
+## Quality Assurance and Validation
+
+Quality assurance will confirm exam alignment, topic completeness, and technical integrity. Each set will be spot-checked for clarity and coverage of series, analogies, coding-decoding, relationships, direction sense, blood relations, non-verbal figure series/analogies/classification, and applied mental ability scenarios. CBT notes will reflect whether items skew to multi-step reasoning typical of CBT 2.
+
+Table 8: QA Checklist
+
+| Asset                                    | Coverage Check                              | Alignment Check             | Language Check | Integrity Check | Licensing Check                            | Status   |
+|------------------------------------------|---------------------------------------------|-----------------------------|----------------|-----------------|---------------------------------------------|----------|
+| Shortcuts in Reasoning (SSC Study)       | Spot-check sections for breadth              | Map to CBT 1/CBT 2 emphasis | English        | Checksum pending| Verify terms; restrict until confirmed      | Pending  |
+| IBPS Guide 01                            | Validate topic diversity                     | Note CBT emphasis           | English        | Checksum pending| Confirm educational-use terms               | Pending  |
+| IBPS Guide 03                            | Confirm non-verbal and logical coverage      | Note CBT emphasis           | English        | Checksum pending| Confirm educational-use terms               | Pending  |
+| IBPS Guide 04                            | Validate relationships and analytical items  | Note CBT emphasis           | English        | Checksum pending| Confirm educational-use terms               | Pending  |
+| IBPS Guide 07                            | Confirm coding-decoding and series           | Note CBT emphasis           | English        | Checksum pending| Confirm educational-use terms               | Pending  |
+| IBPS Guide 08                            | Verify verbal reasoning content              | Note CBT emphasis           | English        | Checksum pending| Confirm educational-use terms               | Pending  |
+| IBPS Guide 09                            | Validate non-verbal sets                     | Note CBT emphasis           | English        | Checksum pending| Confirm educational-use terms               | Pending  |
+| IBPS Guide 10                            | Verify analytical/puzzle content             | Note CBT emphasis           | English        | Checksum pending| Confirm educational-use terms               | Pending  |
+| IBPS Guide 11                            | Validate logic/syllogism coverage            | Note CBT emphasis           | English        | Checksum pending| Confirm educational-use terms               | Pending  |
+| IBPS Guide 12                            | Check relationships/direction/blood relations| Note CBT emphasis           | English        | Checksum pending| Confirm educational-use terms               | Pending  |
+| Exampundit Bundle                        | Comprehensive topic coverage (expected)      | Note CBT emphasis           | English        | Checksum pending| Confirm free-use/redistribution permissions | Pending  |
+| Jagran Josh Papers                       | Sample GI sections                           | Note CBT emphasis           | English        | Checksum pending| Personal-use-only; attribution maintained   | Pending  |
+
+## Operational Next Steps and Timeline
+
+The remaining work is linear and time-bound, with ownership assigned for speed and accountability. The sequence prioritizes completions (IBPS Guide set, Exampundit bundle), licensing verification, metadata population, and QA.
+
+Table 9: Action Plan Timeline
+
+| Task                                            | Source           | Owner       | Due Date    | Dependencies                           | Status   |
+|-------------------------------------------------|------------------|-------------|-------------|----------------------------------------|----------|
+| Download IBPS Guide 02, 05, 06, 13             | IBPS Guide       | Research    | 2025-11-07  | None                                   | Pending  |
+| Download Exampundit Ultra Practice Bundle       | Exampundit       | Research    | 2025-11-07  | None                                   | Pending  |
+| Licensing verification (IBPS, SSC, Exampundit)  | All              | Compliance  | 2025-11-07  | Downloads complete                      | Pending  |
+| Metadata population (JSON + CSV)                | All              | Content Ops | 2025-11-10  | Licensing verification                  | Pending  |
+| QA and integrity checks                         | All              | QA          | 2025-11-12  | Metadata populated                      | Pending  |
+| Final audit and sign-off                        | All              | QA/Compliance| 2025-11-14 | QA complete                             | Pending  |
+
+## References
+
+[^1]: RRBs Website – Ministry of Railways. https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281  
+[^2]: RRB NTPC Syllabus (BYJU’s-hosted PDF aligned to CEN 01/2019). https://cdn1.byjus.com/wp-content/uploads/2020/07/RRB-NTPC-Syllabus.pdf  
+[^3]: RRB NTPC Exam Pattern – Shiksha. https://www.shiksha.com/exams/rrb-ntpc-exam-pattern  
+[^4]: RRB NTPC Exam Pattern – Testbook. https://testbook.com/rrb-ntpc/exam-pattern  
+[^5]: RRB NTPC Syllabus – Jagran Josh. https://www.jagranjosh.com/articles/rrb-ntpc-cbt-1-and-2-syllabus-2024-pdf-download-1716465685-1  
+[^7]: RRB NTPC Exam Pattern – EMBIBE. https://www.embibe.com/exams/rrb-ntpc-exam-pattern/  
+[^9]: RRB English General Intelligence And Reasoning PDFs – IBPS Guide. https://www.ibpsguide.com/archives/railway-rrb-general-intelligence-reasoning-2019/  
+[^10]: RRB Hindi General Intelligence And Reasoning PDFs – IBPS Guide. https://www.ibpsguide.com/archives/railway-rrb-general-intelligence-reasoning-2019-hindi/  
+[^11]: Ultra Practice Reasoning Bundle PDF for Railway NTPC Exam – Exampundit. https://pdf.exampundit.in/ultra-practice-reasoning-bundle-pdf-for-railway-ntpc-exam  
+[^12]: RRB NTPC 4 Jan 2021 Shift 1 PDF – Jagran Josh Free eBook Page. https://freeebook.jagranjosh.com/free-pdf-page?file=rrb-ntpc-4-jan-2021-shift-1.pdf  
+[^13]: RRB NTPC Tier 1 Exam Paper (CEN 03/2015) held on 29-03-2016 Shift 3 – Jagran Josh Free eBook Page. https://freeebook.jagranjosh.com/free-pdf-page?file=rrb-ntpc-tier-1-exam-paper-cen-03-2015-held-on-29-03-2016-shift-3.pdf  
+[^14]: Shortcuts in Reasoning (SSC Study) – Google Drive. https://drive.google.com/file/d/1G9ibO3NgsCMbPPa0YLj5yPwVYjxUXI9c/view?usp=sharing
+
+---
+
+### Appendix A: Topic Taxonomy (Concise Reminder)
+
+- Logical Reasoning: Analogies; Series; Coding-Decoding; Mathematical Operations; Relationships; Analytical Reasoning; Syllogism; Jumbling; Venn Diagrams; Puzzle; Data Sufficiency; Statement-Conclusion; Statement-Courses of Action; Decision Making; Maps; Interpretation of Graphs.
+- Verbal Reasoning: Series; Analogies; Coding-Decoding; Direction Sense; Blood Relations.
+- Non-Verbal Reasoning: Figure Series; Analogies; Classification.
+- Mental Ability: Mensuration and applied arithmetic interpretation within reasoning contexts.
+
+These categories underpin tagging, coverage checks, and CBT applicability notes throughout the collection.

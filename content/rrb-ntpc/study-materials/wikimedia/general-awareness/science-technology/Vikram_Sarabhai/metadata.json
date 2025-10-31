@@ -1,0 +1,19 @@
+{
+  "title": "Vikram_Sarabhai",
+  "source_url": "https://en.wikipedia.org/wiki/Vikram_Sarabhai",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Vikram_Sarabhai",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:33:43.942970",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "cc8baa2595fdd479e4732ba3766b6f4d",
+  "checksum_sha256": "f3342cf0467488f0f8c50dc977685f2d86b4bd69b135a770045e69f0499cd1dc"
+}

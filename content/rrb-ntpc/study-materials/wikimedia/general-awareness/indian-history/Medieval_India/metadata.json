@@ -1,0 +1,19 @@
+{
+  "title": "Medieval_India",
+  "source_url": "https://en.wikipedia.org/wiki/Medieval_India",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Medieval_India",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:30:39.931175",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "bd98c881dcf7af9365432f249d1bab78",
+  "checksum_sha256": "6498d8227f40fb5d2c0ca4b73850f3cff17702398d888411fe7ffc53a9915515"
+}

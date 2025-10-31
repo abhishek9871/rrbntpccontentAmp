@@ -1,0 +1,19 @@
+{
+  "title": "List_of_specialized_agencies_of_the_United_Nations",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_specialized_agencies_of_the_United_Nations",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for List_of_specialized_agencies_of_the_United_Nations",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:39:21.530945",
+  "integrity_notes": "Collected via api_parse",
+  "collection_method": "api_parse",
+  "related_pages": [],
+  "checksum_md5": "9023ae94d34e4b4c3317dcaff737a4d0",
+  "checksum_sha256": "ba2085bd60812cd80f160f6e17465aa243c1da3afbc8dfaa86e278e803177c6e"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Geometry",
+  "source_url": "https://en.wikipedia.org/wiki/Geometry",
+  "snapshot_date": "2025-10-22",
+  "license": "Creative Commons Attribution-ShareAlike License 3.0 (CC BY-SA 3.0)",
+  "description": "Fundamental geometry concepts including points, lines, planes, angles, triangles, quadrilaterals, circles, polygons, and basic geometric properties and theorems.",
+  "topics_covered": [
+    "Points, lines, and planes",
+    "Angles and their types",
+    "Triangles and theorems",
+    "Quadrilaterals",
+    "Circles and polygons"
+  ]
+}

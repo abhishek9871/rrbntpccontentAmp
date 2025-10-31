@@ -1,0 +1,19 @@
+{
+  "title": "History_of_India",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_India",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for History_of_India",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:30:30.914169",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "437a44b5a50288a652edd5f70801e428",
+  "checksum_sha256": "fa32632c80b76b4e682e6c13fdd2926908c72a65138c5b5020f2ace45614f517"
+}

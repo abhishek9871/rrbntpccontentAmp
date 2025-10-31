@@ -1,0 +1,19 @@
+{
+  "title": "Conservation_in_India",
+  "source_url": "https://en.wikipedia.org/wiki/Conservation_in_India",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Conservation_in_India",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:37:34.358703",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "a54410bd652f0de29a056e10916c6c29",
+  "checksum_sha256": "2425c7fc03bc91a27ab3a4819b8cdf4c67d3171ed4474e71d9c8c56a24d905bf"
+}

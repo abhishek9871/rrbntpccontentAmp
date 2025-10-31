@@ -1,0 +1,335 @@
+# Workspace Integrity Verification Report
+
+**Generated on:** 2025-10-31T03:12:07.511132
+
+**Total files processed:** 1312
+**Total workspace size:** 2.66 GB
+**Failed files:** 0
+
+## File Count by Category
+
+- **Current Affairs:** 15 files (265.65 MB)
+- **Logs:** 20 files (0.37 MB)
+- **Metadata:** 55 files (3.32 MB)
+- **Other:** 801 files (284.39 MB)
+- **Practice Sets:** 20 files (2.37 MB)
+- **Previous Papers:** 20 files (36.03 MB)
+- **Study Materials:** 381 files (2129.73 MB)
+
+## Duplicate Files
+
+Found 91 sets of duplicate files:
+
+- **2 files** with checksum `0027a469fdb35a3e...`:
+  - .browser_screenshots/visual_feedback_20251031_001500.png
+  - .browser_screenshots/visual_feedback_20251031_005245.png
+- **2 files** with checksum `0109a55a9abf6a9b...`:
+  - wikimedia-math/geometry/images/Blue_ball.png
+  - wikimedia-math/image-downloads/geometry/Blue_ball.png
+- **2 files** with checksum `0114a5b448c9ea3b...`:
+  - downloads/ibps_guide_gi_reasoning_11.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_11.pdf
+- **2 files** with checksum `02e82d64f33864be...`:
+  - .git/logs/HEAD
+  - .git/logs/refs/heads/master
+- **2 files** with checksum `0473772b38cee9b7...`:
+  - .git/refs/heads/master
+  - .git/refs/tags/msg-328784016240728
+- **2 files** with checksum `05847ca97b4983bd...`:
+  - memory/decisions.md
+  - metadata/decisions.md
+- **2 files** with checksum `060e2e229ef48b6b...`:
+  - browser/screenshots/diksha_student_explore.png
+  - browser/screenshots/rrb_ranchi_connection_issue.png
+- **2 files** with checksum `085b0c7fd137de62...`:
+  - wikimedia-math/geometry/images/Hyperbolic_triangle.svg
+  - wikimedia-math/image-downloads/geometry/Hyperbolic_triangle.svg
+- **2 files** with checksum `093d02814560b24a...`:
+  - wikimedia-reasoning/content/rrb-ntpc/study-materials/wikimedia/science/images/environmental-science/ecosystem_nitrogen_cycle.jpg
+  - wikimedia-reasoning/content/rrb-ntpc/study-materials/wikimedia/science/images/environmental-science/nitrogen_cycle_diagram.jpg
+- **3 files** with checksum `0bb4f86cb535dcfa...`:
+  - practice-ga/current-affairs/Formatted-ga-questions-asked-in-ntpc.pdf
+  - practice-ga/science-technology/researchgate_rrb_general_science.pdf
+  - practice-ga/static-gk/adda247_ga_questions_ntpc.pdf
+- **2 files** with checksum `0ec486d1c3e6535a...`:
+  - wikimedia-math/image-downloads/mensuration/Cylinder.svg
+  - wikimedia-math/mensuration/images/Cylinder.svg
+- **2 files** with checksum `0f55f7e92c4bbe37...`:
+  - diksha-math/study-materials/oer/mathematics/english/geometry/practical_geometry_class7.pdf
+  - diksha-math/study-materials/oer/mathematics/english/geometry/practical_geometry_class8.pdf
+- **2 files** with checksum `126b8420d591a155...`:
+  - downloads/ibps_guide_gi_reasoning_09.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_09.pdf
+- **2 files** with checksum `12a58f7ac1f7ef96...`:
+  - .browser_screenshots/visual_feedback_20251030_200122.png
+  - browser/screenshots/test_instructions_page.png
+- **5 files** with checksum `1c2aa70e7ea7a4e9...`:
+  - bilingual-org/content/rrb-ntpc/language/en/study-materials/diksha-science
+  - diksha-ga/science-technology/ncert-class9-science-complete.pdf
+  - diksha-ga/science-technology/ncert-class9-science.pdf
+  - diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/ncert-class-9-science.pdf
+  - diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/ncert-class-9-science.pdf
+- **3 files** with checksum `1ee92fd0fdb5d86d...`:
+  - .browser_screenshots/visual_feedback_20251030_202902.png
+  - .browser_screenshots/visual_feedback_20251030_202903.png
+  - .browser_screenshots/visual_feedback_20251030_203847.png
+- **2 files** with checksum `25cacecc8d8009e0...`:
+  - wikimedia-math/image-downloads/mensuration/Wiki_Loves_Monuments_Logo.svg
+  - wikimedia-math/mensuration/images/Wiki_Loves_Monuments_Logo.svg
+- **2 files** with checksum `265b490efd19c1c4...`:
+  - wikimedia-math/geometry/images/Angle_obtuse_acute_straight.svg
+  - wikimedia-math/image-downloads/geometry/Angle_obtuse_acute_straight.svg
+- **2 files** with checksum `281ef410ceca3c6c...`:
+  - browser/screenshots/wikipedia_acid_devtools.png
+  - browser/screenshots/wikipedia_acid_source.png
+- **2 files** with checksum `2932919a50c63e72...`:
+  - .browser_screenshots/visual_feedback_20251030_230904.png
+  - .browser_screenshots/visual_feedback_20251030_230939.png
+- **4 files** with checksum `2b2b4d5355b9edc7...`:
+  - bilingual-org/content/rrb-ntpc/language/en/practice-sets/practice-reasoning
+  - downloads/ibps_guide_gi_reasoning_12.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_12.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_13.pdf
+- **2 files** with checksum `2b8fcbd839fea137...`:
+  - wikimedia-math/geometry/images/Woman_teaching_geometry.jpg
+  - wikimedia-math/image-downloads/geometry/Woman_teaching_geometry.jpg
+- **2 files** with checksum `2d772f2b093ba7b3...`:
+  - diksha-science/content/rrb-ntpc/study-materials/oer/general-science/chemistry/hindi/ncert-class-9-chemistry-ch3.pdf
+  - diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/hindi/ncert-class-9-science-hindi-ch3.pdf
+- **2 files** with checksum `2f3c32f1bbdb646a...`:
+  - audit/comprehensive_audit_summary.md
+  - logs/comprehensive_audit_summary.md
+- **2 files** with checksum `2f64db59b775d787...`:
+  - downloads/CEN_05_2025_JE_English.pdf
+  - downloads/rrb-ntpc/previous-papers/CBT1/2025/cen__2025__CBT__je-dms-cma__en__rrbbhopal.gov.pdf
+- **2 files** with checksum `2feb87fcf92584ee...`:
+  - .browser_screenshots/visual_feedback_20251030_202706.png
+  - .browser_screenshots/visual_feedback_20251030_202721.png
+- **2 files** with checksum `3066d3b6428b6300...`:
+  - wikimedia-math/geometry/images/Chinese_pythagoras.jpg
+  - wikimedia-math/image-downloads/geometry/Chinese_pythagoras.jpg
+- **2 files** with checksum `31900745c2dc96bf...`:
+  - wikimedia-math/image-downloads/mensuration/Cuboid.svg
+  - wikimedia-math/mensuration/images/Cuboid.svg
+- **2 files** with checksum `39bd50c7ada817d2...`:
+  - memory/rrb_sources_catalog.csv
+  - metadata/rrb_sources_catalog.csv
+- **2 files** with checksum `3c40cf9e30494e44...`:
+  - .browser_screenshots/visual_feedback_20251030_202813.png
+  - browser/screenshots/diksha_attempt_screenshot.png
+- **2 files** with checksum `3ddd4c57643ecadb...`:
+  - downloads/ibps_guide_gi_reasoning_07.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_07.pdf
+- **2 files** with checksum `3efbf5d757d4b565...`:
+  - wikimedia-math/image-downloads/mensuration/Prism.svg
+  - wikimedia-math/mensuration/images/Prism.svg
+- **2 files** with checksum `42ee5d38d4fbb526...`:
+  - wikimedia-math/geometry/images/Order-3_heptakis_heptagonal_tiling.png
+  - wikimedia-math/image-downloads/geometry/Order-3_heptakis_heptagonal_tiling.png
+- **7 files** with checksum `454cd94f0d386a9b...`:
+  - .browser_screenshots/visual_feedback_20251030_203132.png
+  - .browser_screenshots/visual_feedback_20251030_203141.png
+  - .browser_screenshots/visual_feedback_20251030_204018.png
+  - .browser_screenshots/visual_feedback_20251030_204027.png
+  - browser/screenshots/current_page_state.png
+  - browser/screenshots/diksha_main_interface.png
+  - browser/screenshots/diksha_student_explore_page.png
+- **2 files** with checksum `496ba21ca7dcd1da...`:
+  - .browser_screenshots/visual_feedback_20251030_204544.png
+  - .browser_screenshots/visual_feedback_20251030_204552.png
+- **2 files** with checksum `4ac427bb678aa4de...`:
+  - browser/screenshots/after_explore_click.png
+  - browser/screenshots/previous_year_papers_page.png
+- **2 files** with checksum `4b4b1497918d63b0...`:
+  - browser/screenshots/genetics_devtools.png
+  - browser/screenshots/genetics_devtools_attempt2.png
+- **2 files** with checksum `4cba30a196663cd2...`:
+  - browser/screenshots/developer_tools_view.png
+  - browser/screenshots/inspect_element_view.png
+- **2 files** with checksum `4d359d0176a3a937...`:
+  - downloads/ibps_guide_gi_reasoning_04.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_04.pdf
+- **2 files** with checksum `4e578c304e0f8eb6...`:
+  - current-affairs/economic-surveys/2023/economic_survey_2023-24.pdf
+  - current-affairs/economic-surveys/2024/economic_survey_2024-25.pdf
+- **2 files** with checksum `4f53cda18c2baa0c...`:
+  - external_api/mcp_function_list.json
+  - wikimedia-reasoning/content/rrb-ntpc/study-materials/wikimedia/science/images/environmental-science/key_images_inventory.json
+- **2 files** with checksum `501e7b7d064493c5...`:
+  - browser/screenshots/current_state.png
+  - browser/screenshots/final_diksha_state.png
+- **2 files** with checksum `52440cc56238d8a6...`:
+  - wikimedia-math/geometry/images/Sphere_wireframe.svg
+  - wikimedia-math/image-downloads/geometry/Sphere_wireframe.svg
+- **2 files** with checksum `57ba069226a6cc68...`:
+  - wikimedia-math/image-downloads/mensuration/Sphere.svg
+  - wikimedia-math/mensuration/images/Sphere.svg
+- **3 files** with checksum `5944a2492e64426c...`:
+  - browser/screenshots/environmental_issues_main_page.png
+  - browser/screenshots/environmental_issues_page.png
+  - browser/screenshots/final_environmental_issues.png
+- **4 files** with checksum `5d1944ab8b03a999...`:
+  - .browser_screenshots/visual_feedback_20251030_204822.png
+  - .browser_screenshots/visual_feedback_20251030_205125.png
+  - browser/screenshots/diksha_mathematics_search.png
+  - browser/screenshots/ncert_textbooks_page.png
+- **2 files** with checksum `5dbeb2e8cb14d674...`:
+  - downloads/ibps_guide_gi_reasoning_08.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_08.pdf
+- **2 files** with checksum `610301e4275a4cc6...`:
+  - bilingual-org/content/rrb-ntpc/language/en/study-materials/mathematics
+  - diksha-math/study-materials/oer/mathematics/english/trigonometry/ncert_class10_trigonometry.pdf
+- **2 files** with checksum `689bc28a8adc7cd5...`:
+  - wikimedia-math/image-downloads/mensuration/Cone.svg
+  - wikimedia-math/mensuration/images/Cone.svg
+- **2 files** with checksum `701cb57162ecf898...`:
+  - browser/screenshots/wikibooks_devtools_opened.png
+  - browser/screenshots/wikibooks_html_source_view.png
+- **2 files** with checksum `737635c83a65d04c...`:
+  - wikimedia-math/image-downloads/mensuration/Tetrahedron.svg
+  - wikimedia-math/mensuration/images/Tetrahedron.svg
+- **2 files** with checksum `74ca831c3fa7b934...`:
+  - .browser_screenshots/visual_feedback_20251030_203718.png
+  - .browser_screenshots/visual_feedback_20251030_203732.png
+- **2 files** with checksum `759d5aeaea77e29b...`:
+  - wikimedia-math/image-downloads/mensuration/Ellipsoid.svg
+  - wikimedia-math/mensuration/images/Ellipsoid.svg
+- **2 files** with checksum `771565d9cfae8544...`:
+  - bilingual-org/content/rrb-ntpc/language/en/study-materials/diksha-reasoning
+  - diksha-reasoning/metadata/cross_reference_syllabus.md
+- **2 files** with checksum `7e25c37d40feb6db...`:
+  - downloads/ibps_guide_gi_reasoning_01.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_01.pdf
+- **2 files** with checksum `850ca8aa1fedf306...`:
+  - wikimedia-math/geometry/images/Noneuclid.svg
+  - wikimedia-math/image-downloads/geometry/Noneuclid.svg
+- **3 files** with checksum `8c0229f46b7081b5...`:
+  - browser/screenshots/console_opened.png
+  - browser/screenshots/developer_tools_opened.png
+  - browser/screenshots/task_completion.png
+- **4 files** with checksum `948c7a6ef813eef8...`:
+  - browser/screenshots/console-open.png
+  - browser/screenshots/dev-tools-open.png
+  - browser/screenshots/final-page-source.png
+  - browser/screenshots/page-source-view.png
+- **2 files** with checksum `9cff1c6cded08533...`:
+  - diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch8-hindi.pdf
+  - diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch8.pdf
+- **2 files** with checksum `9d1be1e04d80fbee...`:
+  - .browser_screenshots/visual_feedback_20251030_231337.png
+  - browser/screenshots/very_bottom.png
+- **2 files** with checksum `9dcfedd61e230c0f...`:
+  - diksha-math/study-materials/oer/mathematics/english/number-system/cbse_class8_math_textbook.pdf
+  - diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class8_complete_textbook.pdf
+- **2 files** with checksum `9e2305fc748da6f1...`:
+  - .browser_screenshots/visual_feedback_20251030_231222.png
+  - browser/screenshots/scrolled_view_source.png
+- **2 files** with checksum `9e31efc23e08c3a5...`:
+  - diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch16-hindi.pdf
+  - diksha-science/content/rrb-ntpc/study-materials/oer/general-science/biology/hindi/ncert-class-11-biology-ch16.pdf
+- **2 files** with checksum `a0214b3d7820d1cf...`:
+  - bilingual-org/content/rrb-ntpc/language/en/previous-papers/portal-downloads
+  - portal-downloads/CBT2/2022/RRB_NTPC_CBT2_2022_May09_Shift1_Level6_ExamCart.metadata.json
+- **2 files** with checksum `a49ebfaf4db72782...`:
+  - wikimedia-math/geometry/images/Square_root_of_2_triangle.svg
+  - wikimedia-math/image-downloads/geometry/Square_root_of_2_triangle.svg
+- **2 files** with checksum `bb086a817c7b86c1...`:
+  - wikimedia-math/image-downloads/mensuration/Parallelepiped.svg
+  - wikimedia-math/mensuration/images/Parallelepiped.svg
+- **2 files** with checksum `c0e0522c32dcb0b8...`:
+  - bilingual-org/content/rrb-ntpc/language/hi/study-materials/diksha-science
+  - diksha-science/content/rrb-ntpc/study-materials/oer/general-science/science/hindi/ncert-class-9-science-hindi-ch8.pdf
+- **3 files** with checksum `c1bc5043c7d71095...`:
+  - browser/screenshots/biodiversity_correct_page.png
+  - browser/screenshots/biodiversity_wikipedia_page.png
+  - browser/screenshots/console_output.png
+- **2 files** with checksum `c579394309303438...`:
+  - bilingual-org/content/rrb-ntpc/language/en/practice-sets/practice-ga
+  - practice-ga/static-gk/static_gk_practice_set_01.md
+- **2 files** with checksum `c9fcc6fcb599388b...`:
+  - bilingual-org/content/rrb-ntpc/language/en/practice-sets/practice-math
+  - practice-math/simple-compound-interest/Cracku_SimpleCompoundInterestQuestions_RRBNTPC.pdf
+- **2 files** with checksum `cacc6561d1cb73f9...`:
+  - downloads/ibps_guide_gi_reasoning_10.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_10.pdf
+- **2 files** with checksum `cc29d71f6d6d3db6...`:
+  - .browser_screenshots/visual_feedback_20251030_194808.png
+  - browser/screenshots/nqt_assessment_products.png
+- **2 files** with checksum `cd6b0622fd3a99bf...`:
+  - audit/content_inventory.json
+  - metadata/content_inventory.json
+- **2 files** with checksum `d0e74b6cdbdcaef8...`:
+  - browser/screenshots/environmental_issues_scrolled.png
+  - browser/screenshots/javascript_console_output.png
+- **2 files** with checksum `d1b7a01d301a8971...`:
+  - wikimedia-math/image-downloads/mensuration/Cube.svg
+  - wikimedia-math/mensuration/images/Cube.svg
+- **3 files** with checksum `d1e54fca71c97ec3...`:
+  - bilingual-org/content/rrb-ntpc/language/en/study-materials/diksha-ga
+  - diksha-ga/static-gk/organizations/ncert-class11-indian-art-complete.pdf
+  - diksha-ga/static-gk/organizations/ncert-class11-indian-art.pdf
+- **2 files** with checksum `d45cccee08248183...`:
+  - wikimedia-math/image-downloads/mensuration/Pyramid.svg
+  - wikimedia-math/mensuration/images/Pyramid.svg
+- **2 files** with checksum `d7a1ea7b023bf425...`:
+  - wikimedia-math/geometry/images/Von_Koch_curve.gif
+  - wikimedia-math/image-downloads/geometry/Von_Koch_curve.gif
+- **2 files** with checksum `d9b7656c53b7ef1a...`:
+  - browser/screenshots/after_download_click.png
+  - browser/screenshots/after_preview_click.png
+- **3 files** with checksum `da94c0b4aa7be82f...`:
+  - bilingual-org/content/rrb-ntpc/language/en/previous-papers/rrb-ntpc
+  - bilingual-org/content/rrb-ntpc/language/en/study-materials/downloads
+  - downloads/rrb-ntpc/previous-papers/CBT1/2025/faq__2025__CBT__normalization__en__rrbbhopal.gov.pdf
+- **2 files** with checksum `db034028d2f3132b...`:
+  - bilingual-org/content/rrb-ntpc/language/en/study-materials/wikimedia-math
+  - wikimedia-math/time-and-work/index.html
+- **3 files** with checksum `dc84cf93e9369f81...`:
+  - browser/screenshots/mock_test_content.png
+  - browser/screenshots/practice_set_content.png
+  - browser/screenshots/previous_year_papers.png
+- **6 files** with checksum `e3b0c44298fc1c14...`:
+  - diksha-reasoning/downloaded_content/non_verbal_reasoning/Figural_Analogy_Non_Verbal_Reasoning.pdf
+  - external_api/data_sources/__init__.py
+  - practice-math/previous-year-papers/JagranJosh_CBT1_2021_Jan4_Shift1.pdf
+  - practice-reasoning/01_logical-reasoning/freshersnow_rrb_general_intelligence_questions.pdf
+  - wikimedia-reasoning/content/rrb-ntpc/study-materials/wikimedia/science/images/environmental-science/earth_photo.jpg
+  - wikimedia-reasoning/content/rrb-ntpc/study-materials/wikimedia/science/images/environmental-science/environmental_issues_air_pollution_delhi.jpg
+- **2 files** with checksum `ece574089b0676be...`:
+  - browser/screenshots/wikibooks_devtools.png
+  - browser/screenshots/wikibooks_source_view.png
+- **2 files** with checksum `ed3ac76b635fdd9c...`:
+  - wikimedia-math/geometry/images/Parallel_postulate_en.svg
+  - wikimedia-math/image-downloads/geometry/Parallel_postulate_en.svg
+- **2 files** with checksum `eda4d2f00ae45841...`:
+  - downloads/ibps_guide_gi_reasoning_03.pdf
+  - practice-reasoning/topic-wise/logical-reasoning/ibps_guide_gi_reasoning_03.pdf
+- **2 files** with checksum `ef670d19d6d04ad6...`:
+  - diksha-ga/economy/ncert-class9-economics-complete.pdf
+  - diksha-ga/economy/ncert-class9-economics.pdf
+- **2 files** with checksum `f6250e613a5ed17e...`:
+  - browser/screenshots/wikibooks_devtools_console.png
+  - browser/screenshots/wikibooks_save_dialog.png
+- **2 files** with checksum `f6d653a6ddc4ed94...`:
+  - .browser_screenshots/visual_feedback_20251030_204808.png
+  - .browser_screenshots/visual_feedback_20251030_205113.png
+- **2 files** with checksum `f77c5482d29f6770...`:
+  - wikimedia-math/geometry/images/Westerner_and_Arab_practicing_geometry_15th_century_manuscript.jpg
+  - wikimedia-math/image-downloads/geometry/Westerner_and_Arab_practicing_geometry_15th_century_manuscript.jpg
+- **5 files** with checksum `f988b383a02e4981...`:
+  - diksha-math/study-materials/oer/mathematics/english/algebra/ncert_class8_algebra.pdf
+  - diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class8_math.pdf
+  - diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class8_mathematics.pdf
+  - diksha-math/study-materials/oer/mathematics/english/number-system/ncert_class8_number_system.pdf
+  - diksha-math/study-materials/oer/mathematics/english/statistics/ncert_class8_statistics.pdf
+
+## Failed Files
+
+All files processed successfully.
+
+## Verification Summary
+
+- **Total checksums generated:** 1312
+- **Master checksum file created:** master_sha256sums.txt
+- **Categorized CSV created:** checksums_by_category.csv
+- **Integrity verified:** All checksums match source files

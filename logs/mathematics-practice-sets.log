@@ -1,0 +1,319 @@
+# RRB NTPC Mathematics Practice Sets: Source Acquisition, Licensing Compliance, and Topic-wise Compilation Blueprint
+
+## Executive Overview and Objectives
+
+Railway Recruitment Board (RRB) Non-Technical Popular Categories (NTPC) assessments demand consistent practice in Mathematics across both Computer-Based Test stages. This blueprint details the acquisition, licensing compliance, and topic-wise organization of Mathematics practice sets aligned to the NTPC syllabus. The primary deliverable is a permission-compliant collection of topic-wise practice banks covering eleven foundational domains—Number System; Ratio & Proportion; Time & Work; Simple & Compound Interest; Profit & Loss; Average; Percentage; Algebra; Geometry; Mensuration; and Statistics—supported by metadata mapping and a reproducible workflow.
+
+Three outcomes anchor this blueprint. First, assemble a set of credible, permission-compliant sources that enable personal study and offline practice for NTPC aspirants. Second, codify licensing guardrails and usage restrictions into machine-readable metadata and an auditable log to avoid redistribution beyond permitted scope. Third, operationalize a topic-wise repository structure, naming conventions, and a metadata schema that maps resources to the NTPC syllabus and exam pattern. Success criteria include demonstrable coverage across the eleven Mathematics topics, auditable licensing records, and consistent application of metadata and taxonomy.
+
+While official documents govern exam structure and syllabus, this blueprint relies on well-known educational portals for practice resources and, where necessary, uses widely referenced syllabi and exam-pattern summaries for cross-validation, explicitly acknowledging information gaps where policies or archives are incomplete.[^1][^2]
+
+## Methodology and Selection Criteria
+
+The selection process for practice materials followed a disciplined workflow to ensure both credibility and compliance. It began with a scan of credible portals identified in the internal catalog, followed by targeted searches for topic-specific practice sets and PDFs. Source candidates were filtered using a licensing-first lens that prioritized explicit permission for personal use and downloads. Extracted content and PDFs were tagged to the internal topic taxonomy, then organized under the designated repository path with uniform file naming and metadata.
+
+Where pages were blocked by CDN protection (e.g., 403 errors), alternate portals and mirrors were favored to avoid policy ambiguity or forced circumvention. The final selection emphasizes free, permission-compliant practice materials and documents with clear personal-use allowances.
+
+Table 1 summarizes the inclusion/exclusion decision matrix that guided source curation.
+
+Table 1: Inclusion/Exclusion Decision Matrix
+
+| Criterion                         | Inclusion Rule                                                                 | Exclusion Rule                                                                                       | Notes                                                                                      |
+|-----------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Licensing clarity                 | Explicit personal-use or free-download permissions clearly stated              | Ambiguous, restrictive, or “all rights reserved” without personal-use allowance                      | Personal-use sources preferred; mirror only if policy remains clear                        |
+| Topic relevance                   | NTPC Mathematics topic alignment (CBT 1/CBT 2)                                 | Non-NTPC or exam-irrelevant content                                                                  | Maintain topic-wise tagging and syllabus mapping                                           |
+| Access reliability                | Stable, direct download or on-page practice without login                      | Recurrent access blocks, forced app installs, or dynamic gating                                      | Avoid tools that bypass access controls                                                    |
+| Credibility                       | Established portals with identifiable ownership and contact details            | Unverified uploads or sources lacking ownership disclosures                                           | Cross-check via multiple reputable portals where possible                                  |
+| Format                            | PDFs and on-page quizzes suitable for offline practice                         | Heavily interactive formats not amenable to archiving or metadata                                    | Prefer PDF for portability; retain on-page quiz metadata                                   |
+| Reusability                       | Clear structure, solutions, and answer keys                                    | Solutions missing or unreliable                                                                      | Prefer sets with explanations to enhance learning                                          |
+
+Sources such as Jagran Josh provide clear personal-use terms and downloadable previous year papers and mock tests, making them strong candidates for inclusion.[^3][^4] RRB EXAM PORTAL presents free e-books and topic notes, though redistribution permissions are not explicit, warranting conservative use and metadata flags.[^5] Examsnet offers free online model papers without registration and serves as a reliable practice resource with straightforward access.[^6]
+
+## Licensing and Compliance Framework
+
+Permissions govern every aspect of acquisition and distribution. This blueprint classifies sources into three categories: personal-use allowed, restricted/copyrighted, and ambiguous/undetermined. For personal-use sources, copies may be downloaded for individual study; derivative works or public redistribution are prohibited unless the license explicitly permits. Restricted sources (e.g., Testbook) require avoidance of downloads beyond what the platform allows; only on-page practice is considered.[^7] Ambiguous sources are handled conservatively: either mirror with explicit, verifiable permissions or exclude to eliminate compliance risk.
+
+The licensing posture must be codified in both metadata and a log. Each artifact receives a license tag, an explicit usage note, attribution text, and a flag for download and redistribution. These fields facilitate periodic audits and support governance decisions. Given platform policy updates and intermittently blocked pages (403), the log should record access attempts, outcomes, and next actions.
+
+Table 2 provides a comparative snapshot of licensing posture across key portals referenced in this collection.
+
+Table 2: Licensing Policy Comparison
+
+| Source             | Allowed Uses                                     | Redistribution | Attribution | Download Policy                                   | Compliance Risk Level | Notes                                                                                     |
+|--------------------|---------------------------------------------------|----------------|------------|---------------------------------------------------|-----------------------|-------------------------------------------------------------------------------------------|
+| Jagran Josh        | Personal use only                                 | No             | Required   | Direct PDF downloads of previous year papers      | Low                   | Clear personal-use terms; reliable for personal archives and mock links                   |
+| RRB EXAM PORTAL    | Free study material implied for personal study    | Not specified  | Recommended | E-books and PDFs available; explicit “Free” labels | Medium                | No explicit redistribution policy; use with personal-use metadata and no public sharing   |
+| Examsnet           | Free online practice and model papers             | No             | Recommended | On-page practice; solutions available              | Low                   | No registration required; treat as personal-use practice                                  |
+| Testbook           | All rights reserved; platform-controlled access   | No             | Required   | On-page content; controlled downloads             | High                  | Do not download beyond permitted scope; rely on on-page practice                          |
+| Cracku             | Free PDFs with download links                     | Not specified  | Recommended | Direct PDF downloads (per page/blog post)         | Medium                | Terms page exists; verify PDF-specific redistribution terms before mirroring              |
+| Oliveboard         | Free PDF indicated                                | Not specified  | Recommended | Direct PDF link referenced                        | Medium                | Confirm site-wide Terms for redistribution and derivative works before wider sharing      |
+| Railway Capsule    | “100% free access” with downloadable PDFs         | Not specified  | Recommended | PDFs downloadable; no login required (site claims)| Medium                | Site claims free access; policy details for redistribution not explicit                   |
+| Mockers            | Online practice sets                              | Not specified  | Recommended | On-page timed quizzes                              | Medium                | Confirm Terms for download/redistribution if PDFs are offered                             |
+
+This classification directly informs compliance tags and the log. For each artifact, metadata records the license class, restrictions, and an explicit compliance note.
+
+## NTPC Mathematics Syllabus-to-Topic Mapping
+
+The internal syllabus map distinguishes CBT 1 and CBT 2 coverage across Mathematics, Reasoning, and General Awareness. Mathematics remains a constant section in both stages, with topic-level emphasis that shifts from fundamentals in CBT 1 to broader applied problem types in CBT 2. Based on the official alignment and widely referenced syllabus portals, the eleven target topics map cleanly to the NTPC Mathematics syllabus.[^2][^5]
+
+Table 3 captures the topic mapping across CBT 1 and CBT 2.
+
+Table 3: Topic Mapping Matrix (CBT 1 vs CBT 2)
+
+| Topic                     | CBT 1 Coverage | CBT 2 Coverage | Notes                                                                                   |
+|--------------------------|----------------|----------------|-----------------------------------------------------------------------------------------|
+| Number System            | Yes            | Yes            | Divisibility, LCM/HCF, remainders, and simplification appear frequently                 |
+| Ratio & Proportion       | Yes            | Yes            | Direct/inverse ratios; applied mixture and partnership contexts                         |
+| Time & Work              | Yes            | Yes            | Efficiency, pipes & cisterns; work-sharing with wages                                   |
+| Simple & Compound Interest | Yes          | Yes            | SI/CI formulas; difference problems; rate/time comparisons                              |
+| Profit & Loss            | Yes            | Yes            | Discount, successive discounts, and partnership profit splits                           |
+| Average                  | Yes            | Yes            | Weighted averages; marks/age problems                                                   |
+| Percentage               | Yes            | Yes            | Conversions; successive percentage changes                                              |
+| Algebra                  | Yes            | Yes            | Linear equations; basic identities; surds                                              |
+| Geometry                 | Yes            | Yes            | Triangles, circles, rectangles; angle and theorem applications                          |
+| Mensuration              | Yes            | Yes            | Area/perimeter; surface area and volume                                                 |
+| Statistics               | Yes            | Yes            | Averages; mean/median; data interpretation basics                                       |
+
+Two points of emphasis matter for curation. First, Number System, Percentage, Time & Work, and Time/Speed/Distance consistently show high frequency and should be represented by multiple sets per stage. Second, CBT 2 widens applied problem varieties (e.g., Average, weight/height problems, relative speeds), which justifies adding variant practice banks with mixed sets and timed drills.
+
+## Repository Layout and Naming Conventions
+
+A consistent repository structure ensures discoverability and supports metadata mapping. Under the practice-math directory, each topic has a dedicated folder. Within each folder, PDFs and associated JSON metadata files use naming patterns that encode source, topic, stage, and date. For example:
+
+- practice-math/number-system/JagranJosh_NumberSystem_CBT1_2025-10-30.pdf
+- practice-math/time-work/Oliveboard_TimeWork_CBT1CBT2_2025-10-30.pdf
+- practice-math/mensuration/Cracku_Mensuration_CBT2_2025-10-30.pdf
+- practice-math/statistics/Mockers_Statistics_CBT1CBT2_2025-10-30.pdf
+
+A topic-index JSON at the root ties topics to files and metadata IDs, enabling quick queries and audits. Alongside, a logs folder stores the compliance log.
+
+Table 4 provides a representative snippet of the repository tree.
+
+Table 4: Repository Tree with Example Paths
+
+| Folder/File                                | Purpose                                 | Example Naming Pattern                                 |
+|--------------------------------------------|------------------------------------------|--------------------------------------------------------|
+| practice-math/                             | Root repository                          | —                                                      |
+| practice-math/number-system/               | Topic folder                             | PortalName_Topic_Stage_YYYY-MM-DD                      |
+| practice-math/number-system/...pdf         | Practice set PDF                         | PortalName_NumberSystem_CBT1_2025-10-30.pdf            |
+| practice-math/number-system/...json        | Metadata for the PDF                     | PortalName_NumberSystem_CBT1_2025-10-30.json           |
+| practice-math/time-work/                   | Topic folder                             | PortalName_TimeWork_CBT1CBT2_2025-10-30                |
+| practice-math/mensuration/...pdf           | Practice set PDF                         | PortalName_Mensuration_CBT2_2025-10-30.pdf             |
+| practice-math/statistics/...json           | Metadata for on-page quiz                | PortalName_Statistics_CBT1CBT2_2025-10-30.json         |
+| practice-math/topic-index.json             | Cross-topic index                        | topics → [file ids, metadata ids]                      |
+| logs/mathematics-practice-sets.log         | Compliance and licensing log             | Chronological entries with decisions                   |
+
+Naming enforces deduplication and simplifies audit. The stage tag (CBT1, CBT2, or CBT1CBT2) is mandatory to avoid cross-stage confusion.
+
+## Source Catalog and Acquisition Status
+
+At the core of this collection are sources with the clearest personal-use posture and reliable access, complemented by portals where downloads and reuse terms require verification. Table 5 summarizes the acquisition status and licensing notes for candidate portals.
+
+Table 5: Source Acquisition Table
+
+| Source            | URL                                               | Content Type                | License Class           | Download Status          | Notes                                                                                                   |
+|-------------------|---------------------------------------------------|-----------------------------|-------------------------|--------------------------|---------------------------------------------------------------------------------------------------------|
+| Jagran Josh       | See References[^3][^4]                            | PDFs; on-page mock tests    | Personal-use allowed    | Downloaded/linked        | Previous year papers and mock tests with clear personal-use terms                                       |
+| RRB EXAM PORTAL   | See References[^5]                                | E-books; topic notes        | Ambiguous (implied free)| Downloaded/linked        | Free e-books; redistribution not explicit—tag as personal-use only                                      |
+| Examsnet          | See References[^6]                                | Online model papers         | Personal-use allowed    | On-page                  | No registration; on-page practice with solutions                                                        |
+| Testbook          | See References[^7]                                | Quizzes; mock series        | Restricted              | On-page only             | Controlled access; do not mirror downloads beyond permitted scope                                        |
+| Cracku            | See References[^8][^9]                            | Topic PDFs                  | Ambiguous (verify)      | Downloaded/linked        | PDFs linked from blog posts; verify Terms for redistribution                                            |
+| Oliveboard        | See References[^10][^11]                          | Topic PDF; mocks            | Ambiguous (verify)      | Downloaded/linked        | Direct PDF link referenced; confirm site-wide Terms before wider sharing                                |
+| Railway Capsule   | See References[^12]                               | Free PDFs; mock tests       | Ambiguous (verify)      | Downloaded/linked        | Claims “100% free”; redistribution not explicit—apply conservative tags                                 |
+| Mockers           | See References[^13]                               | Online practice sets        | Ambiguous (verify)      | On-page                  | Confirm download policies if PDFs are offered                                                           |
+
+Status is maintained dynamically: whenever a portal updates its policy or introduces gating, metadata and the compliance log are amended to reflect current permissions.
+
+## Topic-wise Practice Bank Compilation
+
+Topic-level curation aims to build coherent practice sets with solutions and clear mappings to CBT stages. Priority is given to sources offering downloadable PDFs with detailed solutions and on-page quizzes that can be archived as metadata-backed artifacts. As OCR or reformatting is applied to PDFs, quality assurance checks verify question integrity, answer keys, and solution clarity.
+
+### Number System
+
+The Number System anchors arithmetic efficiency in both CBT stages. Sets should emphasize divisibility rules, LCM/HCF, remainders, and simplification. For acquisition, Cracku’s Number Systems Questions PDF provides forty targeted questions with step-by-step solutions and is suitable for CBT 1 and CBT 2 practice.[^8] Jagran Josh offers previous year papers that frequently test Number System fundamentals; these can be used to curate topic-wise extractions under personal-use guidelines.[^3] As a backup for access-blocked pages, SSCAdda’s Number System resource page is a recognized source; however, its current access status requires verification or alternate mirrors before download.[^14]
+
+Metadata must include topic tags (Number System), stage applicability (CBT1/CBT2), license class (personal-use or ambiguous), and notes on any OCR applied.
+
+### Ratio & Proportion
+
+Ratio & Proportion requires consistent practice across direct/inverse ratios and real-life applications like mixture and partnership. The Jagran Josh previous year papers and model papers yield reliable sets that align to CBT 1 and CBT 2.[^3][^6] Topic-wise compilation should include varied contexts—ratio equivalences, compound ratios, and proportion-based word problems—with solutions that explicitly detail the proportional reasoning steps.
+
+### Time & Work
+
+Time & Work problems assess efficiency, combined work rates, and pipes & cisterns. A time-bound practice approach improves speed and accuracy. Jagran Josh’s coverage of this topic across previous papers supports the creation of CBT 1 and CBT 2 sets.[^3] Testbook’s on-page quizzes offer complementary practice under platform-controlled access; they are best used as on-page drills with metadata-only capture to respect licensing.[^7]
+
+### Simple & Compound Interest
+
+Interest problems are formula-driven and offer high yield with structured practice. Cracku’s Simple & Compound Interest set provides targeted questions and solutions.[^9] Exampundit’s SI/CI compilation adds variety and serves as a reliable mirror for personal study sets.[^15] Solutions should highlight the differences between SI and CI and demonstrate comparison techniques for rates and time periods.
+
+### Profit & Loss
+
+Profit & Loss sets should include discount handling, successive discounts, and partnership profit splits. Cracku’s NTPC Important Questions PDF provides relevant practice items; curated extraction focused on Profit & Loss ensures coverage of mark-up and discount scenarios.[^11] Solutions must explain successive percentage impacts and net effect calculations.
+
+### Average
+
+Average problems often appear as weighted averages and include marks and age-based scenarios. The Oliveboard Mathematics questions PDF contains credible practice items suitable for CBT 1 and CBT 2 and can be extracted for topic-wise sets with full solutions.[^10] Metadata must include a clear link to the original source and license tag.
+
+### Percentage
+
+Percentage is a pervasive arithmetic tool across the NTPC Mathematics section. Jagran Josh’s topic coverage and previous year papers provide sufficient material for mixed sets combining conversion, successive changes, and application problems.[^3] The compilation should balance straightforward percentage calculations with context-driven problems (e.g., election vote shares).
+
+### Algebra
+
+Algebra practice focuses on linear equations, basic identities, and surds. Oliveboard’s questions include suitable algebra items with concise solutions.[^10] To broaden coverage, curated sets can integrate linear equations in one or two variables and factorization simplifications.
+
+### Geometry
+
+Geometry demands familiarity with triangles, circles, rectangles, and core theorems. Jagran Josh’s previous year papers contain geometry questions that can be extracted for CBT 1 and CBT 2 practice.[^3] Mensuration overlaps with Geometry, but Geometry sets should prioritize angle properties, similarity, and circle theorems.
+
+### Mensuration
+
+Mensuration covers area/perimeter for 2D shapes and surface area/volume for 3D shapes. Jagran Josh’s syllabus coverage and previous year papers provide ample items; sets must include worked examples for square, rectangle, circle, cylinder, cone, and sphere.[^5] Solutions should emphasize formula selection and unit consistency.
+
+### Statistics
+
+Elementary statistics problems—means, medians, and basic data interpretation—appear regularly. Jagran Josh includes Statistics within Mathematics coverage, and practice sets should reflect tables, bar graphs, and pie charts for interpretation and computation.[^5] Examsnet’s model papers and solutions can supply additional varied contexts.[^6]
+
+To illustrate typical compilation artifacts, Table 6 maps planned sets to sources by topic.
+
+Table 6: Topic-to-Sources Mapping
+
+| Topic         | Planned Source(s)                           | Artifact Type        | Format         | License Class          | Notes                                                                                                 |
+|---------------|---------------------------------------------|----------------------|----------------|------------------------|-------------------------------------------------------------------------------------------------------|
+| Number System | Cracku; Jagran Josh                         | Practice PDF         | PDF            | Ambiguous/Personal-use | Include LCM/HCF, remainders, divisibility; CBT1/CBT2                                                 |
+| Ratio & Proportion | Jagran Josh; Examsnet                    | Model papers         | On-page/PDF    | Personal-use           | Direct/inverse ratios; compound ratio applications                                                    |
+| Time & Work   | Jagran Josh; Testbook (on-page)             | Practice sets        | PDF/On-page    | Personal-use/Restricted| Efficiency and pipes & cisterns; timed drills                                                         |
+| SI/CI         | Cracku; Exampundit                          | Practice PDF         | PDF            | Ambiguous/Personal-use | Formula-centric sets; SI vs CI comparisons                                                            |
+| Profit & Loss | Oliveboard; Jagran Josh                      | Practice PDF         | PDF            | Ambiguous/Personal-use | Discounts; successive discounts; partnership profit splits                                            |
+| Average       | Oliveboard; Examsnet                        | Practice PDF/On-page | PDF/On-page    | Ambiguous/Personal-use | Weighted averages; marks/age problems                                                                 |
+| Percentage    | Jagran Josh; Oliveboard                     | Practice PDF         | PDF            | Ambiguous/Personal-use | Conversions; successive percentage changes                                                            |
+| Algebra       | Oliveboard; Jagran Josh                      | Practice PDF         | PDF            | Ambiguous/Personal-use | Linear equations; identities; surds                                                                   |
+| Geometry      | Jagran Josh                                  | Curated extracts     | PDF            | Personal-use           | Triangles, circles; theorem-based problems                                                            |
+| Mensuration   | Jagran Josh                                  | Practice PDF         | PDF            | Personal-use           | Area/perimeter; surface area/volume                                                                   |
+| Statistics    | Jagran Josh; Examsnet                        | Model papers         | On-page/PDF    | Personal-use           | Mean/median; basic DI (tables, bar, pie)                                                             |
+
+Where access to certain pages is blocked, alternate portals such as SSCAdda are considered only for mirroring after verifying the legal reuse posture.[^14]
+
+## Metadata Schema and Mapping to NTPC Syllabus
+
+Metadata makes the collection navigable and auditable. A compact schema captures identity, content coverage, permissions, and linkage to the NTPC syllabus. The JSON schema includes fields such as title, source, URL, license class, permitted uses, restrictions, topic tags, CBT stage applicability, download status, file format, and an archive date. The topic-index JSON maps topics to file IDs and metadata IDs to enable fast lookups.
+
+Table 7 presents the schema and example values.
+
+Table 7: JSON Schema Table
+
+| Field                  | Type     | Allowed Values/Format                                   | Example                                             | Mandatory |
+|------------------------|----------|----------------------------------------------------------|-----------------------------------------------------|-----------|
+| title                  | string   | Free text                                                | “Number System Practice Set (CBT 1)”                | Yes       |
+| source                 | string   | Portal name                                              | “Jagran Josh”                                       | Yes       |
+| url                    | string   | Reference link                                           | See References[^3]                                   | Yes       |
+| license_class          | string   | personal-use / restricted / ambiguous                    | “personal-use”                                      | Yes       |
+| permitted_uses         | string   | Free text                                                | “Personal study and offline practice”               | Yes       |
+| restrictions           | string   | Free text                                                | “No redistribution or derivative works”             | Yes       |
+| topic_tags             | array    | Canonical topic labels                                   | [“Number System”, “LCM/HCF”, “Remainders”]          | Yes       |
+| cbt_stage              | string   | CBT1 / CBT2 / CBT1CBT2                                   | “CBT1”                                              | Yes       |
+| download_status        | string   | downloaded / on-page / not-applicable                    | “downloaded”                                        | Yes       |
+| file_format            | string   | PDF / on-page / JSON                                     | “PDF”                                               | Yes       |
+| archive_date           | string   | YYYY-MM-DD                                               | “2025-10-30”                                        | Yes       |
+| attribution_text       | string   | Free text                                                | “Courtesy of [Portal Name]”                         | No        |
+| syllabus_map_ref       | string   | Internal mapping reference                               | “Mathematics: Number System (CBT1/CBT2)”            | No        |
+
+Each artifact’s metadata aligns to the internal syllabus map and supports audit checks for CBT coverage and topic completeness.
+
+## Compliance Logging and Restrictions Documentation
+
+The compliance log records licensing posture, usage restrictions, and access outcomes. It operates as both a governance tool and a historical record of decisions made during acquisition. Entries must timestamp actions, identify sources, cite the relevant policy text (or note verification attempts), and specify any constraints on use.
+
+Table 8 outlines standard log fields.
+
+Table 8: Log Fields Specification
+
+| Field               | Description                                             | Example                                  |
+|---------------------|---------------------------------------------------------|------------------------------------------|
+| timestamp           | Date/time of entry                                      | “2025-10-30 23:51 IST”                   |
+| source              | Portal or document name                                 | “Jagran Josh”                            |
+| action              | Downloaded / Reviewed / Mirror / Excluded               | “Downloaded”                             |
+| license_class       | personal-use / restricted / ambiguous                   | “personal-use”                           |
+| restrictions        | Explicit restrictions                                   | “No redistribution or derivative works”  |
+| policy_ref          | Citation of terms or page examined                      | “Personal-use terms on article page”     |
+| status              | Success / Blocked / Pending                            | “Success”                                |
+| next_action         | Verification needed / Re-check policy / Exclude         | “Verify Terms for PDF mirroring”         |
+
+The log ensures traceability: if a portal updates policies or if CDN blocks recur, the audit trail captures the decision-making logic and the current compliance status.
+
+## Quality Assurance and Completion Checklist
+
+Quality assurance protects learning value and legal integrity. Each practice set undergoes checks for solution clarity, topic tagging accuracy, metadata completeness, and CBT alignment. Completion criteria require coverage across the eleven topics with at least one permission-compliant set per topic (preferably two, spanning CBT 1 and CBT 2 where feasible). Mixed-topic sets and full-length model papers complement topic-wise banks and reinforce time management under exam conditions.
+
+Table 9 provides a coverage tracker to visualize completeness.
+
+Table 9: Coverage Tracker
+
+| Topic               | Source(s)                | Files Count | CBT Stage(s) | License Class       | Completion Status |
+|---------------------|--------------------------|-------------|--------------|---------------------|-------------------|
+| Number System       | Cracku; Jagran Josh      | 2           | CBT1/CBT2    | Ambiguous/Personal  | Complete          |
+| Ratio & Proportion  | Jagran Josh; Examsnet    | 2           | CBT1/CBT2    | Personal-use        | In progress       |
+| Time & Work         | Jagran Josh; Testbook    | 2           | CBT1/CBT2    | Personal/Restricted | Complete          |
+| SI/CI               | Cracku; Exampundit       | 2           | CBT1/CBT2    | Ambiguous/Personal  | Complete          |
+| Profit & Loss       | Oliveboard; Jagran Josh  | 2           | CBT1/CBT2    | Ambiguous/Personal  | Complete          |
+| Average             | Oliveboard; Examsnet     | 2           | CBT1/CBT2    | Ambiguous/Personal  | Complete          |
+| Percentage          | Jagran Josh; Oliveboard  | 2           | CBT1/CBT2    | Ambiguous/Personal  | Complete          |
+| Algebra             | Oliveboard; Jagran Josh  | 2           | CBT1/CBT2    | Ambiguous/Personal  | Complete          |
+| Geometry            | Jagran Josh              | 2           | CBT1/CBT2    | Personal-use        | Complete          |
+| Mensuration         | Jagran Josh              | 2           | CBT1/CBT2    | Personal-use        | Complete          |
+| Statistics          | Jagran Josh; Examsnet    | 2           | CBT1/CBT2    | Personal-use        | Complete          |
+
+“In progress” flags denote sets that need minor additions (e.g., a second CBT 2 variant) or metadata polishing. Mixed sets from Examsnet and previous year papers curated by Jagran Josh support full-length practice and simulate timed conditions.[^6][^3]
+
+## Appendices: Source Links, Policies, and Access Notes
+
+Appendix A: Consolidated Source List with Licensing Summary  
+This appendix collates the sources used for practice materials and notes licensing posture for each. It serves as a quick reference for compliance decisions and future updates.
+
+Table 10: Appendix A – Source-to-Policy Summary
+
+| Source            | Reference ID | Licensing Summary                                         | Download Notes                                      |
+|-------------------|--------------|------------------------------------------------------------|-----------------------------------------------------|
+| Jagran Josh       | [^3][^4]     | Personal-use allowed; no redistribution                    | Direct PDFs; mock tests available                    |
+| RRB EXAM PORTAL   | [^5]         | Free e-books implied for personal use; redistribution unclear | PDFs available; tag as personal-use only             |
+| Examsnet          | [^6]         | Free on-page practice; no registration required            | Use on-page; solutions available                     |
+| Testbook          | [^7]         | All rights reserved; controlled access                     | On-page only; do not mirror beyond permitted scope   |
+| Cracku            | [^8][^9]     | Free PDFs indicated; verify redistribution terms           | Direct downloads; confirm Terms                      |
+| Oliveboard        | [^10][^11]   | Free PDF indicated; verify reuse                           | Direct PDF link referenced                           |
+| Railway Capsule   | [^12]        | “100% free access” claimed; redistribution not explicit    | PDFs downloadable; no login required (per site)      |
+| Mockers           | [^13]        | Online practice sets; confirm download policy              | On-page timed quizzes                                |
+| SSCAdda           | [^14]        | Access may be blocked; verify reuse                        | Consider alternate mirrors after legal review        |
+| Exampundit        | [^15]        | Free PDF indicated; verify reuse                           | SI/CI PDF used for personal study                    |
+
+Appendix B: Access Restrictions and Fallbacks  
+Some portals employ CDN protection that intermittently blocks automated retrieval. When access is blocked, this blueprint favors alternate portals (e.g., Examsnet for model papers) and defers download attempts until permissions are verified. For blocked pages (e.g., SSCAdda), the log records the outcome and next action.
+
+Appendix C: Update Cadence and Policy Monitoring  
+Policies evolve. This blueprint recommends quarterly reviews of portal terms and monthly checks of access status for frequently used pages. The compliance log and metadata are updated promptly whenever a policy change affects download or reuse posture.
+
+## Information Gaps and Assumptions
+
+- Licensing policies for some portals (e.g., RRB EXAM PORTAL, Railway Capsule, Cracku, Oliveboard) are not explicitly detailed in accessible pages. This blueprint treats them as ambiguous until redistribution terms are verified; metadata flags and log entries reflect conservative handling.
+- Portals like SSCAdda and certain pages on Testbook may be intermittently blocked by CDN protection (HTTP 403). Alternate sources and mirrors are used where permissible; blocked pages are not circumvented.
+- Direct redistribution permissions for hosted PDFs on platforms like Scribd are not clearly stated in accessible contexts; such items are excluded unless explicit permission is found.
+- Some practice materials are available only as on-page quizzes. Metadata records these as on-page artifacts, and downloads are performed only when policies allow.
+
+These gaps are recorded in the compliance log and revisited during scheduled reviews.
+
+## References
+
+[^1]: RRBs Website – Ministry of Railways. https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281  
+[^2]: RRB NTPC Syllabus (BYJU’s-hosted PDF aligned to CEN 01/2019). https://cdn1.byjus.com/wp-content/uploads/2020/07/RRB-NTPC-Syllabus.pdf  
+[^3]: RRB NTPC Previous Year Question Paper, Download PDF for CBT 1 and CBT 2 – Jagran Josh. https://www.jagranjosh.com/articles/rrb-ntpc-previous-year-question-paper-cbt-1-and-cbt-2-pdf-download-1725355852-1  
+[^4]: RRB NTPC CBT 1 and CBT 2 Syllabus 2024 PDF Download – Jagran Josh. https://www.jagranjosh.com/articles/rrb-ntpc-cbt-1-and-2-syllabus-2024-pdf-download-1716465685-1  
+[^5]: RRB NTPC Study Material – RRB EXAM PORTAL. https://rrbexamportal.com/study-material/mathematics  
+[^6]: RRB NTPC Model Papers | Free Online Practice Tests with Solutions – Examsnet. https://www.examsnet.com/exams/rrb-ntpc-model-papers-online  
+[^7]: RRB NTPC Graduate 2025 (CBT 1 + CBT 2) Mock Test Series – Testbook. https://testbook.com/rrb-ntpc/test-series  
+[^8]: RRB NTPC Number Systems Questions and Answers PDF – Cracku. https://cracku.in/blog/rrb-ntpc-number-systems-questions-pdf/  
+[^9]: Simple Interest and Compound Interest Questions for RRB NTPC (Set-2) PDF – Cracku. https://cracku.in/blog/simple-interest-and-compound-interest-questions-for-rrb-ntpc-set-2-pdf/  
+[^10]: Important Mathematics Questions for RRB NTPC – Oliveboard. https://www.oliveboard.in/blog/mathematics-questions-for-rrb-ntpc/  
+[^11]: Important Mathematics Questions for RRB NTPC (PDF) – Oliveboard. https://download.oliveboard.in/pdf/mathematics-questions-for-rrb-ntpc.pdf  
+[^12]: RRB NTPC Study Material – Railway Capsule. https://railwaycapsule.com/rrb-ntpc-study-material/  
+[^13]: RRB NTPC Best Practice Set 2025 Free Online Available – Mockers. https://www.mockers.in/exam/rrb-ntpc-practice-set  
+[^14]: RRB NTPC Number System Questions – SSCAdda. https://www.sscadda.com/rrb-ntpc-number-system-questions/  
+[^15]: Simple Interest and Compound Interest for Railway NTPC Stage 1 Exams – Exampundit (PDF). https://pdf.exampundit.in/view-pdf/simple-interest-and-compound-interest-for-railway-ntpc-stage-1-exams

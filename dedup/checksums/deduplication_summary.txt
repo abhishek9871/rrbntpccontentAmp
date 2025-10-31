@@ -1,0 +1,18 @@
+COMPREHENSIVE DEDUPLICATION SUMMARY REPORT
+==================================================
+Generated: 2025-10-31 02:51:00
+
+STATISTICS:
+Total files processed: 471
+Files kept: 241
+Files removed: 230
+Exact duplicates removed: 38
+Near duplicates removed: 393
+Total duplicates removed: 431
+
+SOURCE PRIORITY DISTRIBUTION:
+  Official RRB: 278 files
+  Government OER: 111 files
+  Open Source: 82 files
+
+DEDUPLICATION RATE: 48.8%

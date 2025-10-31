@@ -1,0 +1,19 @@
+{
+  "title": "Subhas_Chandra_Bose",
+  "source_url": "https://en.wikipedia.org/wiki/Subhas_Chandra_Bose",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Subhas_Chandra_Bose",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:31:13.053837",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "ae09870de832e7775e5a27dfe3e8ba6a",
+  "checksum_sha256": "07ac86f60b4c37ca0d3dd34bb444edecb7e36c3cb072dfb37e08d26d2d72d65d"
+}

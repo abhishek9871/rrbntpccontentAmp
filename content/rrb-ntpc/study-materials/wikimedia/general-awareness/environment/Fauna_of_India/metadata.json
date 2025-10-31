@@ -1,0 +1,19 @@
+{
+  "title": "Fauna_of_India",
+  "source_url": "https://en.wikipedia.org/wiki/Fauna_of_India",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Fauna_of_India",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:38:06.926122",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "ec147a1b291148cb68b9ab4160c60f43",
+  "checksum_sha256": "7f0b9d878db8a2b22369ca796986ac5a0e4000c42791a7c43b3ad0bc100166db"
+}

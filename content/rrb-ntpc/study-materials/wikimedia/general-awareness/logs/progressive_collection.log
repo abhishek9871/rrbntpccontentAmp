@@ -1,0 +1,230 @@
+2025-10-30 22:14:28,754 - INFO - Starting progressive Wikipedia content collection...
+2025-10-30 22:14:28,754 - INFO - Rate limiting: 5s between requests
+2025-10-30 22:14:28,754 - INFO - Batch size: 3 articles per batch
+2025-10-30 22:14:28,754 - INFO - 
+--- Processing domain: indian-history ---
+2025-10-30 22:14:28,754 - INFO - Articles to process: 5
+2025-10-30 22:14:28,754 - INFO - Already collected: 4
+2025-10-30 22:14:28,754 - INFO - Processing batch 1: ['Outline_of_ancient_India', 'Medieval_India', 'Indian_independence_movement']
+2025-10-30 22:14:28,754 - INFO - Collecting content for indian-history/Outline_of_ancient_India
+2025-10-30 22:14:33,784 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Outline_of_ancient_India
+2025-10-30 22:14:33,784 - ERROR - Error getting content for Outline_of_ancient_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Outline_of_ancient_India
+2025-10-30 22:14:33,785 - WARNING - ⚠️ Could not collect content, creating framework for: Outline_of_ancient_India
+2025-10-30 22:14:38,814 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Outline_of_ancient_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:14:38,814 - WARNING - Could not get metadata for Outline_of_ancient_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Outline_of_ancient_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:14:38,830 - INFO - Saved: indian-history/Outline_of_ancient_India
+2025-10-30 22:14:38,830 - INFO - Collecting content for indian-history/Medieval_India
+2025-10-30 22:14:43,866 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Medieval_India
+2025-10-30 22:14:43,866 - ERROR - Error getting content for Medieval_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Medieval_India
+2025-10-30 22:14:43,867 - WARNING - ⚠️ Could not collect content, creating framework for: Medieval_India
+2025-10-30 22:14:48,897 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Medieval_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:14:48,897 - WARNING - Could not get metadata for Medieval_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Medieval_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:14:48,915 - INFO - Saved: indian-history/Medieval_India
+2025-10-30 22:14:48,915 - INFO - Collecting content for indian-history/Indian_independence_movement
+2025-10-30 22:14:54,956 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Indian_independence_movement
+2025-10-30 22:14:54,956 - ERROR - Error getting content for Indian_independence_movement: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Indian_independence_movement
+2025-10-30 22:14:54,956 - WARNING - ⚠️ Could not collect content, creating framework for: Indian_independence_movement
+2025-10-30 22:14:59,988 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_independence_movement&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:14:59,988 - WARNING - Could not get metadata for Indian_independence_movement: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_independence_movement&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:15:00,006 - INFO - Saved: indian-history/Indian_independence_movement
+2025-10-30 22:15:00,006 - INFO - Batch completed. Waiting 10 seconds...
+2025-10-30 22:15:10,006 - INFO - Processing batch 2: ['List_of_Indian_independence_activists', 'Subhas_Chandra_Bose']
+2025-10-30 22:15:10,007 - INFO - Collecting content for indian-history/List_of_Indian_independence_activists
+2025-10-30 22:15:15,041 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/List_of_Indian_independence_activists
+2025-10-30 22:15:15,041 - ERROR - Error getting content for List_of_Indian_independence_activists: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/List_of_Indian_independence_activists
+2025-10-30 22:15:15,042 - WARNING - ⚠️ Could not collect content, creating framework for: List_of_Indian_independence_activists
+2025-10-30 22:15:20,087 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=List_of_Indian_independence_activists&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:15:20,087 - WARNING - Could not get metadata for List_of_Indian_independence_activists: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=List_of_Indian_independence_activists&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:15:20,109 - INFO - Saved: indian-history/List_of_Indian_independence_activists
+2025-10-30 22:15:20,109 - INFO - Collecting content for indian-history/Subhas_Chandra_Bose
+2025-10-30 22:15:25,140 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Subhas_Chandra_Bose
+2025-10-30 22:15:25,140 - ERROR - Error getting content for Subhas_Chandra_Bose: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Subhas_Chandra_Bose
+2025-10-30 22:15:25,141 - WARNING - ⚠️ Could not collect content, creating framework for: Subhas_Chandra_Bose
+2025-10-30 22:15:30,387 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Subhas_Chandra_Bose&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:15:30,387 - WARNING - Could not get metadata for Subhas_Chandra_Bose: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Subhas_Chandra_Bose&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:15:30,411 - INFO - Saved: indian-history/Subhas_Chandra_Bose
+2025-10-30 22:15:30,411 - INFO - 
+--- Processing domain: geography ---
+2025-10-30 22:15:30,411 - INFO - Articles to process: 2
+2025-10-30 22:15:30,411 - INFO - Already collected: 6
+2025-10-30 22:15:30,411 - INFO - Processing batch 1: ['Indian_subcontinent', 'Geography_of_South_India']
+2025-10-30 22:15:30,411 - INFO - Collecting content for geography/Indian_subcontinent
+2025-10-30 22:15:35,440 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Indian_subcontinent
+2025-10-30 22:15:35,440 - ERROR - Error getting content for Indian_subcontinent: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Indian_subcontinent
+2025-10-30 22:15:35,440 - WARNING - ⚠️ Could not collect content, creating framework for: Indian_subcontinent
+2025-10-30 22:15:40,468 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_subcontinent&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:15:40,468 - WARNING - Could not get metadata for Indian_subcontinent: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_subcontinent&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:15:40,488 - INFO - Saved: geography/Indian_subcontinent
+2025-10-30 22:15:40,488 - INFO - Collecting content for geography/Geography_of_South_India
+2025-10-30 22:15:45,518 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Geography_of_South_India
+2025-10-30 22:15:45,518 - ERROR - Error getting content for Geography_of_South_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Geography_of_South_India
+2025-10-30 22:15:45,518 - WARNING - ⚠️ Could not collect content, creating framework for: Geography_of_South_India
+2025-10-30 22:15:51,395 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Geography_of_South_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:15:51,395 - WARNING - Could not get metadata for Geography_of_South_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Geography_of_South_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:15:51,413 - INFO - Saved: geography/Geography_of_South_India
+2025-10-30 22:15:51,413 - INFO - 
+--- Processing domain: polity ---
+2025-10-30 22:15:51,413 - INFO - Articles to process: 1
+2025-10-30 22:15:51,413 - INFO - Already collected: 6
+2025-10-30 22:15:51,413 - INFO - Processing batch 1: ['Judicial_review_in_India']
+2025-10-30 22:15:51,413 - INFO - Collecting content for polity/Judicial_review_in_India
+2025-10-30 22:15:57,074 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Judicial_review_in_India
+2025-10-30 22:15:57,074 - ERROR - Error getting content for Judicial_review_in_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Judicial_review_in_India
+2025-10-30 22:15:57,075 - WARNING - ⚠️ Could not collect content, creating framework for: Judicial_review_in_India
+2025-10-30 22:16:02,323 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Judicial_review_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:02,323 - WARNING - Could not get metadata for Judicial_review_in_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Judicial_review_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:02,342 - INFO - Saved: polity/Judicial_review_in_India
+2025-10-30 22:16:02,342 - INFO - 
+--- Processing domain: economy ---
+2025-10-30 22:16:02,342 - INFO - Articles to process: 2
+2025-10-30 22:16:02,342 - INFO - Already collected: 4
+2025-10-30 22:16:02,342 - INFO - Processing batch 1: ['Payment_and_settlement_systems_in_India', 'List_of_banks_in_India']
+2025-10-30 22:16:02,342 - INFO - Collecting content for economy/Payment_and_settlement_systems_in_India
+2025-10-30 22:16:08,391 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Payment_and_settlement_systems_in_India
+2025-10-30 22:16:08,394 - ERROR - Error getting content for Payment_and_settlement_systems_in_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Payment_and_settlement_systems_in_India
+2025-10-30 22:16:08,395 - WARNING - ⚠️ Could not collect content, creating framework for: Payment_and_settlement_systems_in_India
+2025-10-30 22:16:13,427 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Payment_and_settlement_systems_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:13,427 - WARNING - Could not get metadata for Payment_and_settlement_systems_in_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Payment_and_settlement_systems_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:13,446 - INFO - Saved: economy/Payment_and_settlement_systems_in_India
+2025-10-30 22:16:13,447 - INFO - Collecting content for economy/List_of_banks_in_India
+2025-10-30 22:16:18,475 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/List_of_banks_in_India
+2025-10-30 22:16:18,475 - ERROR - Error getting content for List_of_banks_in_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/List_of_banks_in_India
+2025-10-30 22:16:18,476 - WARNING - ⚠️ Could not collect content, creating framework for: List_of_banks_in_India
+2025-10-30 22:16:23,508 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=List_of_banks_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:23,508 - WARNING - Could not get metadata for List_of_banks_in_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=List_of_banks_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:23,537 - INFO - Saved: economy/List_of_banks_in_India
+2025-10-30 22:16:23,537 - INFO - 
+--- Processing domain: environment ---
+2025-10-30 22:16:23,537 - INFO - Articles to process: 1
+2025-10-30 22:16:23,537 - INFO - Already collected: 4
+2025-10-30 22:16:23,537 - INFO - Processing batch 1: ['Fauna_of_India']
+2025-10-30 22:16:23,537 - INFO - Collecting content for environment/Fauna_of_India
+2025-10-30 22:16:28,565 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Fauna_of_India
+2025-10-30 22:16:28,565 - ERROR - Error getting content for Fauna_of_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Fauna_of_India
+2025-10-30 22:16:28,566 - WARNING - ⚠️ Could not collect content, creating framework for: Fauna_of_India
+2025-10-30 22:16:33,822 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Fauna_of_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:33,822 - WARNING - Could not get metadata for Fauna_of_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Fauna_of_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:33,842 - INFO - Saved: environment/Fauna_of_India
+2025-10-30 22:16:33,842 - INFO - 
+--- Processing domain: culture ---
+2025-10-30 22:16:33,842 - INFO - Articles to process: 2
+2025-10-30 22:16:33,842 - INFO - Already collected: 0
+2025-10-30 22:16:33,842 - INFO - Processing batch 1: ['Culture_of_India', 'Indian_literature']
+2025-10-30 22:16:33,842 - INFO - Collecting content for culture/Culture_of_India
+2025-10-30 22:16:38,871 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Culture_of_India
+2025-10-30 22:16:38,871 - ERROR - Error getting content for Culture_of_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Culture_of_India
+2025-10-30 22:16:38,872 - WARNING - ⚠️ Could not collect content, creating framework for: Culture_of_India
+2025-10-30 22:16:43,904 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Culture_of_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:43,904 - WARNING - Could not get metadata for Culture_of_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Culture_of_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:43,944 - INFO - Saved: culture/Culture_of_India
+2025-10-30 22:16:43,944 - INFO - Collecting content for culture/Indian_literature
+2025-10-30 22:16:49,179 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Indian_literature
+2025-10-30 22:16:49,179 - ERROR - Error getting content for Indian_literature: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Indian_literature
+2025-10-30 22:16:49,179 - WARNING - ⚠️ Could not collect content, creating framework for: Indian_literature
+2025-10-30 22:16:54,435 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_literature&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:54,435 - WARNING - Could not get metadata for Indian_literature: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_literature&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:16:54,458 - INFO - Saved: culture/Indian_literature
+2025-10-30 22:16:54,458 - INFO - 
+--- Processing domain: organizations ---
+2025-10-30 22:16:54,458 - INFO - Articles to process: 2
+2025-10-30 22:16:54,458 - INFO - Already collected: 2
+2025-10-30 22:16:54,458 - INFO - Processing batch 1: ['International_organization', 'Member_states_of_the_United_Nations']
+2025-10-30 22:16:54,458 - INFO - Collecting content for organizations/International_organization
+2025-10-30 22:16:59,705 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/International_organization
+2025-10-30 22:16:59,705 - ERROR - Error getting content for International_organization: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/International_organization
+2025-10-30 22:16:59,706 - WARNING - ⚠️ Could not collect content, creating framework for: International_organization
+2025-10-30 22:17:05,953 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=International_organization&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:05,954 - WARNING - Could not get metadata for International_organization: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=International_organization&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:05,977 - INFO - Saved: organizations/International_organization
+2025-10-30 22:17:05,977 - INFO - Collecting content for organizations/Member_states_of_the_United_Nations
+2025-10-30 22:17:11,011 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Member_states_of_the_United_Nations
+2025-10-30 22:17:11,011 - ERROR - Error getting content for Member_states_of_the_United_Nations: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Member_states_of_the_United_Nations
+2025-10-30 22:17:11,012 - WARNING - ⚠️ Could not collect content, creating framework for: Member_states_of_the_United_Nations
+2025-10-30 22:17:16,252 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Member_states_of_the_United_Nations&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:16,252 - WARNING - Could not get metadata for Member_states_of_the_United_Nations: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Member_states_of_the_United_Nations&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:16,270 - INFO - Saved: organizations/Member_states_of_the_United_Nations
+2025-10-30 22:17:16,270 - INFO - 
+--- Processing domain: science-technology ---
+2025-10-30 22:17:16,270 - INFO - Articles to process: 1
+2025-10-30 22:17:16,271 - INFO - Already collected: 6
+2025-10-30 22:17:16,271 - INFO - Processing batch 1: ['Vikram_Sarabhai']
+2025-10-30 22:17:16,271 - INFO - Collecting content for science-technology/Vikram_Sarabhai
+2025-10-30 22:17:21,323 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Vikram_Sarabhai
+2025-10-30 22:17:21,323 - ERROR - Error getting content for Vikram_Sarabhai: 403 Client Error: Forbidden for url: https://en.wikipedia.org/api/rest_v1/page/summary/Vikram_Sarabhai
+2025-10-30 22:17:21,323 - WARNING - ⚠️ Could not collect content, creating framework for: Vikram_Sarabhai
+2025-10-30 22:17:26,355 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Vikram_Sarabhai&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:26,355 - WARNING - Could not get metadata for Vikram_Sarabhai: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Vikram_Sarabhai&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:26,385 - INFO - Saved: science-technology/Vikram_Sarabhai
+2025-10-30 22:17:26,385 - INFO - 
+--- Creating frameworks for remaining articles ---
+2025-10-30 22:17:26,385 - INFO - Creating framework: indian-history/Outline_of_ancient_India
+2025-10-30 22:17:31,634 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Outline_of_ancient_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:31,634 - WARNING - Could not get metadata for Outline_of_ancient_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Outline_of_ancient_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:31,657 - INFO - Saved: indian-history/Outline_of_ancient_India
+2025-10-30 22:17:31,657 - INFO - Creating framework: indian-history/Medieval_India
+2025-10-30 22:17:37,690 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Medieval_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:37,690 - WARNING - Could not get metadata for Medieval_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Medieval_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:37,705 - INFO - Saved: indian-history/Medieval_India
+2025-10-30 22:17:37,705 - INFO - Creating framework: indian-history/Indian_independence_movement
+2025-10-30 22:17:42,752 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_independence_movement&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:42,753 - WARNING - Could not get metadata for Indian_independence_movement: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_independence_movement&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:42,776 - INFO - Saved: indian-history/Indian_independence_movement
+2025-10-30 22:17:42,776 - INFO - Creating framework: indian-history/List_of_Indian_independence_activists
+2025-10-30 22:17:47,805 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=List_of_Indian_independence_activists&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:47,805 - WARNING - Could not get metadata for List_of_Indian_independence_activists: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=List_of_Indian_independence_activists&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:47,821 - INFO - Saved: indian-history/List_of_Indian_independence_activists
+2025-10-30 22:17:47,821 - INFO - Creating framework: indian-history/Subhas_Chandra_Bose
+2025-10-30 22:17:52,848 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Subhas_Chandra_Bose&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:52,848 - WARNING - Could not get metadata for Subhas_Chandra_Bose: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Subhas_Chandra_Bose&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:52,863 - INFO - Saved: indian-history/Subhas_Chandra_Bose
+2025-10-30 22:17:52,863 - INFO - Creating framework: geography/Indian_subcontinent
+2025-10-30 22:17:57,893 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_subcontinent&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:57,893 - WARNING - Could not get metadata for Indian_subcontinent: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_subcontinent&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:17:57,907 - INFO - Saved: geography/Indian_subcontinent
+2025-10-30 22:17:57,908 - INFO - Creating framework: geography/Geography_of_South_India
+2025-10-30 22:18:02,937 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Geography_of_South_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:02,937 - WARNING - Could not get metadata for Geography_of_South_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Geography_of_South_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:02,950 - INFO - Saved: geography/Geography_of_South_India
+2025-10-30 22:18:02,951 - INFO - Creating framework: polity/Judicial_review_in_India
+2025-10-30 22:18:07,979 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Judicial_review_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:07,979 - WARNING - Could not get metadata for Judicial_review_in_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Judicial_review_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:08,009 - INFO - Saved: polity/Judicial_review_in_India
+2025-10-30 22:18:08,009 - INFO - Creating framework: economy/Payment_and_settlement_systems_in_India
+2025-10-30 22:18:13,038 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Payment_and_settlement_systems_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:13,038 - WARNING - Could not get metadata for Payment_and_settlement_systems_in_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Payment_and_settlement_systems_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:13,056 - INFO - Saved: economy/Payment_and_settlement_systems_in_India
+2025-10-30 22:18:13,056 - INFO - Creating framework: economy/List_of_banks_in_India
+2025-10-30 22:18:18,088 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=List_of_banks_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:18,088 - WARNING - Could not get metadata for List_of_banks_in_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=List_of_banks_in_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:18,107 - INFO - Saved: economy/List_of_banks_in_India
+2025-10-30 22:18:18,107 - INFO - Creating framework: environment/Fauna_of_India
+2025-10-30 22:18:23,232 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Fauna_of_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:23,232 - WARNING - Could not get metadata for Fauna_of_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Fauna_of_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:23,325 - INFO - Saved: environment/Fauna_of_India
+2025-10-30 22:18:23,325 - INFO - Creating framework: culture/Culture_of_India
+2025-10-30 22:18:28,353 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Culture_of_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:28,353 - WARNING - Could not get metadata for Culture_of_India: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Culture_of_India&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:28,368 - INFO - Saved: culture/Culture_of_India
+2025-10-30 22:18:28,368 - INFO - Creating framework: culture/Indian_literature
+2025-10-30 22:18:33,410 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_literature&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:33,410 - WARNING - Could not get metadata for Indian_literature: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Indian_literature&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:33,428 - INFO - Saved: culture/Indian_literature
+2025-10-30 22:18:33,428 - INFO - Creating framework: organizations/International_organization
+2025-10-30 22:18:38,459 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=International_organization&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:38,459 - WARNING - Could not get metadata for International_organization: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=International_organization&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:38,473 - INFO - Saved: organizations/International_organization
+2025-10-30 22:18:38,473 - INFO - Creating framework: organizations/Member_states_of_the_United_Nations
+2025-10-30 22:18:43,507 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Member_states_of_the_United_Nations&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:43,507 - WARNING - Could not get metadata for Member_states_of_the_United_Nations: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Member_states_of_the_United_Nations&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:43,522 - INFO - Saved: organizations/Member_states_of_the_United_Nations
+2025-10-30 22:18:43,522 - INFO - Creating framework: science-technology/Vikram_Sarabhai
+2025-10-30 22:18:48,550 - ERROR - HTTP error 403: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Vikram_Sarabhai&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:48,550 - WARNING - Could not get metadata for Vikram_Sarabhai: 403 Client Error: Forbidden for url: https://en.wikipedia.org/w/api.php?format=json&titles=Vikram_Sarabhai&prop=info%7Crevisions&inprop=url&rvlimit=1&rvprop=ids%7Ctimestamp%7Ccomment%7Cuser%7Cuserid&redirects=1
+2025-10-30 22:18:48,565 - INFO - Saved: science-technology/Vikram_Sarabhai
+2025-10-30 22:18:48,565 - INFO - 
+🎯 Collection Summary:
+2025-10-30 22:18:48,565 - INFO -    Total articles processed: 16
+2025-10-30 22:18:48,565 - INFO -    Articles with full content: 16
+2025-10-30 22:18:48,565 - INFO -    Framework articles created: 16
+2025-10-30 22:18:48,565 - INFO -    Collection completed: 2025-10-30 22:18:48 UTC
+2025-10-30 22:18:48,565 - INFO - ✅ Progressive collection completed successfully!

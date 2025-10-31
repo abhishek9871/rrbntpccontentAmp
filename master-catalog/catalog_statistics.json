@@ -1,0 +1,28 @@
+{
+  "total_entries": 235,
+  "format_distribution": {
+    "Markdown": 37,
+    "PDF": 161,
+    "JSON": 24,
+    "Archive": 4,
+    "Text": 2,
+    "Web Portal": 7
+  },
+  "language_distribution": {
+    "Unknown": 224,
+    "English": 6,
+    "English and Hindi": 5
+  },
+  "content_type_distribution": {
+    "diksha_platform": 136,
+    "practice_sets": 67,
+    "official_documents": 10,
+    "study_materials": 15,
+    "government_portals": 7
+  },
+  "license_distribution": {
+    "CC BY 4.0": 136,
+    "Unknown": 92,
+    "Government Official": 7
+  }
+}

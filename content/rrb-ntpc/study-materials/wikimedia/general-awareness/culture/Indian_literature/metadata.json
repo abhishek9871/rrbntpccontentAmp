@@ -1,0 +1,19 @@
+{
+  "title": "Indian_literature",
+  "source_url": "https://en.wikipedia.org/wiki/Indian_literature",
+  "page_id": null,
+  "revision_id": null,
+  "revision_timestamp": null,
+  "language": "en",
+  "dump_run_id": "enwiki-2025-10-30",
+  "snapshot_type": "hybrid_collection",
+  "license_text": "CC BY-SA 3.0 (also GFDL for legacy coverage)",
+  "attribution_text": "Wikipedia contributors for Indian_literature",
+  "media_license_summary": "Individual images may carry different licenses; see media.json for per-file details",
+  "capture_timestamp": "2025-10-30T22:39:58.306034",
+  "integrity_notes": "Collected via fallback_generation",
+  "collection_method": "fallback_generation",
+  "related_pages": [],
+  "checksum_md5": "66a617249e71b836ac75d78416998ec1",
+  "checksum_sha256": "237e3b74f3979ed648c93dec7398f5fb775ef71d8c2d8274574afbcd4367aa1c"
+}
